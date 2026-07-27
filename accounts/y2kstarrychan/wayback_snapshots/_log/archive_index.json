@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-27T21:32:51",
+  "last_updated": "2026-07-27T21:33:10",
   "html": {
     "https://web.archive.org/web/20250703065029if_/https://twitter.com/y2kstarrychan/status/1940664425842987517": {
       "status": "done",
@@ -12848,9 +12848,9 @@
       "referenced_by": [
         "20250812050224_twitter_com_y2kstarrychan_status_1955132741382812132.json"
       ],
-      "last_updated": "2026-07-27T21:02:54",
+      "last_updated": "2026-07-27T21:33:10",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250812050224/https://video.twimg.com/amplify_video/1955125553956261889/vid/avc1/758x720/AXAwLJEX4_FWT-6S.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/GyILYOJaUAAD8gC.mp4": {
       "status": "done",
