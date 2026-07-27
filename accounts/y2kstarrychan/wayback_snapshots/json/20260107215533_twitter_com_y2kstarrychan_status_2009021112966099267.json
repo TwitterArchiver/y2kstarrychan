@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2008933979760759140",
+    "created_at": "2026-01-07T21:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T22:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009021112966099267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1991364416823259139",
+          "start": 0,
+          "username": "NikaidoHiro0110"
+        },
+        {
+          "end": 28,
+          "id": "1682967034311888896",
+          "start": 17,
+          "username": "mortis_sss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009021112966099267",
+    "in_reply_to_user_id": "1991364416823259139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008961774805291365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NikaidoHiro0110 @mortis_sss 我給你帶一組m7的ap彈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2008933979760759140",
+        "created_at": "2026-01-07T21:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T22:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009021112966099267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1991364416823259139",
+              "start": 0,
+              "username": "NikaidoHiro0110"
+            },
+            {
+              "end": 28,
+              "id": "1682967034311888896",
+              "start": 17,
+              "username": "mortis_sss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009021112966099267",
+        "in_reply_to_user_id": "1991364416823259139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008961774805291365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NikaidoHiro0110 @mortis_sss 我給你帶一組m7的ap彈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991364416823259139",
+        "conversation_id": "2008933979760759140",
+        "created_at": "2026-01-07T17:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T18:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008961774805291365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1682967034311888896",
+              "start": 0,
+              "username": "mortis_sss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008961774805291365",
+        "in_reply_to_user_id": "1682967034311888896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008961679422537964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mortis_sss 你帮我带一组aw子弹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3015,
+          "following_count": 681,
+          "like_count": 47325,
+          "listed_count": 5,
+          "media_count": 143,
+          "tweet_count": 4201
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T04:34:18.000Z",
+        "description": "喜欢观察人类 喜欢认识有意思的人 b站：https://t.co/D8SULUCESy 男",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/kTDbwUY",
+                "end": 43,
+                "expanded_url": "https://b23.tv/kTDbwUY",
+                "start": 20,
+                "url": "https://t.co/D8SULUCESy"
+              }
+            ]
+          }
+        },
+        "id": "1991364416823259139",
+        "name": "Nikaido Hiro",
+        "pinned_tweet_id": "2008614281743597642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991365556956807168/b84rccpy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1711,
+          "following_count": 479,
+          "like_count": 4380,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 1322
+        },
+        "username": "NikaidoHiro0110",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T04:13:15.000Z",
+        "description": "主播没门槛 高二生cos也是感兴趣偷偷出的 主播比较社恐有时候会不知道回什么不是不回 只发推墙内全是盗图 没其它衣服了目前只能靠擦边过日了",
+        "id": "1682967034311888896",
+        "location": "America",
+        "name": "睦子米",
+        "pinned_tweet_id": "2000632426671018155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003372230684889088/O_TiQbFN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4637,
+          "following_count": 152,
+          "like_count": 871,
+          "listed_count": 10,
+          "media_count": 91,
+          "tweet_count": 102
+        },
+        "username": "mortis_sss",
+        "verified": false
+      }
+    ]
+  }
+}

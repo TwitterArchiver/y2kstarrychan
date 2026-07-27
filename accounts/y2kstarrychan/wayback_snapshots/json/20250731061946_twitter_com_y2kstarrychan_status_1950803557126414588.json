@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950801972740988928",
+        "3_1950801970975109120",
+        "3_1950801971721740288",
+        "3_1950801973160378369"
+      ],
+      "media_source_tweet_id": [
+        "1950801976020644246",
+        "1950801976020644246",
+        "1950801976020644246",
+        "1950801976020644246"
+      ]
+    },
+    "author_id": "3244048580",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1950803557126414588",
+    "created_at": "2025-07-31T06:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T07:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950803557126414588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1830129345899188224",
+          "start": 3,
+          "username": "xiaoyitongxueai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AFASj7AhWW",
+          "end": 52,
+          "expanded_url": "https://x.com/xiaoyitongxueai/status/1950801976020644246/photo/1",
+          "media_key": "3_1950801972740988928",
+          "start": 29,
+          "url": "https://t.co/AFASj7AhWW"
+        },
+        {
+          "display_url": "pic.x.com/AFASj7AhWW",
+          "end": 52,
+          "expanded_url": "https://x.com/xiaoyitongxueai/status/1950801976020644246/photo/1",
+          "media_key": "3_1950801970975109120",
+          "start": 29,
+          "url": "https://t.co/AFASj7AhWW"
+        },
+        {
+          "display_url": "pic.x.com/AFASj7AhWW",
+          "end": 52,
+          "expanded_url": "https://x.com/xiaoyitongxueai/status/1950801976020644246/photo/1",
+          "media_key": "3_1950801971721740288",
+          "start": 29,
+          "url": "https://t.co/AFASj7AhWW"
+        },
+        {
+          "display_url": "pic.x.com/AFASj7AhWW",
+          "end": 52,
+          "expanded_url": "https://x.com/xiaoyitongxueai/status/1950801976020644246/photo/1",
+          "media_key": "3_1950801973160378369",
+          "start": 29,
+          "url": "https://t.co/AFASj7AhWW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950803557126414588",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950801976020644246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoyitongxueai: QQ要翻天了😨 https://t.co/AFASj7AhWW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950801972740988928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxKkDvRboAABcoi.jpg",
+        "width": 122
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1950801970975109120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxKkDosacAACQxO.jpg",
+        "width": 576
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950801971721740288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxKkDrebIAA-Hx6.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950801973160378369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxKkDw1bAAEFYDa.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950801972740988928",
+            "3_1950801970975109120",
+            "3_1950801971721740288",
+            "3_1950801973160378369"
+          ],
+          "media_source_tweet_id": [
+            "1950801976020644246",
+            "1950801976020644246",
+            "1950801976020644246",
+            "1950801976020644246"
+          ]
+        },
+        "author_id": "3244048580",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1950803557126414588",
+        "created_at": "2025-07-31T06:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T07:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950803557126414588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1830129345899188224",
+              "start": 3,
+              "username": "xiaoyitongxueai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AFASj7AhWW",
+              "end": 52,
+              "expanded_url": "https://x.com/xiaoyitongxueai/status/1950801976020644246/photo/1",
+              "media_key": "3_1950801972740988928",
+              "start": 29,
+              "url": "https://t.co/AFASj7AhWW"
+            },
+            {
+              "display_url": "pic.x.com/AFASj7AhWW",
+              "end": 52,
+              "expanded_url": "https://x.com/xiaoyitongxueai/status/1950801976020644246/photo/1",
+              "media_key": "3_1950801970975109120",
+              "start": 29,
+              "url": "https://t.co/AFASj7AhWW"
+            },
+            {
+              "display_url": "pic.x.com/AFASj7AhWW",
+              "end": 52,
+              "expanded_url": "https://x.com/xiaoyitongxueai/status/1950801976020644246/photo/1",
+              "media_key": "3_1950801971721740288",
+              "start": 29,
+              "url": "https://t.co/AFASj7AhWW"
+            },
+            {
+              "display_url": "pic.x.com/AFASj7AhWW",
+              "end": 52,
+              "expanded_url": "https://x.com/xiaoyitongxueai/status/1950801976020644246/photo/1",
+              "media_key": "3_1950801973160378369",
+              "start": 29,
+              "url": "https://t.co/AFASj7AhWW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950803557126414588",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950801976020644246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoyitongxueai: QQ要翻天了😨 https://t.co/AFASj7AhWW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950801972740988928",
+            "3_1950801970975109120",
+            "3_1950801971721740288",
+            "3_1950801973160378369"
+          ]
+        },
+        "author_id": "1830129345899188224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1950801976020644246",
+        "created_at": "2025-07-31T06:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T07:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950801976020644246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AFASj7AhWW",
+              "end": 31,
+              "expanded_url": "https://x.com/xiaoyitongxueai/status/1950801976020644246/photo/1",
+              "media_key": "3_1950801972740988928",
+              "start": 8,
+              "url": "https://t.co/AFASj7AhWW"
+            },
+            {
+              "display_url": "pic.x.com/AFASj7AhWW",
+              "end": 31,
+              "expanded_url": "https://x.com/xiaoyitongxueai/status/1950801976020644246/photo/1",
+              "media_key": "3_1950801970975109120",
+              "start": 8,
+              "url": "https://t.co/AFASj7AhWW"
+            },
+            {
+              "display_url": "pic.x.com/AFASj7AhWW",
+              "end": 31,
+              "expanded_url": "https://x.com/xiaoyitongxueai/status/1950801976020644246/photo/1",
+              "media_key": "3_1950801971721740288",
+              "start": 8,
+              "url": "https://t.co/AFASj7AhWW"
+            },
+            {
+              "display_url": "pic.x.com/AFASj7AhWW",
+              "end": 31,
+              "expanded_url": "https://x.com/xiaoyitongxueai/status/1950801976020644246/photo/1",
+              "media_key": "3_1950801973160378369",
+              "start": 8,
+              "url": "https://t.co/AFASj7AhWW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950801976020644246",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "QQ要翻天了😨 https://t.co/AFASj7AhWW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 341,
+          "like_count": 14064,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 3873
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-01T06:24:20.000Z",
+        "description": "睡觉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E5%9B%9E%E5%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E5%9B%9E%E5%BE%A9%E4%B8%AD%E3%81%AE%E8%B2%93",
+                "start": 0,
+                "url": "https://t.co/8eJS8orLhn"
+              }
+            ]
+          }
+        },
+        "id": "1830129345899188224",
+        "name": "小翌同学✨🎊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927711337771335680/uJDE5ZBe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1891,
+          "following_count": 5401,
+          "like_count": 13617,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 4588
+        },
+        "url": "https://t.co/8eJS8orLhn",
+        "username": "xiaoyitongxueai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939199537521807360"
+      ],
+      "media_source_tweet_id": [
+        "1939199539245629840"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1946631309574463697",
+    "created_at": "2025-07-19T18:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T19:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946631309574463697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3244048580",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2c7svedfal",
+          "end": 63,
+          "expanded_url": "https://x.com/huahuojiang___/status/1939199539245629840/photo/1",
+          "media_key": "3_1939199537521807360",
+          "start": 40,
+          "url": "https://t.co/2c7svedfal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946631309574463697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 207
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939199539245629840",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: 人民日报短短的几句话违反了多少条劳动法？ https://t.co/2c7svedfal"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 802,
+        "media_key": "3_1939199537521807360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GulrtH6W0AAyEmw.jpg",
+        "width": 774
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939199537521807360"
+          ],
+          "media_source_tweet_id": [
+            "1939199539245629840"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1946631309574463697",
+        "created_at": "2025-07-19T18:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T19:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946631309574463697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3244048580",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2c7svedfal",
+              "end": 63,
+              "expanded_url": "https://x.com/huahuojiang___/status/1939199539245629840/photo/1",
+              "media_key": "3_1939199537521807360",
+              "start": 40,
+              "url": "https://t.co/2c7svedfal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946631309574463697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 207
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939199539245629840",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: 人民日报短短的几句话违反了多少条劳动法？ https://t.co/2c7svedfal"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939199537521807360"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1939199539245629840",
+        "created_at": "2025-06-29T05:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T06:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939199539245629840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2c7svedfal",
+              "end": 44,
+              "expanded_url": "https://x.com/huahuojiang___/status/1939199539245629840/photo/1",
+              "media_key": "3_1939199537521807360",
+              "start": 21,
+              "url": "https://t.co/2c7svedfal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939199539245629840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 275,
+          "impression_count": 548707,
+          "like_count": 2933,
+          "quote_count": 16,
+          "reply_count": 197,
+          "retweet_count": 207
+        },
+        "reply_settings": "everyone",
+        "text": "人民日报短短的几句话违反了多少条劳动法？ https://t.co/2c7svedfal"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1346,
+          "following_count": 246,
+          "like_count": 6998,
+          "listed_count": 3,
+          "media_count": 100,
+          "tweet_count": 3822
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

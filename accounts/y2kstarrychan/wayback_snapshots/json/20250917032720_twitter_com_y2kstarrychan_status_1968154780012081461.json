@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968154769064660992"
+      ],
+      "media_source_tweet_id": [
+        "1968154771854119390"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1968154780012081461",
+    "created_at": "2025-09-17T03:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T04:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968154780012081461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3244048580",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LRjhL0yYsa",
+          "end": 49,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1968154771854119390/photo/1",
+          "media_key": "3_1968154769064660992",
+          "start": 26,
+          "url": "https://t.co/LRjhL0yYsa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968154780012081461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968154771854119390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: 咱妈！咱妈！ https://t.co/LRjhL0yYsa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_1968154769064660992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1BKVbEXEAADEPj.jpg",
+        "width": 2880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968154769064660992"
+          ],
+          "media_source_tweet_id": [
+            "1968154771854119390"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1968154780012081461",
+        "created_at": "2025-09-17T03:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T04:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968154780012081461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3244048580",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LRjhL0yYsa",
+              "end": 49,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1968154771854119390/photo/1",
+              "media_key": "3_1968154769064660992",
+              "start": 26,
+              "url": "https://t.co/LRjhL0yYsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968154780012081461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968154771854119390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: 咱妈！咱妈！ https://t.co/LRjhL0yYsa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968154769064660992"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1968154771854119390",
+        "created_at": "2025-09-17T03:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T04:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968154771854119390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LRjhL0yYsa",
+              "end": 30,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1968154771854119390/photo/1",
+              "media_key": "3_1968154769064660992",
+              "start": 7,
+              "url": "https://t.co/LRjhL0yYsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968154771854119390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "咱妈！咱妈！ https://t.co/LRjhL0yYsa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2775,
+          "following_count": 447,
+          "like_count": 35339,
+          "listed_count": 5,
+          "media_count": 127,
+          "tweet_count": 3987
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1957950383395143994",
+    "created_at": "2025-08-20T10:32:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T11:32:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958114940750852539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1557541453253038080",
+          "start": 0,
+          "username": "KawawaDiana8964"
+        },
+        {
+          "end": 26,
+          "id": "1799308675158605825",
+          "start": 17,
+          "username": "CPUP2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958114940750852539",
+    "in_reply_to_user_id": "1557541453253038080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957950383395143994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawawaDiana8964 @CPUP2024 扣分项：粉红，屏蔽了我，支持江油警察鎮壓，支持香港黑警鎮壓，支持巴勒斯坦，支持俄罗斯，支持武统台湾，支持中国特色社会主义，支持社会主义，支持共产主义，支持习近平新时代中国特色社会主义思想 每项5分，共11项 100-55=45分\n加分项：用苹果手机，支持LGBT，每项5分，共计55分"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2425,
+        "media_key": "3_1957950132609069056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GywJRZ4XsAALY4w.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1957950383395143994",
+        "created_at": "2025-08-20T10:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T11:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958114940750852539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557541453253038080",
+              "start": 0,
+              "username": "KawawaDiana8964"
+            },
+            {
+              "end": 26,
+              "id": "1799308675158605825",
+              "start": 17,
+              "username": "CPUP2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958114940750852539",
+        "in_reply_to_user_id": "1557541453253038080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957950383395143994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawawaDiana8964 @CPUP2024 扣分项：粉红，屏蔽了我，支持江油警察鎮壓，支持香港黑警鎮壓，支持巴勒斯坦，支持俄罗斯，支持武统台湾，支持中国特色社会主义，支持社会主义，支持共产主义，支持习近平新时代中国特色社会主义思想 每项5分，共11项 100-55=45分\n加分项：用苹果手机，支持LGBT，每项5分，共计55分"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957950132609069056"
+          ]
+        },
+        "author_id": "1557541453253038080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1957950383395143994",
+        "created_at": "2025-08-19T23:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T00:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957950383395143994"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 74,
+              "tag": "中推名人评分"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 114,
+              "id": "1799308675158605825",
+              "start": 105,
+              "username": "CPUP2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7bDpUUnuy8",
+              "end": 179,
+              "expanded_url": "https://x.com/KawawaDiana8964/status/1957950383395143994/photo/1",
+              "media_key": "3_1957950132609069056",
+              "start": 156,
+              "url": "https://t.co/7bDpUUnuy8"
+            },
+            {
+              "display_url": "x.com/KawawaDiana896…",
+              "end": 203,
+              "expanded_url": "https://twitter.com/KawawaDiana8964/status/1954160277554970657",
+              "start": 180,
+              "url": "https://t.co/Yk7FC0luFq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957950383395143994",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3632,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 41,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954160277554970657",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "早上好,其实小蓝是没有想到这个评分能做到二十二期的🍵，我评过不少长者或出生，但是今天要评的人在推上的争论实在有些复杂，顾此请本人多多见谅🙇🏻‍♂️\n#中推名人评分\n第二十二期\n赛高の葱娘酱miku🇨🇳(葱娘)\n@CPUP2024 \n(0～100分)\n欢迎各路推友在评论区打分并表示原因，请避免极端分数，五天后见 https://t.co/7bDpUUnuy8 https://t.co/Yk7FC0luFq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2018,
+          "following_count": 373,
+          "like_count": 24481,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 3940
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-11T01:36:58.000Z",
+        "description": "Name:小蓝/Alan\n简中/English/Español/C/Python\nFriendly with everyone except SB,rac!st,支黑,谣棍,双标\nSUPPORT🇵🇸🇺🇦🇨🇳🇺🇸☮️↙️ DemSoc ,Mao\n#中推名人评分\n欢迎友好交流(8964=防盗)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 122,
+                "tag": "中推名人评分"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/672328094",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/672328094",
+                "start": 0,
+                "url": "https://t.co/wy2TJmPIIJ"
+              }
+            ]
+          }
+        },
+        "id": "1557541453253038080",
+        "location": "枝江国际-灯塔(Boston)分区",
+        "name": "枫糖小蓝🫐 (Di Alan Chan 🌊🐻👊🏻）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952422723294035970/2VzleRKq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 473,
+          "like_count": 4682,
+          "listed_count": 3,
+          "media_count": 593,
+          "tweet_count": 2096
+        },
+        "url": "https://t.co/wy2TJmPIIJ",
+        "username": "KawawaDiana8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T05:13:27.000Z",
+        "description": "#葱娘酱巡回推友企划 此为原建制派bot号，原号没了。本不想注册新号，左右脑互搏还是有新号了@mikulovermua 新号键政少，更从心所欲。葱是左翼建制派，支持CPC领导之PRC。本人非粉蛆，但骄傲于做某些人嘴里的粉蛆。ally&非二元性别 勿忘我们的骄傲🏳️‍🌈stand with🇷🇺🇵🇸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "葱娘酱巡回推友企划"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "mikulovermua"
+              }
+            ]
+          }
+        },
+        "id": "1799308675158605825",
+        "location": "中华人民共和国PRC",
+        "name": "赛高の葱娘酱miku🇨🇳",
+        "pinned_tweet_id": "1956578150424449285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933516872659709952/x9MxFB_9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 1186,
+          "like_count": 32195,
+          "listed_count": 26,
+          "media_count": 645,
+          "tweet_count": 8204
+        },
+        "username": "CPUP2024",
+        "verified": false
+      }
+    ]
+  }
+}

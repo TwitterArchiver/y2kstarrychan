@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1943657321110134970",
+    "created_at": "2025-07-11T15:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T16:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943695727781150978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1858763452732633090",
+          "start": 0,
+          "username": "DeepKlee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943695727781150978",
+    "in_reply_to_user_id": "1858763452732633090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943657321110134970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeepKlee 此生无悔入华夏，下辈子无悔入纽约"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1943657316936454144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvlCCCUWEAABbA-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1943657321110134970",
+        "created_at": "2025-07-11T15:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T16:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943695727781150978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1858763452732633090",
+              "start": 0,
+              "username": "DeepKlee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943695727781150978",
+        "in_reply_to_user_id": "1858763452732633090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943657321110134970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeepKlee 此生无悔入华夏，下辈子无悔入纽约"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943657316936454144"
+          ]
+        },
+        "author_id": "1858763452732633090",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "1943657321110134970",
+        "created_at": "2025-07-11T13:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T14:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943657321110134970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dl5fAJMfw4",
+              "end": 32,
+              "expanded_url": "https://x.com/DeepKlee/status/1943657321110134970/photo/1",
+              "media_key": "3_1943657316936454144",
+              "start": 9,
+              "url": "https://t.co/dl5fAJMfw4"
+            },
+            {
+              "display_url": "x.com/DeepKlee/statu…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/DeepKlee/status/1943197014121959501",
+              "start": 33,
+              "url": "https://t.co/FOS2O0k7Qo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943657321110134970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "此生无悔入华夏！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 529,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943197014121959501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此生无悔入华夏！ https://t.co/dl5fAJMfw4 https://t.co/FOS2O0k7Qo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” 及时行乐，享受当下。",
+        "id": "3244048580",
+        "location": "距离你0721厘米",
+        "name": "神乐板🌸星璃酱～",
+        "pinned_tweet_id": "1942948488226152557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 330,
+          "like_count": 2581,
+          "listed_count": 4,
+          "media_count": 105,
+          "tweet_count": 3797
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-19T06:45:28.000Z",
+        "description": "CS | Interested in mathematics | Optimistic reader | C/C++ | AIGC/ACGN warning! | Ojisan-Type Tech Otaku Loli persona (???) | Powered by DeepKlee",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@GenshinImpact",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@GenshinImpact",
+                "start": 0,
+                "url": "https://t.co/xi0YFnQ6xc"
+              }
+            ]
+          }
+        },
+        "id": "1858763452732633090",
+        "location": "California, USA",
+        "name": "神樂坂🌸kleekwaii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889759709844086785/7eS_iZEy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 167,
+          "like_count": 6613,
+          "listed_count": 13,
+          "media_count": 185,
+          "tweet_count": 3936
+        },
+        "url": "https://t.co/xi0YFnQ6xc",
+        "username": "DeepKlee",
+        "verified": false
+      }
+    ]
+  }
+}

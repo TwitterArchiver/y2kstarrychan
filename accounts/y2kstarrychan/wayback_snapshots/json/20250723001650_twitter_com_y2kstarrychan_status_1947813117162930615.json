@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1947790992415068666",
+    "created_at": "2025-07-23T00:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T01:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947813117162930615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1768487038645678080",
+          "start": 0,
+          "username": "Yamada_Ryo4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947813117162930615",
+    "in_reply_to_user_id": "1768487038645678080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947790992415068666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yamada_Ryo4 這個是不是你（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 599833,
+        "height": 720,
+        "media_key": "13_1947788850941816832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1947788850941816832/img/-lm_5sZmt-AjGkjv.jpg",
+        "public_metrics": {
+          "view_count": 21
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947788850941816832/vid/avc1/360x270/TcNON2Ku0trtU_5n.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947788850941816832/vid/avc1/480x360/_myOXhaR8nF6YmpT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947788850941816832/vid/avc1/960x720/mBbRyg7aEf-SRy6m.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1947788850941816832/pl/l3XW1CkTtWvMBgJm.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1947790992415068666",
+        "created_at": "2025-07-23T00:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T01:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947813117162930615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947813117162930615",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947790992415068666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryo4 這個是不是你（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1947788850941816832"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "1947790992415068666",
+        "created_at": "2025-07-22T22:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T23:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947790992415068666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CoJ5M93qG4",
+              "end": 33,
+              "expanded_url": "https://x.com/Yamada_Ryo4/status/1947790992415068666/video/1",
+              "media_key": "13_1947788850941816832",
+              "start": 10,
+              "url": "https://t.co/CoJ5M93qG4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947790992415068666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "翻到了古老的视频（ https://t.co/CoJ5M93qG4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1451,
+          "following_count": 272,
+          "like_count": 8827,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 3836
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜逃生艙 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY｜🚪：1 ₿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 106,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 83,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yamadaryo.me",
+                "end": 23,
+                "expanded_url": "https://yamadaryo.me",
+                "start": 0,
+                "url": "https://t.co/czFMqdFO4N"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4009,
+          "following_count": 676,
+          "like_count": 12366,
+          "listed_count": 18,
+          "media_count": 1303,
+          "tweet_count": 7352
+        },
+        "url": "https://t.co/czFMqdFO4N",
+        "username": "Yamada_Ryo4",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964845262855122944"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1964845265678209392",
+    "created_at": "2025-09-08T00:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T01:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964845265678209392"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EDgTcED9wU",
+          "end": 35,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1964845265678209392/photo/1",
+          "media_key": "3_1964845262855122944",
+          "start": 12,
+          "url": "https://t.co/EDgTcED9wU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964845265678209392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "reply_settings": "everyone",
+    "text": "他终于不再需要害怕了… https://t.co/EDgTcED9wU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_1964845262855122944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0SIWzsWsAA9MHZ.jpg",
+        "width": 2880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964845262855122944"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1964845265678209392",
+        "created_at": "2025-09-08T00:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T01:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964845265678209392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EDgTcED9wU",
+              "end": 35,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1964845265678209392/photo/1",
+              "media_key": "3_1964845262855122944",
+              "start": 12,
+              "url": "https://t.co/EDgTcED9wU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964845265678209392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "他终于不再需要害怕了… https://t.co/EDgTcED9wU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2784,
+          "following_count": 426,
+          "like_count": 33383,
+          "listed_count": 5,
+          "media_count": 126,
+          "tweet_count": 3985
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

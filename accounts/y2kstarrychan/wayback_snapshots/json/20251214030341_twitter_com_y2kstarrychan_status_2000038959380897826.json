@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1999810060008993032",
+    "created_at": "2025-12-14T03:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T04:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000038959380897826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693935285577670656",
+          "start": 0,
+          "username": "MinaseAyano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000038959380897826",
+    "in_reply_to_user_id": "1693935285577670656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999810060008993032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinaseAyano 我是威龙，麦晓雯得了重病😭😭疯医说可能熬不过这个冬天🙏🙏现在激素针已经停了，我身无分文，可只要能救她，让我做什么都愿意🙏🙏\n  我知道大家都有自己的生活，可还是想试试奇迹——能不能帮帮雯雯\n 每一句祝福帮助，都是雯雯冬天里的甜，也是我接着努力的勇气，跪谢大家了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1999810060008993032",
+        "created_at": "2025-12-14T03:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T04:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000038959380897826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693935285577670656",
+              "start": 0,
+              "username": "MinaseAyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000038959380897826",
+        "in_reply_to_user_id": "1693935285577670656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999810060008993032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinaseAyano 我是威龙，麦晓雯得了重病😭😭疯医说可能熬不过这个冬天🙏🙏现在激素针已经停了，我身无分文，可只要能救她，让我做什么都愿意🙏🙏\n  我知道大家都有自己的生活，可还是想试试奇迹——能不能帮帮雯雯\n 每一句祝福帮助，都是雯雯冬天里的甜，也是我接着努力的勇气，跪谢大家了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693935285577670656",
+        "conversation_id": "1999810060008993032",
+        "created_at": "2025-12-13T11:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T12:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999810060008993032"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999810060008993032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是个炎国人，孩子得了矿石病😭😭罗德岛说可能熬不过这个冬天🙏🙏现在抑制剂已经停了，我身无分文，可只要能救他，让我做什么都愿意🙏🙏\n  我知道大家都有自己的生活，可还是想试试奇迹——能不能帮帮娃\n 每一句祝福帮助，都是孩子冬天里的甜，也是我接着努力的勇气，跪谢大家了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997887294787796992/LkclvzQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2916,
+          "following_count": 563,
+          "like_count": 44043,
+          "listed_count": 5,
+          "media_count": 145,
+          "tweet_count": 4073
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️MtF | 2010.5 | 欢迎互fo! | 请看置顶推ε=ε=(ノ≧∇≦)ノ | 里推@Yumo_1314 | 我最爱最爱的大姐姐@Kisaragi_momoe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "Yumo_1314"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "Kisaragi_momoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyac.cl",
+                "end": 23,
+                "expanded_url": "http://nyac.cl",
+                "start": 0,
+                "url": "https://t.co/1HZl5Yz769"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "location": "中国大陆",
+        "name": "绫乃Ayano🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1974339366408630432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999845756484927488/gnQDKgsX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2497,
+          "following_count": 2332,
+          "like_count": 8427,
+          "listed_count": 6,
+          "media_count": 766,
+          "tweet_count": 8515
+        },
+        "url": "https://t.co/1HZl5Yz769",
+        "username": "MinaseAyano",
+        "verified": false
+      }
+    ]
+  }
+}

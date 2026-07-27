@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943918480450846720"
+      ],
+      "media_source_tweet_id": [
+        "1943918482434761001"
+      ]
+    },
+    "author_id": "3244048580",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1943921321249059180",
+    "created_at": "2025-07-12T06:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T07:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943921321249059180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3244048580",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MW94PTXh2X",
+          "end": 59,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1943918482434761001/photo/1",
+          "media_key": "3_1943918480450846720",
+          "start": 36,
+          "url": "https://t.co/MW94PTXh2X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943921321249059180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943918482434761001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: 这个苹果好好吃😋 所有人来领一份 https://t.co/MW94PTXh2X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2426,
+        "media_key": "3_1943918480450846720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvovjwOXAAAPfPn.jpg",
+        "width": 1904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943918480450846720"
+          ],
+          "media_source_tweet_id": [
+            "1943918482434761001"
+          ]
+        },
+        "author_id": "3244048580",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1943921321249059180",
+        "created_at": "2025-07-12T06:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T07:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943921321249059180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3244048580",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MW94PTXh2X",
+              "end": 59,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1943918482434761001/photo/1",
+              "media_key": "3_1943918480450846720",
+              "start": 36,
+              "url": "https://t.co/MW94PTXh2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943921321249059180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943918482434761001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: 这个苹果好好吃😋 所有人来领一份 https://t.co/MW94PTXh2X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943918480450846720"
+          ]
+        },
+        "author_id": "3244048580",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1943918482434761001",
+        "created_at": "2025-07-12T06:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T07:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943918482434761001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MW94PTXh2X",
+              "end": 40,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1943918482434761001/photo/1",
+              "media_key": "3_1943918480450846720",
+              "start": 17,
+              "url": "https://t.co/MW94PTXh2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943918482434761001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个苹果好好吃😋 所有人来领一份 https://t.co/MW94PTXh2X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” 及时行乐，享受当下。",
+        "id": "3244048580",
+        "location": "距离你0721厘米",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1942948488226152557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 227,
+          "like_count": 3082,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 3817
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

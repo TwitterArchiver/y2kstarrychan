@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2050483968861257994",
+    "created_at": "2026-05-02T15:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T16:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050596471578214544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622066090074607616",
+          "start": 0,
+          "username": "hoshinofujivy"
+        },
+        {
+          "end": 31,
+          "id": "1683060453528965120",
+          "start": 15,
+          "username": "NationalPureVF4"
+        },
+        {
+          "end": 55,
+          "id": "1918274202580467713",
+          "start": 40,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050596471578214544",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050483968861257994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofujivy @NationalPureVF4 推特第一骚货😘👉@CyberKanjousen 💐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2050483968861257994",
+        "created_at": "2026-05-02T15:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050596471578214544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            },
+            {
+              "end": 31,
+              "id": "1683060453528965120",
+              "start": 15,
+              "username": "NationalPureVF4"
+            },
+            {
+              "end": 55,
+              "id": "1918274202580467713",
+              "start": 40,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050596471578214544",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050483968861257994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy @NationalPureVF4 推特第一骚货😘👉@CyberKanjousen 💐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2050483968861257994",
+        "created_at": "2026-05-02T07:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T08:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050483968861257994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1683060453528965120",
+              "start": 8,
+              "username": "NationalPureVF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050483968861257994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1425,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "推特第一骚货😘👉@nationalpurevf4💐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2956,
+          "following_count": 817,
+          "like_count": 53627,
+          "listed_count": 5,
+          "media_count": 155,
+          "tweet_count": 4402
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9801,
+          "following_count": 4269,
+          "like_count": 44946,
+          "listed_count": 34,
+          "media_count": 2038,
+          "tweet_count": 13105
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T10:24:22.000Z",
+        "description": "全中推圈推友的白月光\n時鐘塔十二君主創造科-巴留葉雷塔家的本家直系廢柴大小姐/死徒第二十三祖/兼職惡役英雄/待灌滿泡芙（？）/Beast I 候補/暈血\n別稱：薇蕾娜/真理子/軟糯真理醬/暈血姬\n最愛的藤醬主人老公 @hoshinofujivy \n夥伴 @jawenzhu @_Weace_ @YukinonCC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 108,
+                "username": "hoshinofujivy"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "jawenzhu"
+              },
+              {
+                "end": 145,
+                "start": 137,
+                "username": "_Weace_"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "YukinonCC"
+              }
+            ]
+          }
+        },
+        "id": "1683060453528965120",
+        "location": "時鐘塔-現代魔術科艾梅洛教室",
+        "name": "✝︎真理子 ✝︎ 虹の吸血姫 (限界)",
+        "pinned_tweet_id": "1863127354547249448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032241233926766593/FMYw3z6V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2053,
+          "following_count": 1169,
+          "like_count": 74037,
+          "listed_count": 19,
+          "media_count": 1274,
+          "tweet_count": 32894
+        },
+        "username": "NationalPureVF4",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 和猫猫 @HuamanX09 贴贴喵！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 45,
+                "start": 35,
+                "username": "HuamanX09"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 113,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 90,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2381,
+          "following_count": 706,
+          "like_count": 17076,
+          "listed_count": 5,
+          "media_count": 952,
+          "tweet_count": 5224
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

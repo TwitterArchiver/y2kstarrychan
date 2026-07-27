@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1173614294082048001",
+          "name": "OPPO Indonesia"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      }
+    ],
+    "conversation_id": "2079914346285834264",
+    "created_at": "2026-07-23T13:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T14:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080280585491337347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847835560175685635",
+          "start": 0,
+          "username": "OPPOFANS114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080280585491337347",
+    "in_reply_to_user_id": "1847835560175685635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079914346285834264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OPPOFANS114514 泡芙形態oppo醬"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2079914300639236096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1XCVzbUAAFP8O.jpg",
+        "width": 2751
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2079914313020755968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1XDD7aUAAN-M0.jpg",
+        "width": 2751
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2079914325263929344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1XDxiaUAAthKw.jpg",
+        "width": 2751
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2079914338346004480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1XEiRa8AAcwZ5.jpg",
+        "width": 2751
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1173614294082048001",
+              "name": "OPPO Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          }
+        ],
+        "conversation_id": "2079914346285834264",
+        "created_at": "2026-07-23T13:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080280585491337347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847835560175685635",
+              "start": 0,
+              "username": "OPPOFANS114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080280585491337347",
+        "in_reply_to_user_id": "1847835560175685635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079914346285834264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OPPOFANS114514 泡芙形態oppo醬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079914300639236096",
+            "3_2079914313020755968",
+            "3_2079914325263929344",
+            "3_2079914338346004480"
+          ]
+        },
+        "author_id": "1847835560175685635",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079914346285834264",
+        "created_at": "2026-07-22T12:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079914346285834264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8KWo3jptGJ",
+              "end": 50,
+              "expanded_url": "https://x.com/OPPOFANS114514/status/2079914346285834264/photo/1",
+              "media_key": "3_2079914300639236096",
+              "start": 27,
+              "url": "https://t.co/8KWo3jptGJ"
+            },
+            {
+              "display_url": "pic.x.com/8KWo3jptGJ",
+              "end": 50,
+              "expanded_url": "https://x.com/OPPOFANS114514/status/2079914346285834264/photo/1",
+              "media_key": "3_2079914313020755968",
+              "start": 27,
+              "url": "https://t.co/8KWo3jptGJ"
+            },
+            {
+              "display_url": "pic.x.com/8KWo3jptGJ",
+              "end": 50,
+              "expanded_url": "https://x.com/OPPOFANS114514/status/2079914346285834264/photo/1",
+              "media_key": "3_2079914325263929344",
+              "start": 27,
+              "url": "https://t.co/8KWo3jptGJ"
+            },
+            {
+              "display_url": "pic.x.com/8KWo3jptGJ",
+              "end": 50,
+              "expanded_url": "https://x.com/OPPOFANS114514/status/2079914346285834264/photo/1",
+              "media_key": "3_2079914338346004480",
+              "start": 27,
+              "url": "https://t.co/8KWo3jptGJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079914346285834264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2259,
+          "like_count": 130,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "诶嘿嘿...今天我好开心\n谢谢大家哦(*σ´∀`)σ https://t.co/8KWo3jptGJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2912,
+          "following_count": 881,
+          "like_count": 58321,
+          "listed_count": 6,
+          "media_count": 156,
+          "tweet_count": 4472
+        },
+        "url": "",
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T03:02:37.000Z",
+        "description": "我可能开心，我也可能不开心\n但记住，你一定要天天开心~ ₍˄·͈༝·͈˄*₎◞ ̑̑\n不吃🍔了，现在已对🍕上瘾 INFP-T\n颜文字万岁！( ≧▽≦ )",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oppofans",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oppofans",
+                "start": 0,
+                "url": "https://t.co/hNOuTw9yN4"
+              }
+            ]
+          }
+        },
+        "id": "1847835560175685635",
+        "name": "OPPOFANS",
+        "pinned_tweet_id": "1899040879727509924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005659214631575553/AcPZ89dY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 2261,
+          "like_count": 23290,
+          "listed_count": 6,
+          "media_count": 894,
+          "tweet_count": 22580
+        },
+        "url": "https://t.co/hNOuTw9yN4",
+        "username": "OPPOFANS114514",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952930596516139008"
+      ],
+      "media_source_tweet_id": [
+        "1952930599389544748"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1953210322506138009",
+    "created_at": "2025-08-06T21:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T22:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953210322506138009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3244048580",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jh5qdOD8wR",
+          "end": 61,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1952930599389544748/photo/1",
+          "media_key": "3_1952930596516139008",
+          "start": 38,
+          "url": "https://t.co/jh5qdOD8wR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953210322506138009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952930599389544748",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: 3.2万亿华裔科学家都在为美国效力？ https://t.co/jh5qdOD8wR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2307,
+        "media_key": "3_1952930596516139008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxo0B8xWEAARGfJ.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952930596516139008"
+          ],
+          "media_source_tweet_id": [
+            "1952930599389544748"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1953210322506138009",
+        "created_at": "2025-08-06T21:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T22:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953210322506138009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3244048580",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jh5qdOD8wR",
+              "end": 61,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1952930599389544748/photo/1",
+              "media_key": "3_1952930596516139008",
+              "start": 38,
+              "url": "https://t.co/jh5qdOD8wR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953210322506138009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952930599389544748",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: 3.2万亿华裔科学家都在为美国效力？ https://t.co/jh5qdOD8wR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952930596516139008"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1952930599389544748",
+        "created_at": "2025-08-06T03:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T04:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952930599389544748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jh5qdOD8wR",
+              "end": 42,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1952930599389544748/photo/1",
+              "media_key": "3_1952930596516139008",
+              "start": 19,
+              "url": "https://t.co/jh5qdOD8wR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952930599389544748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 34012,
+          "like_count": 342,
+          "quote_count": 6,
+          "reply_count": 74,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "3.2万亿华裔科学家都在为美国效力？ https://t.co/jh5qdOD8wR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1865,
+          "following_count": 337,
+          "like_count": 17479,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 3881
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

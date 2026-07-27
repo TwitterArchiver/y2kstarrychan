@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1962499649559986352",
+    "created_at": "2025-09-01T13:07:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T14:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962502620439781424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1737053348740603904",
+          "start": 0,
+          "username": "shiroko2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962502620439781424",
+    "in_reply_to_user_id": "1737053348740603904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962499649559986352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiroko2024 辛苦了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962499646905090048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzwzB_WbgAAive7.jpg",
+        "width": 955
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1962499649559986352",
+        "created_at": "2025-09-01T13:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T14:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962502620439781424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1737053348740603904",
+              "start": 0,
+              "username": "shiroko2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962502620439781424",
+        "in_reply_to_user_id": "1737053348740603904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962499649559986352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiroko2024 辛苦了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962499646905090048"
+          ]
+        },
+        "author_id": "1737053348740603904",
+        "conversation_id": "1962499649559986352",
+        "created_at": "2025-09-01T12:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T13:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962499649559986352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rE0aBr3d4z",
+              "end": 30,
+              "expanded_url": "https://x.com/shiroko2024/status/1962499649559986352/photo/1",
+              "media_key": "3_1962499646905090048",
+              "start": 7,
+              "url": "https://t.co/rE0aBr3d4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962499649559986352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好累，歇一天 https://t.co/rE0aBr3d4z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星老师不是你老师",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2291,
+          "following_count": 410,
+          "like_count": 30769,
+          "listed_count": 4,
+          "media_count": 123,
+          "tweet_count": 3972
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-19T10:13:24.000Z",
+        "description": "白子单推人！！！\n妈妈 @kurioshifio | 好朋友 @GlimpseAbys | 爱你 @squirrelGUW | 私信48小时没回就是不想回你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "kurioshifio"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "GlimpseAbys"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "squirrelGUW"
+              }
+            ]
+          }
+        },
+        "id": "1737053348740603904",
+        "location": "阿拜多斯职业高中",
+        "name": "白子亲～",
+        "pinned_tweet_id": "1923031111115907115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960276838045097984/Xn7u-BsF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9434,
+          "following_count": 733,
+          "like_count": 232237,
+          "listed_count": 27,
+          "media_count": 1586,
+          "tweet_count": 15540
+        },
+        "username": "shiroko2024",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953912857273208832"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1953886843482910991",
+    "created_at": "2025-08-08T20:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T21:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953912859756572752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1799666750088175616",
+          "start": 0,
+          "username": "LycoReco_neneko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OAnPmn7Ysf",
+          "end": 40,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1953912859756572752/photo/1",
+          "media_key": "3_1953912857273208832",
+          "start": 17,
+          "url": "https://t.co/OAnPmn7Ysf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953912859756572752",
+    "in_reply_to_user_id": "1799666750088175616",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953886843482910991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LycoReco_neneko https://t.co/OAnPmn7Ysf"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1953886843482910991].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1953886843482910991",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1953886843482910991"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3120,
+        "media_key": "3_1953912857273208832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx2xZDPWkAAzOh2.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953912857273208832"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1953886843482910991",
+        "created_at": "2025-08-08T20:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T21:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953912859756572752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1799666750088175616",
+              "start": 0,
+              "username": "LycoReco_neneko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OAnPmn7Ysf",
+              "end": 40,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1953912859756572752/photo/1",
+              "media_key": "3_1953912857273208832",
+              "start": 17,
+              "url": "https://t.co/OAnPmn7Ysf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953912859756572752",
+        "in_reply_to_user_id": "1799666750088175616",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953886843482910991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LycoReco_neneko https://t.co/OAnPmn7Ysf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju 宝宝 @sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 335,
+          "like_count": 18373,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 3890
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-09T04:59:07.000Z",
+        "description": "铃兰小姐我们的光！(雾）\n欢迎互相关注owo/\n不鉴证/猫猫\\学生党/好朋友 @my9361231136899 /主人 @owl8964cat /喜欢的@Tsugaru_1997 osu 4K 2300pp /yes lolita no touch /原神/源神/明日方舟/蔚蓝档案/蓝孩纸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "my9361231136899"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "owl8964cat"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "Tsugaru_1997"
+              }
+            ]
+          }
+        },
+        "id": "1799666750088175616",
+        "location": "二次元",
+        "name": "神樂坂🌸莉可（淡推.ing",
+        "pinned_tweet_id": "1925176522945814696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949010684014145536/8vsKb2h-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 469,
+          "like_count": 35985,
+          "listed_count": 3,
+          "media_count": 2833,
+          "tweet_count": 5753
+        },
+        "username": "LycoReco_neneko",
+        "verified": false
+      }
+    ]
+  }
+}

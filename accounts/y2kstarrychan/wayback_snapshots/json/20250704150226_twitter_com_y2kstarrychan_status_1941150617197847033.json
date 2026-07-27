@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941150615268118528"
+      ]
+    },
+    "author_id": "1632336255823519744",
+    "conversation_id": "1941150617197847033",
+    "created_at": "2025-07-04T15:02:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T16:02:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941150617197847033"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lgwLQPzN9T",
+          "end": 23,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1941150617197847033/photo/1",
+          "media_key": "3_1941150615268118528",
+          "start": 0,
+          "url": "https://t.co/lgwLQPzN9T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941150617197847033",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/lgwLQPzN9T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1941150615268118528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvBaMy6WUAA-hN3.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941150615268118528"
+          ]
+        },
+        "author_id": "1632336255823519744",
+        "conversation_id": "1941150617197847033",
+        "created_at": "2025-07-04T15:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T16:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941150617197847033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lgwLQPzN9T",
+              "end": 23,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1941150617197847033/photo/1",
+              "media_key": "3_1941150615268118528",
+              "start": 0,
+              "url": "https://t.co/lgwLQPzN9T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941150617197847033",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lgwLQPzN9T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-05T11:04:36.000Z",
+        "description": "",
+        "id": "1632336255823519744",
+        "name": "星璃酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940613301257306112/eyiVgmNl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 85,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

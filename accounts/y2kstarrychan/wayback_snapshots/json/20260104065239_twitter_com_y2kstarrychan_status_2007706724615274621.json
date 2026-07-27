@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2007648690023068082",
+    "created_at": "2026-01-04T06:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T07:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007706724615274621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1393193542537854976",
+          "start": 0,
+          "username": "sparkwang9"
+        },
+        {
+          "end": 19,
+          "id": "1356924709036679168",
+          "start": 12,
+          "username": "wjf110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007706724615274621",
+    "in_reply_to_user_id": "1393193542537854976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007698735485333675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sparkwang9 @wjf110 求互fo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2007648690023068082",
+        "created_at": "2026-01-04T06:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T07:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007706724615274621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1393193542537854976",
+              "start": 0,
+              "username": "sparkwang9"
+            },
+            {
+              "end": 19,
+              "id": "1356924709036679168",
+              "start": 12,
+              "username": "wjf110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007706724615274621",
+        "in_reply_to_user_id": "1393193542537854976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007698735485333675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sparkwang9 @wjf110 求互fo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1393193542537854976",
+        "conversation_id": "2007648690023068082",
+        "created_at": "2026-01-04T06:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T07:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007698735485333675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1356924709036679168",
+              "start": 0,
+              "username": "wjf110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007698735485333675",
+        "in_reply_to_user_id": "1356924709036679168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007648690023068082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wjf110 救救我，老师！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997887294787796992/LkclvzQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2984,
+          "following_count": 672,
+          "like_count": 46683,
+          "listed_count": 5,
+          "media_count": 153,
+          "tweet_count": 4196
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-14T13:16:48.000Z",
+        "description": "日常分享WEB3心得🌟 | @monad nads | @zama OG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "monad"
+              },
+              {
+                "end": 33,
+                "start": 28,
+                "username": "zama"
+              }
+            ]
+          }
+        },
+        "id": "1393193542537854976",
+        "location": "Japan",
+        "name": "spark🌟",
+        "pinned_tweet_id": "2006289877307113838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992244727350198272/4I5IPCXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2247,
+          "following_count": 2454,
+          "like_count": 28991,
+          "listed_count": 17,
+          "media_count": 883,
+          "tweet_count": 18899
+        },
+        "username": "sparkwang9",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-03T11:17:24.000Z",
+        "description": "🦍 🦍TG: https://t.co/Jt8KmJOw3X\n\n｜AI  defi赛道｜\n｜二级 MEME｜\n\nBinance   :https://t.co/6WgatcApv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/wjf110",
+                "end": 30,
+                "expanded_url": "https://t.me/wjf110",
+                "start": 7,
+                "url": "https://t.co/Jt8KmJOw3X"
+              },
+              {
+                "display_url": "maxweb.cab/join?ref=WJF110",
+                "end": 90,
+                "expanded_url": "https://www.maxweb.cab/join?ref=WJF110",
+                "start": 67,
+                "url": "https://t.co/6WgatcApv9"
+              }
+            ]
+          }
+        },
+        "id": "1356924709036679168",
+        "name": "好家伙🥷",
+        "pinned_tweet_id": "1864501251914019047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1568617853930307584/D-4SOnGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69962,
+          "following_count": 10946,
+          "like_count": 86893,
+          "listed_count": 146,
+          "media_count": 2159,
+          "tweet_count": 45542
+        },
+        "username": "wjf110",
+        "verified": true
+      }
+    ]
+  }
+}

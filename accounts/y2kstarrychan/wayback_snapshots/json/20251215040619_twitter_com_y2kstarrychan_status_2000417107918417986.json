@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2000395471936966689",
+    "created_at": "2025-12-15T04:06:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T05:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000417107918417986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847835560175685635",
+          "start": 0,
+          "username": "OPPOFANS114514"
+        },
+        {
+          "end": 32,
+          "id": "1968679818808950784",
+          "start": 16,
+          "username": "KawawaDiana7224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000417107918417986",
+    "in_reply_to_user_id": "1847835560175685635",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000400857549160729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OPPOFANS114514 @KawawaDiana7224 我也是（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2000395471936966689",
+        "created_at": "2025-12-15T04:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T05:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000417107918417986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847835560175685635",
+              "start": 0,
+              "username": "OPPOFANS114514"
+            },
+            {
+              "end": 32,
+              "id": "1968679818808950784",
+              "start": 16,
+              "username": "KawawaDiana7224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000417107918417986",
+        "in_reply_to_user_id": "1847835560175685635",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000400857549160729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OPPOFANS114514 @KawawaDiana7224 我也是（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847835560175685635",
+        "conversation_id": "2000395471936966689",
+        "created_at": "2025-12-15T03:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T04:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000400857549160729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1968679818808950784",
+              "start": 0,
+              "username": "KawawaDiana7224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000400857549160729",
+        "in_reply_to_user_id": "1968679818808950784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000395471936966689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawawaDiana7224 这就是10后，听00后说😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997887294787796992/LkclvzQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2917,
+          "following_count": 572,
+          "like_count": 44250,
+          "listed_count": 5,
+          "media_count": 145,
+          "tweet_count": 4075
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T03:02:37.000Z",
+        "description": "OPPO粉的推特账号,发些日常,不会安慰人(｡í _ ì｡)丨会emo,请忽略,我也有情绪(；ω；)丨如果哪天突然消失了,就是VPN炸了(つд⊂)丨会互fo哦੭ ᐕ)੭*⁾⁾丨可以叫我OPPO粉,OPPOFANS,OPPO酱,粉猫猫,小粉,饭饭丨天天开心哦！(*๓´╰╯`๓)♡丨INFP丨颜文字万岁喵(／ω＼)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oppofans",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oppofans",
+                "start": 0,
+                "url": "https://t.co/37m0RVoXvD"
+              }
+            ]
+          }
+        },
+        "id": "1847835560175685635",
+        "name": "OPPOFANS",
+        "pinned_tweet_id": "1899040879727509924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000220473616138240/a4ab0Rnu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 1852,
+          "like_count": 16327,
+          "listed_count": 7,
+          "media_count": 499,
+          "tweet_count": 15789
+        },
+        "url": "https://t.co/37m0RVoXvD",
+        "username": "OPPOFANS114514",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-18T14:13:54.000Z",
+        "description": "desk-kun -10hp\n某留美然然 (@KawawaDiana8964) 的逃生舱\n对，这个号你似乎听说过，也没听说过\nSupport🇺🇦🇵🇸☮️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1968679818808950784",
+        "location": "Boston Metropolitan Area ,MA",
+        "name": "ً",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000224028607299585/B8KXSctF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 216,
+          "like_count": 2003,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 806
+        },
+        "username": "KawawaDiana7224",
+        "verified": false
+      }
+    ]
+  }
+}

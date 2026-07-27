@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941067692158468096"
+      ],
+      "media_source_tweet_id": [
+        "1941067698127212636"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1947395130912051628",
+    "created_at": "2025-07-21T20:35:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T21:35:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947395130912051628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1753433273865498624",
+          "start": 3,
+          "username": "qiaoke_choco"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5kW6CVrFcN",
+          "end": 49,
+          "expanded_url": "https://x.com/qiaoke_choco/status/1941067698127212636/photo/1",
+          "media_key": "3_1941067692158468096",
+          "start": 26,
+          "url": "https://t.co/5kW6CVrFcN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947395130912051628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941067698127212636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiaoke_choco: 再来一张awa https://t.co/5kW6CVrFcN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1941067692158468096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvAOyCQXwAA1tM7.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941067692158468096"
+          ],
+          "media_source_tweet_id": [
+            "1941067698127212636"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1947395130912051628",
+        "created_at": "2025-07-21T20:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T21:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947395130912051628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753433273865498624",
+              "start": 3,
+              "username": "qiaoke_choco"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5kW6CVrFcN",
+              "end": 49,
+              "expanded_url": "https://x.com/qiaoke_choco/status/1941067698127212636/photo/1",
+              "media_key": "3_1941067692158468096",
+              "start": 26,
+              "url": "https://t.co/5kW6CVrFcN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947395130912051628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941067698127212636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiaoke_choco: 再来一张awa https://t.co/5kW6CVrFcN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941067692158468096"
+          ]
+        },
+        "author_id": "1753433273865498624",
+        "conversation_id": "1941067698127212636",
+        "created_at": "2025-07-04T09:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T10:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941067698127212636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5kW6CVrFcN",
+              "end": 31,
+              "expanded_url": "https://x.com/qiaoke_choco/status/1941067698127212636/photo/1",
+              "media_key": "3_1941067692158468096",
+              "start": 8,
+              "url": "https://t.co/5kW6CVrFcN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941067698127212636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "再来一张awa https://t.co/5kW6CVrFcN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 261,
+          "like_count": 8052,
+          "listed_count": 3,
+          "media_count": 106,
+          "tweet_count": 3837
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-02T15:00:58.000Z",
+        "description": "“反正就是，成分複雜音遊人？” 和我互fo！！｜中文/English/日本語｜自学日语，做些翻译和搬运｜10.05.01｜中国大陆｜\n臭打音游的/Minecraft内容创作者/捣鼓计算机/ACGN｜bilibili：巧克巧某人｜生活号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chocoqaq.com",
+                "end": 23,
+                "expanded_url": "http://chocoqaq.com",
+                "start": 0,
+                "url": "https://t.co/PKEaSDYDSL"
+              }
+            ]
+          }
+        },
+        "id": "1753433273865498624",
+        "location": "East Asia",
+        "name": "南雲チョコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753434022347485184/6nS4Ibjr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 123,
+          "like_count": 617,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 273
+        },
+        "url": "https://t.co/PKEaSDYDSL",
+        "username": "qiaoke_choco",
+        "verified": false
+      }
+    ]
+  }
+}

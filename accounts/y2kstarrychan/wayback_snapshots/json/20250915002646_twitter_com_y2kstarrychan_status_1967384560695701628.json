@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967370280717651968"
+      ],
+      "media_source_tweet_id": [
+        "1967370283008012381"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1967384560695701628",
+    "created_at": "2025-09-15T00:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T01:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967384560695701628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3244048580",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w40nn2ydzo",
+          "end": 63,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1967370283008012381/photo/1",
+          "media_key": "3_1967370280717651968",
+          "start": 40,
+          "url": "https://t.co/w40nn2ydzo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967384560695701628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967370283008012381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: 塔菲大法好，三进保平安，点赞，关注，收藏 https://t.co/w40nn2ydzo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1522,
+        "media_key": "3_1967370280717651968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G02A2MPWEAAXaJf.jpg",
+        "width": 1656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967370280717651968"
+          ],
+          "media_source_tweet_id": [
+            "1967370283008012381"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1967384560695701628",
+        "created_at": "2025-09-15T00:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T01:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967384560695701628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3244048580",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w40nn2ydzo",
+              "end": 63,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1967370283008012381/photo/1",
+              "media_key": "3_1967370280717651968",
+              "start": 40,
+              "url": "https://t.co/w40nn2ydzo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967384560695701628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967370283008012381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: 塔菲大法好，三进保平安，点赞，关注，收藏 https://t.co/w40nn2ydzo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967370280717651968"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1967370283008012381",
+        "created_at": "2025-09-14T23:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T00:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967370283008012381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w40nn2ydzo",
+              "end": 44,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1967370283008012381/photo/1",
+              "media_key": "3_1967370280717651968",
+              "start": 21,
+              "url": "https://t.co/w40nn2ydzo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967370283008012381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 110,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "塔菲大法好，三进保平安，点赞，关注，收藏 https://t.co/w40nn2ydzo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2770,
+          "following_count": 444,
+          "like_count": 35001,
+          "listed_count": 5,
+          "media_count": 128,
+          "tweet_count": 3989
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

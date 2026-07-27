@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941036408740675584"
+      ]
+    },
+    "author_id": "1632336255823519744",
+    "conversation_id": "1941036410326458702",
+    "created_at": "2025-07-04T07:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T08:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941036410326458702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8kpUMIzLto",
+          "end": 44,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1941036410326458702/photo/1",
+          "media_key": "3_1941036408740675584",
+          "start": 21,
+          "url": "https://t.co/8kpUMIzLto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941036410326458702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人民日报短短的几句话违反了多少条劳动法？ https://t.co/8kpUMIzLto"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 802,
+        "media_key": "3_1941036408740675584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu_yVGcWgAAhW96.jpg",
+        "width": 774
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941036408740675584"
+          ]
+        },
+        "author_id": "1632336255823519744",
+        "conversation_id": "1941036410326458702",
+        "created_at": "2025-07-04T07:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T08:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941036410326458702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8kpUMIzLto",
+              "end": 44,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1941036410326458702/photo/1",
+              "media_key": "3_1941036408740675584",
+              "start": 21,
+              "url": "https://t.co/8kpUMIzLto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941036410326458702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人民日报短短的几句话违反了多少条劳动法？ https://t.co/8kpUMIzLto"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-05T11:04:36.000Z",
+        "description": "",
+        "id": "1632336255823519744",
+        "name": "星璃酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940613301257306112/eyiVgmNl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 83,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

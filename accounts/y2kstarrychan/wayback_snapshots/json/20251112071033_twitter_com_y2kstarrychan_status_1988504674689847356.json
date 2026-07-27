@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1988454141849686429",
+    "created_at": "2025-11-12T07:10:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T08:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988504674689847356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1664948430920359936",
+          "start": 0,
+          "username": "Snowcomics9452"
+        },
+        {
+          "end": 29,
+          "id": "1873706565552979968",
+          "start": 16,
+          "username": "vitasoy_1022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988504674689847356",
+    "in_reply_to_user_id": "1664948430920359936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988504418157736238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snowcomics9452 @vitasoy_1022 看不懂什么意思（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1988454141849686429",
+        "created_at": "2025-11-12T07:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T08:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988504674689847356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1664948430920359936",
+              "start": 0,
+              "username": "Snowcomics9452"
+            },
+            {
+              "end": 29,
+              "id": "1873706565552979968",
+              "start": 16,
+              "username": "vitasoy_1022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988504674689847356",
+        "in_reply_to_user_id": "1664948430920359936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988504418157736238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snowcomics9452 @vitasoy_1022 看不懂什么意思（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664948430920359936",
+        "conversation_id": "1988454141849686429",
+        "created_at": "2025-11-12T07:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T08:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988504418157736238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1873706565552979968",
+              "start": 0,
+              "username": "vitasoy_1022"
+            },
+            {
+              "end": 28,
+              "id": "3244048580",
+              "start": 14,
+              "username": "y2kstarrychan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988504418157736238",
+        "in_reply_to_user_id": "1873706565552979968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988470618753540413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vitasoy_1022 @y2kstarrychan 另一個扺死 🤷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2859,
+          "following_count": 503,
+          "like_count": 40349,
+          "listed_count": 5,
+          "media_count": 137,
+          "tweet_count": 4024
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-03T10:53:52.000Z",
+        "description": "雪花手機新聞的中文版 /🏳️‍⚧️含糖MtX/F🍥/\n這裡是雪花新聞中心，追蹤各大品牌最新手機、平板等移動裝置的資訊與爆料平台。致力於為您第一時間帶來消息、掌握科技圈的最新動態。\n另類雪花: @RusndageSNF English: @Snowcomics 小貓窩: @SchneeSchmit 可線下面基",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "RusndageSNF"
+              },
+              {
+                "end": 129,
+                "start": 118,
+                "username": "Snowcomics"
+              },
+              {
+                "end": 148,
+                "start": 135,
+                "username": "SchneeSchmit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transky.mtf.wiki",
+                "end": 23,
+                "expanded_url": "https://transky.mtf.wiki/",
+                "start": 0,
+                "url": "https://t.co/z3o74Bauki"
+              }
+            ]
+          }
+        },
+        "id": "1664948430920359936",
+        "location": "香港 | Hong Kong",
+        "name": "雪花 (中文) ❄️",
+        "pinned_tweet_id": "1930283656918249583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984754407750418432/sYy8TN6j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922,
+          "following_count": 3457,
+          "like_count": 38160,
+          "listed_count": 4,
+          "media_count": 990,
+          "tweet_count": 8238
+        },
+        "url": "https://t.co/z3o74Bauki",
+        "username": "Snowcomics9452",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T12:24:17.000Z",
+        "description": "🇭🇰｜it/its｜12y｜❤️ @name_ftx_0411 ⬅️如果你关注了我请再关注这个人｜モリモリあつし大好き｜what is this? @wobushiv1tas0y｜🎯👎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "name_ftx_0411"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "wobushiv1tas0y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@vitasoy1022",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@vitasoy1022",
+                "start": 0,
+                "url": "https://t.co/rr4yW08tSr"
+              }
+            ]
+          }
+        },
+        "id": "1873706565552979968",
+        "location": "九龍醫院H座",
+        "name": "維他奶🦋🥛",
+        "pinned_tweet_id": "1980551190065869298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980550954731651072/3G3XR8Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 2252,
+          "like_count": 39414,
+          "listed_count": 2,
+          "media_count": 335,
+          "tweet_count": 8453
+        },
+        "url": "https://t.co/rr4yW08tSr",
+        "username": "vitasoy_1022",
+        "verified": false
+      }
+    ]
+  }
+}

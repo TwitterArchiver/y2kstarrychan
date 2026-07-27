@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1962810228334043437",
+    "created_at": "2025-09-02T09:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T10:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962811091517366287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1331221058301542400",
+          "start": 0,
+          "username": "hachineko1208"
+        },
+        {
+          "end": 34,
+          "id": "1604181895721504771",
+          "start": 19,
+          "username": "mengtunwudaimu"
+        },
+        {
+          "end": 45,
+          "id": "1488080791125237760",
+          "start": 35,
+          "username": "MengXi969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962811091517366287",
+    "in_reply_to_user_id": "1331221058301542400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962810228334043437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hachineko1208 怀孕的 @mengtunwudaimu @MengXi969"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1960303277771522048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzRlceubAAAOG0f.jpg",
+        "width": 904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1962810228334043437",
+        "created_at": "2025-09-02T09:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T10:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962811091517366287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1331221058301542400",
+              "start": 0,
+              "username": "hachineko1208"
+            },
+            {
+              "end": 34,
+              "id": "1604181895721504771",
+              "start": 19,
+              "username": "mengtunwudaimu"
+            },
+            {
+              "end": 45,
+              "id": "1488080791125237760",
+              "start": 35,
+              "username": "MengXi969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962811091517366287",
+        "in_reply_to_user_id": "1331221058301542400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962810228334043437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hachineko1208 怀孕的 @mengtunwudaimu @MengXi969"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960303277771522048"
+          ]
+        },
+        "author_id": "1331221058301542400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1962810228334043437",
+        "created_at": "2025-09-02T09:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T10:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962810228334043437"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "AIart"
+            },
+            {
+              "end": 14,
+              "start": 7,
+              "tag": "AIイラスト"
+            },
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "おにまい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vxQpasBxjI",
+              "end": 44,
+              "expanded_url": "https://x.com/hachineko1208/status/1962810228334043437/photo/1",
+              "media_key": "3_1960303277771522048",
+              "start": 21,
+              "url": "https://t.co/vxQpasBxjI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962810228334043437",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#AIart #AIイラスト #おにまい https://t.co/vxQpasBxjI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2378,
+          "following_count": 414,
+          "like_count": 31275,
+          "listed_count": 5,
+          "media_count": 125,
+          "tweet_count": 3981
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-24T13:00:50.000Z",
+        "description": "福摩薩最兇殘的耄耋，是你今晚的噩夢喵\n#讓我們一同登上新高山\n\n | 福摩薩第一包蜜\n | 喜歡的作品是鬼滅汁刃喵\n | 不同意福摩薩建國的耗子尾汁喵\n | 素人AIイラスト師\n | マシュマロ投稿👉 https://t.co/edC2FttXmV \n | 雜文帳 @patungkuonu1208",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 19,
+                "tag": "讓我們一同登上新高山"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 133,
+                "username": "patungkuonu1208"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/74vEQb",
+                "end": 124,
+                "expanded_url": "https://reurl.cc/74vEQb",
+                "start": 101,
+                "url": "https://t.co/edC2FttXmV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@hachineko1208",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@hachineko1208",
+                "start": 0,
+                "url": "https://t.co/phr8hTLNkv"
+              }
+            ]
+          }
+        },
+        "id": "1331221058301542400",
+        "location": "Res Publica Formosana",
+        "name": "小八猫 💹北角銀行招財貓 🏔️八通關山友會萌寵",
+        "pinned_tweet_id": "1941784183535485036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956694755938840576/sHPvIxkr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 701,
+          "like_count": 243700,
+          "listed_count": 13,
+          "media_count": 2456,
+          "tweet_count": 15651
+        },
+        "url": "https://t.co/phr8hTLNkv",
+        "username": "hachineko1208",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T18:29:10.000Z",
+        "description": "台独顽固分子🇹🇼/推特正能量博主/温和支黑/包容不同立场/欢迎互fo私信\n\n曾经我也是一个中国普通人，活生生被无脑支➗逼成了支黑😎",
+        "id": "1604181895721504771",
+        "location": "IP属地：南京",
+        "name": "川和喵酱薯条🍟🇯🇵井外势力",
+        "pinned_tweet_id": "1729765345424990414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813041031300194304/wjvBcT48_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11972,
+          "following_count": 2539,
+          "like_count": 24386,
+          "listed_count": 140,
+          "media_count": 1947,
+          "tweet_count": 11891
+        },
+        "username": "mengtunwudaimu",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "14 y.r. / Frontend / CTFer / Middle School Student / Nexaorion & LightXi Inc.\n👉The funder of @nexaorion @LankoZone\n💕@SnowballLoveyou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 93,
+                "username": "nexaorion"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "LankoZone"
+              },
+              {
+                "end": 132,
+                "start": 116,
+                "username": "SnowballLoveyou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/TIHBlJvNBL"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "location": "People's Republic of China",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1853441796048814491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639818034406907904/P_yUZofL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 2097,
+          "like_count": 41825,
+          "listed_count": 2,
+          "media_count": 431,
+          "tweet_count": 2789
+        },
+        "url": "https://t.co/TIHBlJvNBL",
+        "username": "MengXi969",
+        "verified": true
+      }
+    ]
+  }
+}

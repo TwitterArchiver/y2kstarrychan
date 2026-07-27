@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2009495528346894454",
+    "created_at": "2026-01-09T06:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T07:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009512022724288766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1755765450707709952",
+          "start": 0,
+          "username": "huajuanshiwo"
+        },
+        {
+          "end": 29,
+          "id": "1810873766119100416",
+          "start": 14,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009512022724288766",
+    "in_reply_to_user_id": "1755765450707709952",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009495528346894454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huajuanshiwo @RainEngine2024"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009495511888285696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-MphXPX0AAONjh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2009495511896637440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-MphXRXQAARzGF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2009495528346894454",
+        "created_at": "2026-01-09T06:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T07:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009512022724288766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1755765450707709952",
+              "start": 0,
+              "username": "huajuanshiwo"
+            },
+            {
+              "end": 29,
+              "id": "1810873766119100416",
+              "start": 14,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009512022724288766",
+        "in_reply_to_user_id": "1755765450707709952",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009495528346894454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajuanshiwo @RainEngine2024"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009495511888285696",
+            "3_2009495511896637440"
+          ]
+        },
+        "author_id": "1755765450707709952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009495528346894454",
+        "created_at": "2026-01-09T05:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T06:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009495528346894454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yLu0yVFB7E",
+              "end": 40,
+              "expanded_url": "https://x.com/huajuanshiwo/status/2009495528346894454/photo/1",
+              "media_key": "3_2009495511888285696",
+              "start": 17,
+              "url": "https://t.co/yLu0yVFB7E"
+            },
+            {
+              "display_url": "pic.x.com/yLu0yVFB7E",
+              "end": 40,
+              "expanded_url": "https://x.com/huajuanshiwo/status/2009495528346894454/photo/1",
+              "media_key": "3_2009495511896637440",
+              "start": 17,
+              "url": "https://t.co/yLu0yVFB7E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009495528346894454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "杭州的小米上怎么还有Play商店 https://t.co/yLu0yVFB7E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3015,
+          "following_count": 686,
+          "like_count": 47771,
+          "listed_count": 5,
+          "media_count": 141,
+          "tweet_count": 4217
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-09T01:28:44.000Z",
+        "description": "这里是死掉的树海 | 谢谢你了解我哦 | 回fo请私信 | feat.君 | 我希望我最后能感谢这一切，因为我和你在一起",
+        "id": "1755765450707709952",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "2007422861984641291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004504021785071616/3r_0Vu5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1971,
+          "following_count": 2226,
+          "like_count": 49189,
+          "listed_count": 6,
+          "media_count": 1649,
+          "tweet_count": 10564
+        },
+        "username": "huajuanshiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "小米合作伙伴/米家线下运营/互联网小透明/喜欢拍照记录生活/爱好折腾数码产品/PM前请征得同意否则Ban/回复消息可能不及时还请谅解/最棒的女孩子w @Sokei_ko_nya/ GMT+8/ZH-CN/EN-US is OK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "Sokei_ko_nya"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴晴🍥",
+        "pinned_tweet_id": "2001491202013827260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004323467546841088/arnUFBzl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4968,
+          "following_count": 707,
+          "like_count": 41778,
+          "listed_count": 6,
+          "media_count": 923,
+          "tweet_count": 6030
+        },
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

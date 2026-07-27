@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1992230884444078543",
+    "created_at": "2025-11-22T23:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T00:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992367962255483346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1965351173872820224",
+          "start": 0,
+          "username": "BT_7324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992367962255483346",
+    "in_reply_to_user_id": "1965351173872820224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992230884444078543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BT_7324 好奇你能不能单三清图绝航（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1992230884444078543",
+        "created_at": "2025-11-22T23:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T00:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992367962255483346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1965351173872820224",
+              "start": 0,
+              "username": "BT_7324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992367962255483346",
+        "in_reply_to_user_id": "1965351173872820224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992230884444078543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BT_7324 好奇你能不能单三清图绝航（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965351173872820224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "1992230884444078543",
+        "created_at": "2025-11-22T13:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T14:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992230884444078543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BT_7324/status…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/BT_7324/status/1970109566202556746",
+              "start": 97,
+              "url": "https://t.co/T92IrD9Lm2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992230884444078543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1730,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970109566202556746",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "分享一下我的心路历程:\n从八个月前休学开始\n\n烘焙→\nCAD画电路板→\n写代码→\n手游fps(护航)→\nAE动画→\n3D建模\n除了CAD和代码，我都尽力了\n\n特别是手游，已经发展到五指了... https://t.co/T92IrD9Lm2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2889,
+          "following_count": 534,
+          "like_count": 41647,
+          "listed_count": 5,
+          "media_count": 138,
+          "tweet_count": 4038
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-09T09:47:06.000Z",
+        "description": "励志成为blender大师！（原创背景）没回fo就是在建模",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/DeMusic7324/De…",
+                "end": 23,
+                "expanded_url": "https://github.com/DeMusic7324/Demonstrate-Music.git",
+                "start": 0,
+                "url": "https://t.co/yRtaaYP2Zg"
+              }
+            ]
+          }
+        },
+        "id": "1965351173872820224",
+        "location": "ᵃᵛᵉᵐᵘʲⁱᶜᵃ",
+        "name": "zzz",
+        "pinned_tweet_id": "1983193690924609876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985252901594505216/5d7RL0mJ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 1864,
+          "like_count": 6072,
+          "listed_count": 2,
+          "media_count": 1331,
+          "tweet_count": 3740
+        },
+        "url": "https://t.co/yRtaaYP2Zg",
+        "username": "BT_7324",
+        "verified": false
+      }
+    ]
+  }
+}

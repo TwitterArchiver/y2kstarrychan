@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940933015862976512"
+      ],
+      "media_source_tweet_id": [
+        "1940933017692000626"
+      ]
+    },
+    "author_id": "1632336255823519744",
+    "conversation_id": "1940933035643621746",
+    "created_at": "2025-07-04T00:37:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T01:37:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940933035643621746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1632336255823519744",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bXwA1ubFlX",
+          "end": 63,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1940933017692000626/photo/1",
+          "media_key": "3_1940933015862976512",
+          "start": 40,
+          "url": "https://t.co/bXwA1ubFlX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940933035643621746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940933017692000626",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: 人民日报短短的几句话违反了多少条劳动法? https://t.co/bXwA1ubFlX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 802,
+        "media_key": "3_1940933015862976512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu-US19XIAAmsIf.jpg",
+        "width": 774
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940933015862976512"
+          ],
+          "media_source_tweet_id": [
+            "1940933017692000626"
+          ]
+        },
+        "author_id": "1632336255823519744",
+        "conversation_id": "1940933035643621746",
+        "created_at": "2025-07-04T00:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T01:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940933035643621746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1632336255823519744",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bXwA1ubFlX",
+              "end": 63,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1940933017692000626/photo/1",
+              "media_key": "3_1940933015862976512",
+              "start": 40,
+              "url": "https://t.co/bXwA1ubFlX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940933035643621746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940933017692000626",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: 人民日报短短的几句话违反了多少条劳动法? https://t.co/bXwA1ubFlX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940933015862976512"
+          ]
+        },
+        "author_id": "1632336255823519744",
+        "conversation_id": "1940933017692000626",
+        "created_at": "2025-07-04T00:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T01:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940933017692000626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bXwA1ubFlX",
+              "end": 44,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1940933017692000626/photo/1",
+              "media_key": "3_1940933015862976512",
+              "start": 21,
+              "url": "https://t.co/bXwA1ubFlX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940933017692000626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "人民日报短短的几句话违反了多少条劳动法? https://t.co/bXwA1ubFlX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-05T11:04:36.000Z",
+        "description": "",
+        "id": "1632336255823519744",
+        "name": "y2kchan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940613301257306112/eyiVgmNl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 27,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

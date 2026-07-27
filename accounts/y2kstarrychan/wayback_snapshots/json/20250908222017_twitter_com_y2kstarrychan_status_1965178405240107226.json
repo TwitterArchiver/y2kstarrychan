@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1964828575120740423",
+    "created_at": "2025-09-08T22:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T23:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965178405240107226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        },
+        {
+          "end": 24,
+          "id": "1671144316734169088",
+          "start": 10,
+          "username": "TennoujiNyano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965178405240107226",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964991974517420512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu @TennoujiNyano 所以为什么不学北京买三星闸机？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1964828575120740423",
+        "created_at": "2025-09-08T22:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T23:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965178405240107226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            },
+            {
+              "end": 24,
+              "id": "1671144316734169088",
+              "start": 10,
+              "username": "TennoujiNyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965178405240107226",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964991974517420512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu @TennoujiNyano 所以为什么不学北京买三星闸机？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "conversation_id": "1964828575120740423",
+        "created_at": "2025-09-08T09:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T10:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964991974517420512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1671144316734169088",
+              "start": 0,
+              "username": "TennoujiNyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964991974517420512",
+        "in_reply_to_user_id": "1671144316734169088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964828575120740423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TennoujiNyano 别问 问就是深铁闸机没做polyfill"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2781,
+          "following_count": 425,
+          "like_count": 33552,
+          "listed_count": 5,
+          "media_count": 125,
+          "tweet_count": 3984
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦可以叫我小箱子/💻开源开发/🎨平面设计/🚇轨道交通/全栈&LLM&UI&UX/🐱Github: sheepbox8646/EN: @acbox_lol/写代码的小女孩/想要成为人类的小阿斯/常驻大湾区/Building EchoAI and @sciuxkit /Founder of @bijon_ai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "acbox_lol"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "sciuxkit"
+              },
+              {
+                "end": 153,
+                "start": 144,
+                "username": "bijon_ai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvKAZ"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "深圳/大湾区",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "1964617558675611999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959456533550649344/-FieohZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5932,
+          "following_count": 3023,
+          "like_count": 2641,
+          "listed_count": 24,
+          "media_count": 963,
+          "tweet_count": 4869
+        },
+        "url": "https://t.co/mRP5RDvKAZ",
+        "username": "AcboxLiu",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-20T13:14:02.000Z",
+        "description": "最可爱无可替代的主人@OriyukiAkari❤️｜可爱的妹妹@SakuraizumiSayo ｜老姐@NomoreTsukum0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "OriyukiAkari"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "SakuraizumiSayo"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "NomoreTsukum0"
+              }
+            ]
+          }
+        },
+        "id": "1671144316734169088",
+        "location": "1 Queen’s Road Central",
+        "name": "淺羽澪奈",
+        "pinned_tweet_id": "1956352365726187946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960465171576709123/9IKaWSCc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 716,
+          "like_count": 2585,
+          "listed_count": 2,
+          "media_count": 659,
+          "tweet_count": 4309
+        },
+        "username": "TennoujiNyano",
+        "verified": false
+      }
+    ]
+  }
+}

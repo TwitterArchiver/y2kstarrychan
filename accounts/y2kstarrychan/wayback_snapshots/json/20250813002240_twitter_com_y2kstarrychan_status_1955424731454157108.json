@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      }
+    ],
+    "conversation_id": "1948000565117825048",
+    "created_at": "2025-08-13T00:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T01:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955424731454157108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1830493173099208704",
+          "start": 0,
+          "username": "LeeWilliam99928"
+        },
+        {
+          "end": 32,
+          "id": "1809087716182872064",
+          "start": 17,
+          "username": "xiangsaixue520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955424731454157108",
+    "in_reply_to_user_id": "1830493173099208704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "小米nova11se\n处理器：骁龙680（4g版）—美国\nROM：三星ufs2.2—韩国\nRAM：三星lpddr4x—韩国\nwifi/蓝牙：高通WCN3950—美国\n电源：高通 PM6225—美国\n触控ic：新思s3911—美国\n主摄：三星S5KHM6一亿像素—韩国\n超广角：800万像素豪威ov88560—中国\n微距：200万像素豪威ov02b10—中国\n听筒：0809瑞声科技—中国\n单扬声器：1115D瑞声科技—中国\n主板PCB：惠州中京电子—中国\n副板PCB：胜宏科技—中国\n圆形转子马达\n电池：4500毫安时福建飞毛腿\n屏幕：京东方小黄鸭1080p"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955412381015929315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeeWilliam99928 @xiangsaixue520 小米nova11se\n处理器：骁龙680（4g版）—美国\nROM：三星ufs2.2—韩国\nRAM：三星lpddr4x—韩国\nwifi/蓝牙：高通WCN3950—美国\n电源：高通 PM6225—美国\n触控ic：新思s3911—美国\n主摄：三星S5KHM6一亿像素—韩国\n超广角：800万像素豪威ov88560—中国\n微距：200万像素豪威ov02b10—中国\n听筒：0809瑞声科技—中国"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "1948000565117825048",
+        "created_at": "2025-08-13T00:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T01:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955424731454157108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1830493173099208704",
+              "start": 0,
+              "username": "LeeWilliam99928"
+            },
+            {
+              "end": 32,
+              "id": "1809087716182872064",
+              "start": 17,
+              "username": "xiangsaixue520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955424731454157108",
+        "in_reply_to_user_id": "1830493173099208704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "小米nova11se\n处理器：骁龙680（4g版）—美国\nROM：三星ufs2.2—韩国\nRAM：三星lpddr4x—韩国\nwifi/蓝牙：高通WCN3950—美国\n电源：高通 PM6225—美国\n触控ic：新思s3911—美国\n主摄：三星S5KHM6一亿像素—韩国\n超广角：800万像素豪威ov88560—中国\n微距：200万像素豪威ov02b10—中国\n听筒：0809瑞声科技—中国\n单扬声器：1115D瑞声科技—中国\n主板PCB：惠州中京电子—中国\n副板PCB：胜宏科技—中国\n圆形转子马达\n电池：4500毫安时福建飞毛腿\n屏幕：京东方小黄鸭1080p"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955412381015929315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeeWilliam99928 @xiangsaixue520 小米nova11se\n处理器：骁龙680（4g版）—美国\nROM：三星ufs2.2—韩国\nRAM：三星lpddr4x—韩国\nwifi/蓝牙：高通WCN3950—美国\n电源：高通 PM6225—美国\n触控ic：新思s3911—美国\n主摄：三星S5KHM6一亿像素—韩国\n超广角：800万像素豪威ov88560—中国\n微距：200万像素豪威ov02b10—中国\n听筒：0809瑞声科技—中国"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830493173099208704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1948000565117825048",
+        "created_at": "2025-08-12T23:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T00:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955412381015929315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1809087716182872064",
+              "start": 0,
+              "username": "xiangsaixue520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955412381015929315",
+        "in_reply_to_user_id": "1809087716182872064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948000565117825048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangsaixue520 日韩台芯片永远吊打华为麒麟海军！😁\n屏幕：三星lg 和日本jdi以及合资的华星吊打国产的 垃圾京东方，垃圾天马，维信诺\n存储：三星，sk海里士，日本铠侠（元东芝存储）永远吊打乐瑟 长江存储（致态）和长鑫\nSoc：高通和台湾联发科以及三星猎户座吊打华为麒麟海思\n手机：华为在中国之外国外已经完蛋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922,
+          "following_count": 350,
+          "like_count": 20725,
+          "listed_count": 3,
+          "media_count": 114,
+          "tweet_count": 3920
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-02T06:29:47.000Z",
+        "description": "",
+        "id": "1830493173099208704",
+        "name": "艾蓮·山魚·翁Eileen Mntfish Ong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927338057742565376/jgVUflE0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 2465,
+          "like_count": 2094,
+          "listed_count": 3,
+          "media_count": 658,
+          "tweet_count": 5913
+        },
+        "username": "LeeWilliam99928",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T04:51:59.000Z",
+        "description": "鬓云欲度香腮雪，懒起画峨眉，弄妆梳洗迟\n很温柔，甜度很高，不能食用哦🙄\n已经工作啦，喜欢传播新闻和美好\n爱文学，历史，哲学，旅游，拍照，游戏，还有羽毛球🏸\n小号@Caibupa333，防止又挂了\n＃好朋友@qinglongxiangmo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "好朋友"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "Caibupa333"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "qinglongxiangmo"
+              }
+            ]
+          }
+        },
+        "id": "1809087716182872064",
+        "location": "Hong Kong",
+        "name": "小雪妹妹",
+        "pinned_tweet_id": "1860511512110231750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824801467775209473/QKH97UGM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 516,
+          "like_count": 3971,
+          "listed_count": 7,
+          "media_count": 1047,
+          "tweet_count": 4825
+        },
+        "username": "xiangsaixue520",
+        "verified": false
+      }
+    ]
+  }
+}

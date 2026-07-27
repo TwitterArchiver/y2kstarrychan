@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000118525176819712"
+      ],
+      "media_source_tweet_id": [
+        "2000118526468567217"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "2000118571108540586",
+    "created_at": "2025-12-14T08:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T09:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000118571108540586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3244048580",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eT9Ce8XAd8",
+          "end": 51,
+          "expanded_url": "https://x.com/y2kstarrychan/status/2000118526468567217/photo/1",
+          "media_key": "3_2000118525176819712",
+          "start": 28,
+          "url": "https://t.co/eT9Ce8XAd8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000118571108540586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000118526468567217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: 所以应该听谁的？ https://t.co/eT9Ce8XAd8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1096,
+        "media_key": "3_2000118525176819712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8HZM5nXsAA2PoE.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000118525176819712"
+          ],
+          "media_source_tweet_id": [
+            "2000118526468567217"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "2000118571108540586",
+        "created_at": "2025-12-14T08:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T09:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000118571108540586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3244048580",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eT9Ce8XAd8",
+              "end": 51,
+              "expanded_url": "https://x.com/y2kstarrychan/status/2000118526468567217/photo/1",
+              "media_key": "3_2000118525176819712",
+              "start": 28,
+              "url": "https://t.co/eT9Ce8XAd8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000118571108540586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000118526468567217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: 所以应该听谁的？ https://t.co/eT9Ce8XAd8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000118525176819712"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "2000118526468567217",
+        "created_at": "2025-12-14T08:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T09:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000118526468567217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eT9Ce8XAd8",
+              "end": 32,
+              "expanded_url": "https://x.com/y2kstarrychan/status/2000118526468567217/photo/1",
+              "media_key": "3_2000118525176819712",
+              "start": 9,
+              "url": "https://t.co/eT9Ce8XAd8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000118526468567217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "所以应该听谁的？ https://t.co/eT9Ce8XAd8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997887294787796992/LkclvzQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2915,
+          "following_count": 568,
+          "like_count": 44102,
+          "listed_count": 5,
+          "media_count": 145,
+          "tweet_count": 4071
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2009321353946779893",
+    "created_at": "2026-01-09T01:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T02:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009434181156352293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1600096860114501633",
+          "start": 0,
+          "username": "Hoshino_Ayaka97"
+        },
+        {
+          "end": 28,
+          "id": "1685499489493323776",
+          "start": 17,
+          "username": "GuiMengNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009434181156352293",
+    "in_reply_to_user_id": "1600096860114501633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009430875214324084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshino_Ayaka97 @GuiMengNya 之前：会女装的男生计算机好\n现在：男同学习成绩好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2009321353946779893",
+        "created_at": "2026-01-09T01:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T02:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009434181156352293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1600096860114501633",
+              "start": 0,
+              "username": "Hoshino_Ayaka97"
+            },
+            {
+              "end": 28,
+              "id": "1685499489493323776",
+              "start": 17,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009434181156352293",
+        "in_reply_to_user_id": "1600096860114501633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009430875214324084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshino_Ayaka97 @GuiMengNya 之前：会女装的男生计算机好\n现在：男同学习成绩好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600096860114501633",
+        "conversation_id": "2009321353946779893",
+        "created_at": "2026-01-09T01:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T02:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009430875214324084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009430875214324084",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009321353946779893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 这是要塑造新刻板印象吗🧐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3017,
+          "following_count": 688,
+          "like_count": 47612,
+          "listed_count": 5,
+          "media_count": 143,
+          "tweet_count": 4207
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T11:56:44.000Z",
+        "description": "成为一只可爱的会飞的猫猫，到世界各地旅行（睡懒觉）|火星殖民地大小姐|地球猫猫教|Betelgeuse Traveler|EarthOnline Player||🦋→https://t.co/WnD9mVRLvR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/hoshin…",
+                "end": 107,
+                "expanded_url": "https://bsky.app/profile/hoshinoayaka97.bsky.social",
+                "start": 84,
+                "url": "https://t.co/WnD9mVRLvR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hoshino_Ayaka",
+                "end": 23,
+                "expanded_url": "https://t.me/Hoshino_Ayaka",
+                "start": 0,
+                "url": "https://t.co/LXAlX7duga"
+              }
+            ]
+          }
+        },
+        "id": "1600096860114501633",
+        "location": "地球联邦火星殖民地",
+        "name": "星野スーパーあやかAyakaカフェイン中毒$エネルギー不足",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600097324558163968/K7Vihna7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 538,
+          "like_count": 28702,
+          "listed_count": 1,
+          "media_count": 410,
+          "tweet_count": 2813
+        },
+        "url": "https://t.co/LXAlX7duga",
+        "username": "Hoshino_Ayaka97",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3662,
+          "following_count": 341,
+          "like_count": 7675,
+          "listed_count": 15,
+          "media_count": 652,
+          "tweet_count": 2532
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

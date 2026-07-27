@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980119058084155392"
+      ],
+      "media_source_tweet_id": [
+        "1980119060546462195"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1980119082717610381",
+    "created_at": "2025-10-20T03:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T04:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980119082717610381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3244048580",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PAYkqVs7C9",
+          "end": 51,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1980119060546462195/photo/1",
+          "media_key": "3_1980119058084155392",
+          "start": 28,
+          "url": "https://t.co/PAYkqVs7C9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980119082717610381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980119060546462195",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: 这才是真正的大红 https://t.co/PAYkqVs7C9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1937,
+        "media_key": "3_1980119058084155392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3rLys4WUAAdF5X.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980119058084155392"
+          ],
+          "media_source_tweet_id": [
+            "1980119060546462195"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1980119082717610381",
+        "created_at": "2025-10-20T03:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T04:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980119082717610381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3244048580",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PAYkqVs7C9",
+              "end": 51,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1980119060546462195/photo/1",
+              "media_key": "3_1980119058084155392",
+              "start": 28,
+              "url": "https://t.co/PAYkqVs7C9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980119082717610381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980119060546462195",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: 这才是真正的大红 https://t.co/PAYkqVs7C9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980119058084155392"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1980119060546462195",
+        "created_at": "2025-10-20T03:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T04:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980119060546462195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PAYkqVs7C9",
+              "end": 32,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1980119060546462195/photo/1",
+              "media_key": "3_1980119058084155392",
+              "start": 9,
+              "url": "https://t.co/PAYkqVs7C9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980119060546462195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这才是真正的大红 https://t.co/PAYkqVs7C9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2822,
+          "following_count": 464,
+          "like_count": 38673,
+          "listed_count": 5,
+          "media_count": 132,
+          "tweet_count": 3998
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

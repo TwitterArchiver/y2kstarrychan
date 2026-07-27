@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043933250582917122"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "2043933252432339016",
+    "created_at": "2026-04-14T06:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T07:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043933252432339016"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MzjtKvnbo7",
+          "end": 35,
+          "expanded_url": "https://x.com/y2kstarrychan/status/2043933252432339016/photo/1",
+          "media_key": "3_2043933250582917122",
+          "start": 12,
+          "url": "https://t.co/MzjtKvnbo7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043933252432339016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为何鬼佛会出现在现世？ https://t.co/MzjtKvnbo7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1811,
+        "media_key": "3_2043933250582917122",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2CdlGasAI13oB.jpg",
+        "width": 957
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043933250582917122"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "2043933252432339016",
+        "created_at": "2026-04-14T06:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043933252432339016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MzjtKvnbo7",
+              "end": 35,
+              "expanded_url": "https://x.com/y2kstarrychan/status/2043933252432339016/photo/1",
+              "media_key": "3_2043933250582917122",
+              "start": 12,
+              "url": "https://t.co/MzjtKvnbo7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043933252432339016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为何鬼佛会出现在现世？ https://t.co/MzjtKvnbo7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2873,
+          "following_count": 795,
+          "like_count": 52048,
+          "listed_count": 5,
+          "media_count": 152,
+          "tweet_count": 4337
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      }
+    ]
+  }
+}

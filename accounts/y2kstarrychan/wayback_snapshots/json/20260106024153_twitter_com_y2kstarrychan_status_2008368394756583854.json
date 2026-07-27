@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2008342847192175103",
+    "created_at": "2026-01-06T02:41:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T03:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008368394756583854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845668678387515392",
+          "start": 0,
+          "username": "dilei114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008368394756583854",
+    "in_reply_to_user_id": "1845668678387515392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008342847192175103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dilei114 因为他们玩网易版"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2008342847192175103",
+        "created_at": "2026-01-06T02:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T03:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008368394756583854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845668678387515392",
+              "start": 0,
+              "username": "dilei114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008368394756583854",
+        "in_reply_to_user_id": "1845668678387515392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008342847192175103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dilei114 因为他们玩网易版"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845668678387515392",
+        "conversation_id": "2008342847192175103",
+        "created_at": "2026-01-06T01:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T02:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008342847192175103"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008342847192175103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 54,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直很疑惑，《我的世界》作为游戏史上销量最高的游戏，基本上我认识的每个人都玩过。而《GTA5》作为销量第二高的游戏，无论是在网上还是现实中，我认识的人似乎没几个玩这个游戏的…\n这俩游戏的销量又不存在断档式的差距啊，为何会有这种情况呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3005,
+          "following_count": 677,
+          "like_count": 47062,
+          "listed_count": 5,
+          "media_count": 144,
+          "tweet_count": 4193
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T03:31:27.000Z",
+        "description": "会很友善的对待大家的哟 ✧(≖ ◡ ≖✿)｜偶尔是小男娘 ?丨不对线｜无明确意识形态｜拒绝一切极端人｜会尽最大努力避免与任何人发生冲突｜做个萌萌人｜绝对不会主动骂人或人身攻击｜不会因立场不同而屏蔽或辱骂他人｜会屏蔽乱骂人的账号｜可能会出现误屏蔽的情况｜善待每一位能好好说话的推友❤️丨🔞小号@baojiangdilei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 145,
+                "username": "baojiangdilei"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "18comic.vip",
+                "end": 23,
+                "expanded_url": "http://18comic.vip",
+                "start": 0,
+                "url": "https://t.co/li0aYkyZOF"
+              }
+            ]
+          }
+        },
+        "id": "1845668678387515392",
+        "location": "D.P.R.KOREN",
+        "name": "爆浆地雷😘",
+        "pinned_tweet_id": "1913817499562639368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928477544153759744/blr9epX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 674,
+          "like_count": 174636,
+          "listed_count": 5,
+          "media_count": 1031,
+          "tweet_count": 11073
+        },
+        "url": "https://t.co/li0aYkyZOF",
+        "username": "dilei114",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2048987366581579969",
+    "created_at": "2026-04-28T04:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T05:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048989739756212696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2021505488337416192",
+          "start": 0,
+          "username": "5chyms"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048989739756212696",
+    "in_reply_to_user_id": "2021505488337416192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048989618255839664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5chyms 要不要吃我"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2048989618255839664].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2048989618255839664",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2048989618255839664"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2048987366581579969",
+        "created_at": "2026-04-28T04:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048989739756212696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2021505488337416192",
+              "start": 0,
+              "username": "5chyms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048989739756212696",
+        "in_reply_to_user_id": "2021505488337416192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048989618255839664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5chyms 要不要吃我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2966,
+          "following_count": 821,
+          "like_count": 53346,
+          "listed_count": 5,
+          "media_count": 155,
+          "tweet_count": 4393
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T08:44:15.000Z",
+        "description": "花，我始终都在这里。 https://t.co/E5w4a5cLsw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/Z4qoVLc",
+                "end": 34,
+                "expanded_url": "https://b23.tv/Z4qoVLc",
+                "start": 11,
+                "url": "https://t.co/E5w4a5cLsw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "acg.rip",
+                "end": 23,
+                "expanded_url": "http://acg.rip",
+                "start": 0,
+                "url": "https://t.co/7lyUL1iWac"
+              }
+            ]
+          }
+        },
+        "id": "2021505488337416192",
+        "location": "Japan",
+        "name": "花漫阳春",
+        "pinned_tweet_id": "2048796518229131289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048795042991738880/UMh5OtPf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 623,
+          "like_count": 2982,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 418
+        },
+        "url": "https://t.co/7lyUL1iWac",
+        "username": "5chyms",
+        "verified": true
+      }
+    ]
+  }
+}

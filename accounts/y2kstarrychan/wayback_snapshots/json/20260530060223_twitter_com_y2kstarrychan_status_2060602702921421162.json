@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2060315320200343731",
+    "created_at": "2026-05-30T06:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T07:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060602702921421162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1643785305533874177",
+          "start": 0,
+          "username": "MeraK_Rinchi"
+        },
+        {
+          "end": 29,
+          "id": "1870336533342932992",
+          "start": 14,
+          "username": "AsahinaShikure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060602702921421162",
+    "in_reply_to_user_id": "1643785305533874177",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060583565998666229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeraK_Rinchi @AsahinaShikure love success spam"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2060315320200343731",
+        "created_at": "2026-05-30T06:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060602702921421162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1643785305533874177",
+              "start": 0,
+              "username": "MeraK_Rinchi"
+            },
+            {
+              "end": 29,
+              "id": "1870336533342932992",
+              "start": 14,
+              "username": "AsahinaShikure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060602702921421162",
+        "in_reply_to_user_id": "1643785305533874177",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060583565998666229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeraK_Rinchi @AsahinaShikure love success spam"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643785305533874177",
+        "conversation_id": "2060315320200343731",
+        "created_at": "2026-05-30T04:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060583565998666229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870336533342932992",
+              "start": 0,
+              "username": "AsahinaShikure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060583565998666229",
+        "in_reply_to_user_id": "1870336533342932992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060315320200343731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsahinaShikure love courage hope"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2946,
+          "following_count": 835,
+          "like_count": 54833,
+          "listed_count": 5,
+          "media_count": 155,
+          "tweet_count": 4418
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T01:19:01.000Z",
+        "description": "Karagawa Roku \\ 旧名凛柒 \\ INFJ-T/OH \\ 数学天才 \\ 音游人 \\ RTS & F/TPS玩家 \\ 擅长分析学 \\ 底力溢出 \\ 栓狙专精 \\ 推：白金燐子&東雲絵名 ——「望む結末へと伸ばした両手」\n逃生舱：@Go_Karagawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 119,
+                "username": "Go_Karagawa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/karagawa_roku2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/karagawa_roku2",
+                "start": 0,
+                "url": "https://t.co/H1yqKwcN6p"
+              }
+            ]
+          }
+        },
+        "id": "1643785305533874177",
+        "location": "Tokyo-to, Japan",
+        "name": "༺空川🎇陸🎆༻",
+        "pinned_tweet_id": "2060427337003618557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028407094052012032/kaLqtjRk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 518,
+          "like_count": 18019,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1567
+        },
+        "url": "https://t.co/H1yqKwcN6p",
+        "username": "MeraK_Rinchi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T05:12:44.000Z",
+        "description": "Singaporean🇸🇬/Junior High Sec 3 student/Age 14/MtF🏳️‍⚧️/Radical transgenderism/Project Sekai/Langs:🇺🇸🇹🇼🇯🇵🇫🇷/President of Union Republic of Griffin",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 23,
+                "expanded_url": "https://www.gov-urg.net",
+                "start": 0,
+                "url": "https://t.co/hX5y0S4sur"
+              }
+            ]
+          }
+        },
+        "id": "1870336533342932992",
+        "location": "Central Region, Singapore🇸🇬",
+        "name": "Asahina Shikure 朝比奈丶志暮🏳️‍⚧️",
+        "pinned_tweet_id": "2060547824933028300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057840599999639552/7hAGSJcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 692,
+          "like_count": 3017,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 559
+        },
+        "url": "https://t.co/hX5y0S4sur",
+        "username": "AsahinaShikure",
+        "verified": true
+      }
+    ]
+  }
+}

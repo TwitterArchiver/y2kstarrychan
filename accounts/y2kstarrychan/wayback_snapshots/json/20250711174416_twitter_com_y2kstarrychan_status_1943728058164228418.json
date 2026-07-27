@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1943727028018053254",
+    "created_at": "2025-07-11T17:44:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T18:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943728058164228418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1689704132242980870",
+          "start": 0,
+          "username": "LuochancyOWO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943728058164228418",
+    "in_reply_to_user_id": "1689704132242980870",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943727028018053254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuochancyOWO Including me? That would be great（x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943727024259911680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvmBbiVW0AA5T2Q.jpg",
+        "width": 1536
+      },
+      {
+        "height": 235,
+        "media_key": "3_1943727020946653184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvmBbV_agAAc3Pj.jpg",
+        "width": 334
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1943727028018053254",
+        "created_at": "2025-07-11T17:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T18:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943728058164228418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1689704132242980870",
+              "start": 0,
+              "username": "LuochancyOWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943728058164228418",
+        "in_reply_to_user_id": "1689704132242980870",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943727028018053254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuochancyOWO Including me? That would be great（x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943727024259911680",
+            "3_1943727020946653184"
+          ]
+        },
+        "author_id": "1689704132242980870",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1943727028018053254",
+        "created_at": "2025-07-11T17:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T18:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943727028018053254"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "MICROSOFT",
+              "probability": 0.4509,
+              "start": 7,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VJWcQIfSDO",
+              "end": 75,
+              "expanded_url": "https://x.com/LuochancyOWO/status/1943727028018053254/photo/1",
+              "media_key": "3_1943727024259911680",
+              "start": 52,
+              "url": "https://t.co/VJWcQIfSDO"
+            },
+            {
+              "display_url": "pic.x.com/VJWcQIfSDO",
+              "end": 75,
+              "expanded_url": "https://x.com/LuochancyOWO/status/1943727028018053254/photo/1",
+              "media_key": "3_1943727020946653184",
+              "start": 52,
+              "url": "https://t.co/VJWcQIfSDO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943727028018053254",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "FUCK U\nMICROSOFT!\nWHY CAN'T DOWNGRADE MY WINDOWS!!! https://t.co/VJWcQIfSDO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” 及时行乐，享受当下。",
+        "id": "3244048580",
+        "location": "距离你0721厘米",
+        "name": "神乐板🌸星璃酱～",
+        "pinned_tweet_id": "1942948488226152557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 333,
+          "like_count": 2716,
+          "listed_count": 4,
+          "media_count": 105,
+          "tweet_count": 3799
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-10T18:23:59.000Z",
+        "description": "🤔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "luochancy.com",
+                "end": 23,
+                "expanded_url": "http://luochancy.com",
+                "start": 0,
+                "url": "https://t.co/LseLDmi9Iu"
+              }
+            ]
+          }
+        },
+        "id": "1689704132242980870",
+        "location": "一个不为人知的地方",
+        "name": "洛寒兮Luochancy",
+        "pinned_tweet_id": "1713698511844430018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724063864638275584/nJo1Y62G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 1134,
+          "like_count": 2856,
+          "listed_count": 3,
+          "media_count": 677,
+          "tweet_count": 3683
+        },
+        "url": "https://t.co/LseLDmi9Iu",
+        "username": "LuochancyOWO",
+        "verified": false
+      }
+    ]
+  }
+}

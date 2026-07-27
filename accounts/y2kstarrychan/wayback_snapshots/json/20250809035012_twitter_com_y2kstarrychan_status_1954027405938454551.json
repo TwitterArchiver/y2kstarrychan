@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954015033110769664"
+      ],
+      "media_source_tweet_id": [
+        "1954015035602415812"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1954027405938454551",
+    "created_at": "2025-08-09T03:50:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T04:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954027405938454551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1933225223416864768",
+          "start": 3,
+          "username": "Araya_Touka_222"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2IzyHdmhiV",
+          "end": 64,
+          "expanded_url": "https://x.com/Araya_Touka_222/status/1954015035602415812/photo/1",
+          "media_key": "3_1954015033110769664",
+          "start": 41,
+          "url": "https://t.co/2IzyHdmhiV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954027405938454551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954015035602415812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Araya_Touka_222: Q：你是可爱男娘吗？\nA：我觉得我是。 https://t.co/2IzyHdmhiV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1954015033110769664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx4OUd5XMAAs5Np.jpg",
+        "width": 1531
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954015033110769664"
+          ],
+          "media_source_tweet_id": [
+            "1954015035602415812"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1954027405938454551",
+        "created_at": "2025-08-09T03:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T04:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954027405938454551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1933225223416864768",
+              "start": 3,
+              "username": "Araya_Touka_222"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2IzyHdmhiV",
+              "end": 64,
+              "expanded_url": "https://x.com/Araya_Touka_222/status/1954015035602415812/photo/1",
+              "media_key": "3_1954015033110769664",
+              "start": 41,
+              "url": "https://t.co/2IzyHdmhiV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954027405938454551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954015035602415812",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Araya_Touka_222: Q：你是可爱男娘吗？\nA：我觉得我是。 https://t.co/2IzyHdmhiV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954015033110769664"
+          ]
+        },
+        "author_id": "1933225223416864768",
+        "conversation_id": "1954015035602415812",
+        "created_at": "2025-08-09T03:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T04:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954015035602415812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2IzyHdmhiV",
+              "end": 43,
+              "expanded_url": "https://x.com/Araya_Touka_222/status/1954015035602415812/photo/1",
+              "media_key": "3_1954015033110769664",
+              "start": 20,
+              "url": "https://t.co/2IzyHdmhiV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954015035602415812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 186,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Q：你是可爱男娘吗？\nA：我觉得我是。 https://t.co/2IzyHdmhiV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju 宝宝 @sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1876,
+          "following_count": 336,
+          "like_count": 18543,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 3891
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-12T18:11:38.000Z",
+        "description": "中文/English/Français \n现居魁北克的ACGN享受者，可以叫我Léo。\n我推：爱尔奎特，新谷灯華，咲畑梨深，荻浜茜！\nJe me souviens!\n⚠ 我是挺🇺🇦🇮🇱的反川右🐶。",
+        "id": "1933225223416864768",
+        "location": "Québec",
+        "name": "灯華⚜️",
+        "pinned_tweet_id": "1949014054539808863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933232115555975169/fCyh7BT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 3753,
+          "like_count": 9548,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 1518
+        },
+        "username": "Araya_Touka_222",
+        "verified": true
+      }
+    ]
+  }
+}

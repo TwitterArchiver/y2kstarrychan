@@ -1,0 +1,20 @@
+{
+  "name": "神樂板🌸星璃醬",
+  "username": "@y2kstarrychan",
+  "bio": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+  "location": "互聯網",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 63,
+        "start": 53,
+        "username": "L98808Lju"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg"
+}

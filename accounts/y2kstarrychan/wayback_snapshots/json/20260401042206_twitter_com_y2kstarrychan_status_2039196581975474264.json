@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2039044414891348025",
+    "created_at": "2026-04-01T04:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T05:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039196581975474264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2036746034005831680",
+          "start": 0,
+          "username": "Yuki8964Uncanny"
+        },
+        {
+          "end": 28,
+          "id": "965583779380129792",
+          "start": 17,
+          "username": "mario_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039196581975474264",
+    "in_reply_to_user_id": "2036746034005831680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039187822322835885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki8964Uncanny @mario_2333 s25ultra哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2039044414891348025",
+        "created_at": "2026-04-01T04:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039196581975474264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2036746034005831680",
+              "start": 0,
+              "username": "Yuki8964Uncanny"
+            },
+            {
+              "end": 28,
+              "id": "965583779380129792",
+              "start": 17,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039196581975474264",
+        "in_reply_to_user_id": "2036746034005831680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039187822322835885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki8964Uncanny @mario_2333 s25ultra哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036746034005831680",
+        "conversation_id": "2039044414891348025",
+        "created_at": "2026-04-01T03:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039187822322835885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3244048580",
+              "start": 0,
+              "username": "y2kstarrychan"
+            },
+            {
+              "end": 26,
+              "id": "965583779380129792",
+              "start": 15,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039187822322835885",
+        "in_reply_to_user_id": "3244048580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039108463578456410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y2kstarrychan @mario_2333 这是S26吗？\nZ Flip 5上没有第一个和第三个耶……（看来得换手机了？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2945,
+          "following_count": 785,
+          "like_count": 51039,
+          "listed_count": 5,
+          "media_count": 151,
+          "tweet_count": 4293
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T10:04:45.000Z",
+        "description": "18 years old. Student.\n上帝赐予我双手，耶稣赐予我灵魂，世界将因我而改变。",
+        "id": "2036746034005831680",
+        "name": "Uncanny",
+        "pinned_tweet_id": "2039167503243579753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036811668966268928/k4Zod_oq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 18,
+          "like_count": 1279,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 352
+        },
+        "username": "Yuki8964Uncanny",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我🥰 | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | CC BY-NC 4.0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8ArcV"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+2",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3359,
+          "following_count": 261,
+          "like_count": 43152,
+          "listed_count": 15,
+          "media_count": 920,
+          "tweet_count": 13900
+        },
+        "url": "https://t.co/pjgtS8ArcV",
+        "username": "mario_2333",
+        "verified": false
+      }
+    ]
+  }
+}

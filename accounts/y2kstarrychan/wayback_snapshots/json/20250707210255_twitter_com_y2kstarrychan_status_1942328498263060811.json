@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942328478226903040"
+      ],
+      "media_source_tweet_id": [
+        "1942328480563069233"
+      ]
+    },
+    "author_id": "1632336255823519744",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1942328498263060811",
+    "created_at": "2025-07-07T21:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T22:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942328498263060811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1632336255823519744",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f01rYBcCPV",
+          "end": 59,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1942328480563069233/photo/1",
+          "media_key": "3_1942328478226903040",
+          "start": 36,
+          "url": "https://t.co/f01rYBcCPV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942328498263060811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942328480563069233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: 🫵被指到的留一张你最近的游戏截图 https://t.co/f01rYBcCPV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1942328478226903040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvSJdcXW8AAsRjd.jpg",
+        "width": 3120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942328478226903040"
+          ],
+          "media_source_tweet_id": [
+            "1942328480563069233"
+          ]
+        },
+        "author_id": "1632336255823519744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1942328498263060811",
+        "created_at": "2025-07-07T21:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T22:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942328498263060811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1632336255823519744",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f01rYBcCPV",
+              "end": 59,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1942328480563069233/photo/1",
+              "media_key": "3_1942328478226903040",
+              "start": 36,
+              "url": "https://t.co/f01rYBcCPV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942328498263060811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942328480563069233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: 🫵被指到的留一张你最近的游戏截图 https://t.co/f01rYBcCPV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942328478226903040"
+          ]
+        },
+        "author_id": "1632336255823519744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1942328480563069233",
+        "created_at": "2025-07-07T21:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T22:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942328480563069233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f01rYBcCPV",
+              "end": 40,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1942328480563069233/photo/1",
+              "media_key": "3_1942328478226903040",
+              "start": 17,
+              "url": "https://t.co/f01rYBcCPV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942328480563069233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🫵被指到的留一张你最近的游戏截图 https://t.co/f01rYBcCPV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-05T11:04:36.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条。道法三千六百门，而人人各执一苗根”",
+        "id": "1632336255823519744",
+        "name": "星璃酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941473307338973185/fzCahO6j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 88,
+          "like_count": 519,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

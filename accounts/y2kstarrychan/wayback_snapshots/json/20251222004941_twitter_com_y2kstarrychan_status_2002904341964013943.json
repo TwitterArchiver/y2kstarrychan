@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2002544553983946916",
+    "created_at": "2025-12-22T00:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T01:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002904341964013943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        },
+        {
+          "end": 25,
+          "id": "1613045967078699008",
+          "start": 10,
+          "username": "Snapdragon_JPN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002904341964013943",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002901715566399721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 @Snapdragon_JPN 南韩手机（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2002544553983946916",
+        "created_at": "2025-12-22T00:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T01:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002904341964013943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            },
+            {
+              "end": 25,
+              "id": "1613045967078699008",
+              "start": 10,
+              "username": "Snapdragon_JPN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002904341964013943",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002901715566399721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 @Snapdragon_JPN 南韩手机（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683218035602255872",
+        "conversation_id": "2002544553983946916",
+        "created_at": "2025-12-22T00:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T01:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002901715566399721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1613045967078699008",
+              "start": 0,
+              "username": "Snapdragon_JPN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002901715566399721",
+        "in_reply_to_user_id": "1613045967078699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002544553983946916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snapdragon_JPN 这配色像朝鲜国旗🇰🇵😨😨😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 对象: @charlotte1020W, 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "charlotte1020W"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997887294787796992/LkclvzQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2905,
+          "following_count": 584,
+          "like_count": 44943,
+          "listed_count": 5,
+          "media_count": 148,
+          "tweet_count": 4092
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7wSN1"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7077,
+          "following_count": 116,
+          "like_count": 228,
+          "listed_count": 17,
+          "media_count": 498,
+          "tweet_count": 1101
+        },
+        "url": "https://t.co/pIA1Q7wSN1",
+        "username": "jlxc2001",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T05:32:31.000Z",
+        "description": "Snapdragonの日本公式アカウントです❗\n#Snapdragon に関連する最新情報やキャンペーン、限定コンテンツなどを皆さんにお届けします❗フォローすればあなたもすぐにSnapdragon Insidersの仲間入り🔥\n個別でのDMは対応できない場合がございます。\n#SnapdragonInsiders",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 24,
+                "tag": "Snapdragon"
+              },
+              {
+                "end": 156,
+                "start": 137,
+                "tag": "SnapdragonInsiders"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qualcomm.com/jp/snapdragoni…",
+                "end": 23,
+                "expanded_url": "https://www.qualcomm.com/jp/snapdragoninsiders",
+                "start": 0,
+                "url": "https://t.co/owq3WRnIRc"
+              }
+            ]
+          }
+        },
+        "id": "1613045967078699008",
+        "location": "tokyo japan",
+        "name": "Snapdragon Japan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834496959857786883/4LPM68HH_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55948,
+          "following_count": 29,
+          "like_count": 978,
+          "listed_count": 98,
+          "media_count": 411,
+          "tweet_count": 1017
+        },
+        "url": "https://t.co/owq3WRnIRc",
+        "username": "Snapdragon_JPN",
+        "verified": true
+      }
+    ]
+  }
+}

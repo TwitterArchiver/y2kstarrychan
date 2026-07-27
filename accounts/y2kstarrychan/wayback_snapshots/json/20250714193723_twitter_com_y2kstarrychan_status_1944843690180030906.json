@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1944411396373885012",
+    "created_at": "2025-07-14T19:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T20:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944843690180030906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882563916632666112",
+          "start": 0,
+          "username": "hhjnjkoguyunmo"
+        },
+        {
+          "end": 27,
+          "id": "1435832892609937408",
+          "start": 16,
+          "username": "XHHM114514"
+        },
+        {
+          "end": 36,
+          "id": "1839263401845075974",
+          "start": 28,
+          "username": "0Yowlry"
+        },
+        {
+          "end": 50,
+          "id": "1753419726582345728",
+          "start": 37,
+          "username": "GravitySwiss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944843690180030906",
+    "in_reply_to_user_id": "1882563916632666112",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944651955848003821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhjnjkoguyunmo @XHHM114514 @0Yowlry @GravitySwiss +1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1944411396373885012",
+        "created_at": "2025-07-14T19:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T20:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944843690180030906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882563916632666112",
+              "start": 0,
+              "username": "hhjnjkoguyunmo"
+            },
+            {
+              "end": 27,
+              "id": "1435832892609937408",
+              "start": 16,
+              "username": "XHHM114514"
+            },
+            {
+              "end": 36,
+              "id": "1839263401845075974",
+              "start": 28,
+              "username": "0Yowlry"
+            },
+            {
+              "end": 50,
+              "id": "1753419726582345728",
+              "start": 37,
+              "username": "GravitySwiss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944843690180030906",
+        "in_reply_to_user_id": "1882563916632666112",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944651955848003821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhjnjkoguyunmo @XHHM114514 @0Yowlry @GravitySwiss +1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882563916632666112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1944411396373885012",
+        "created_at": "2025-07-14T06:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T07:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944651955848003821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1435832892609937408",
+              "start": 0,
+              "username": "XHHM114514"
+            },
+            {
+              "end": 20,
+              "id": "1839263401845075974",
+              "start": 12,
+              "username": "0Yowlry"
+            },
+            {
+              "end": 34,
+              "id": "1753419726582345728",
+              "start": 21,
+              "username": "GravitySwiss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944651955848003821",
+        "in_reply_to_user_id": "1435832892609937408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944651232380874799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XHHM114514 @0Yowlry @GravitySwiss 大家都一样🍵😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” 及时行乐，享受当下。神樂坂家族會長  @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "L98808Lju"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "samsung.com",
+                "end": 23,
+                "expanded_url": "https://www.samsung.com",
+                "start": 0,
+                "url": "https://t.co/dHLx5UZOGl"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "电子设备",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1943846362149531979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 202,
+          "like_count": 3898,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 3803
+        },
+        "url": "https://t.co/dHLx5UZOGl",
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-23T23:00:12.000Z",
+        "description": "大家好呀，我会尽量包容所有人的，请多多指教哦~🥰",
+        "id": "1882563916632666112",
+        "name": "变成阿良河的顾云沫",
+        "pinned_tweet_id": "1944559157589553433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909435314600644608/kr_0pOtE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 470,
+          "like_count": 163129,
+          "listed_count": 8,
+          "media_count": 110,
+          "tweet_count": 17485
+        },
+        "username": "hhjnjkoguyunmo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-09T05:10:25.000Z",
+        "description": "我愿以生命为代价，在无垠的宇宙中遨游\n                   宇宙在上，魂归星海",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "drive.google.com/drive/folders/…",
+                "end": 23,
+                "expanded_url": "https://drive.google.com/drive/folders/1-12_jEv6pHJxJ4R6M1-uUKZ6gnJdr-V_",
+                "start": 0,
+                "url": "https://t.co/7LtwER26Ja"
+              }
+            ]
+          }
+        },
+        "id": "1435832892609937408",
+        "location": "太阳系、坤舆(地球)卫星、太阴🌕(月球)",
+        "name": "星辉辉喵😺(^･ω･)✨🌌",
+        "pinned_tweet_id": "1805562403809263862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916664624809947136/q3xgLvTy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3333,
+          "following_count": 944,
+          "like_count": 75887,
+          "listed_count": 13,
+          "media_count": 2524,
+          "tweet_count": 24562
+        },
+        "url": "https://t.co/7LtwER26Ja",
+        "username": "XHHM114514",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "Yowlry",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 2286,
+          "like_count": 16176,
+          "listed_count": 6,
+          "media_count": 288,
+          "tweet_count": 6510
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T14:07:38.000Z",
+        "description": "「神圣之泉干枯之时，凄厉的战士如雷电之态现身，太阳被黑暗埋葬」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "otomad.wiki",
+                "end": 23,
+                "expanded_url": "https://otomad.wiki/",
+                "start": 0,
+                "url": "https://t.co/eEO2O5kmpg"
+              }
+            ]
+          }
+        },
+        "id": "1753419726582345728",
+        "location": "Κωνσταντινούπολις",
+        "name": "GravitySwiss",
+        "pinned_tweet_id": "1940446075699282266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753431245357543424/KxUIQ4O3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2400,
+          "following_count": 2898,
+          "like_count": 123603,
+          "listed_count": 14,
+          "media_count": 1581,
+          "tweet_count": 36884
+        },
+        "url": "https://t.co/eEO2O5kmpg",
+        "username": "GravitySwiss",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1949310876646813749",
+    "created_at": "2025-07-27T03:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T04:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949310876646813749"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Chiyuyu520/sta…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/Chiyuyu520/status/1949280664659902641",
+          "start": 68,
+          "url": "https://t.co/zbcvvauiBH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949310876646813749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949280664659902641",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "為什麼打繁體是裝的行為？妳是在公三小喔。喜歡打簡體/繁體應該是個人神聖不可侵犯的自由，無論是簡體還是繁體，妳無權干涉也沒有人可以干涉。 https://t.co/zbcvvauiBH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949280660562341888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw08btxbcAAZbKY.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1949310876646813749",
+        "created_at": "2025-07-27T03:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T04:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949310876646813749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chiyuyu520/sta…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/Chiyuyu520/status/1949280664659902641",
+              "start": 68,
+              "url": "https://t.co/zbcvvauiBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949310876646813749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949280664659902641",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "為什麼打繁體是裝的行為？妳是在公三小喔。喜歡打簡體/繁體應該是個人神聖不可侵犯的自由，無論是簡體還是繁體，妳無權干涉也沒有人可以干涉。 https://t.co/zbcvvauiBH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949280660562341888"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1949280664659902641",
+        "created_at": "2025-07-27T01:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T02:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949280664659902641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LH74uyuGXf",
+              "end": 89,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1949280664659902641/photo/1",
+              "media_key": "3_1949280660562341888",
+              "start": 66,
+              "url": "https://t.co/LH74uyuGXf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949280664659902641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 680,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "任何开个输入法繁体中文在那打字的我只会认为你是在那装 很小学生的行为\n正经会繁体的和开个输入法的是能看出来的差距\n（下图为台湾人） https://t.co/LH74uyuGXf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 313,
+          "like_count": 11654,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 3867
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰电影/网站/域名兴趣 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1939963852235391150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2837,
+          "following_count": 1244,
+          "like_count": 3989,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 910
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

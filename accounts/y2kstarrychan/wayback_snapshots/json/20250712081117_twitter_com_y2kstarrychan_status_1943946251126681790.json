@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1943914736028200973",
+    "created_at": "2025-07-12T08:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T09:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943946251126681790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1871177296763314176",
+          "start": 0,
+          "username": "Allknowbody2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943946251126681790",
+    "in_reply_to_user_id": "1871177296763314176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943914736028200973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allknowbody2 龙神没有天龙厉害"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_1943914713911328768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvosIgxXAAAC4yU.jpg",
+        "width": 327
+      },
+      {
+        "height": 984,
+        "media_key": "3_1943914733163425792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvosJofasAASKd2.jpg",
+        "width": 2048
+      },
+      {
+        "height": 453,
+        "media_key": "3_1943914721813647360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvosI-Na0AAqEcv.jpg",
+        "width": 490
+      },
+      {
+        "height": 360,
+        "media_key": "3_1943914723210129408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvosJDaXcAATW0-.jpg",
+        "width": 327
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1943914736028200973",
+        "created_at": "2025-07-12T08:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T09:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943946251126681790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1871177296763314176",
+              "start": 0,
+              "username": "Allknowbody2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943946251126681790",
+        "in_reply_to_user_id": "1871177296763314176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943914736028200973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allknowbody2 龙神没有天龙厉害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943914713911328768",
+            "3_1943914733163425792",
+            "3_1943914721813647360",
+            "3_1943914723210129408"
+          ]
+        },
+        "author_id": "1871177296763314176",
+        "conversation_id": "1943914736028200973",
+        "created_at": "2025-07-12T06:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T07:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943914736028200973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q8Ox2CkRLz",
+              "end": 66,
+              "expanded_url": "https://x.com/Allknowbody2/status/1943914736028200973/photo/1",
+              "media_key": "3_1943914713911328768",
+              "start": 43,
+              "url": "https://t.co/q8Ox2CkRLz"
+            },
+            {
+              "display_url": "pic.x.com/q8Ox2CkRLz",
+              "end": 66,
+              "expanded_url": "https://x.com/Allknowbody2/status/1943914736028200973/photo/1",
+              "media_key": "3_1943914733163425792",
+              "start": 43,
+              "url": "https://t.co/q8Ox2CkRLz"
+            },
+            {
+              "display_url": "pic.x.com/q8Ox2CkRLz",
+              "end": 66,
+              "expanded_url": "https://x.com/Allknowbody2/status/1943914736028200973/photo/1",
+              "media_key": "3_1943914721813647360",
+              "start": 43,
+              "url": "https://t.co/q8Ox2CkRLz"
+            },
+            {
+              "display_url": "pic.x.com/q8Ox2CkRLz",
+              "end": 66,
+              "expanded_url": "https://x.com/Allknowbody2/status/1943914736028200973/photo/1",
+              "media_key": "3_1943914723210129408",
+              "start": 43,
+              "url": "https://t.co/q8Ox2CkRLz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943914736028200973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近看无职转生【主要是推上这个动漫很火】\n想看看你们如何评价龙神的\n目前还没看见套皮 https://t.co/q8Ox2CkRLz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” 及时行乐，享受当下。",
+        "id": "3244048580",
+        "location": "距离你0721厘米",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1942948488226152557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 228,
+          "like_count": 3143,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 3816
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-23T12:53:32.000Z",
+        "description": "大号@allknowbody 因为忘记密码不用了，转进这个号，b人是因为你该b，火影忍者手游超影3000分，没人比我更懂木柜子👆🏻朴正熙吧黄牌🐞友，泛右友好，私信互粉小号@hvyjbhjj78253 亲友墙：@whoosh_catej\n@Arishia_404 @Youkino25 @X_user_17900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "allknowbody"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "hvyjbhjj78253"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "whoosh_catej"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "Arishia_404"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "Youkino25"
+              },
+              {
+                "end": 155,
+                "start": 142,
+                "username": "X_user_17900"
+              }
+            ]
+          }
+        },
+        "id": "1871177296763314176",
+        "location": "门槛 50",
+        "name": "椎名立希吐槽吧",
+        "pinned_tweet_id": "1880093417642021216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943539305890435072/4xYq9qSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 574,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 4264,
+          "tweet_count": 10567
+        },
+        "username": "Allknowbody2",
+        "verified": false
+      }
+    ]
+  }
+}

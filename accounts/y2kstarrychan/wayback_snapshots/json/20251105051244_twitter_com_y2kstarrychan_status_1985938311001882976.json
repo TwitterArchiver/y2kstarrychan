@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985938299861483520"
+      ],
+      "media_source_tweet_id": [
+        "1985938301694382247"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1985938311001882976",
+    "created_at": "2025-11-05T05:12:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T06:12:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985938311001882976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3244048580",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DsJgIHNvat",
+          "end": 60,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1985938301694382247/photo/1",
+          "media_key": "3_1985938299861483520",
+          "start": 37,
+          "url": "https://t.co/DsJgIHNvat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985938311001882976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985938301694382247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: 不喜欢我就算了，我觉得我还挺可爱的 https://t.co/DsJgIHNvat"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2050,
+        "media_key": "3_1985938299861483520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G494XJ0WQAAyAVc.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985938299861483520"
+          ],
+          "media_source_tweet_id": [
+            "1985938301694382247"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1985938311001882976",
+        "created_at": "2025-11-05T05:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T06:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985938311001882976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3244048580",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DsJgIHNvat",
+              "end": 60,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1985938301694382247/photo/1",
+              "media_key": "3_1985938299861483520",
+              "start": 37,
+              "url": "https://t.co/DsJgIHNvat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985938311001882976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985938301694382247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: 不喜欢我就算了，我觉得我还挺可爱的 https://t.co/DsJgIHNvat"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985938299861483520"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1985938301694382247",
+        "created_at": "2025-11-05T05:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T06:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985938301694382247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DsJgIHNvat",
+              "end": 41,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1985938301694382247/photo/1",
+              "media_key": "3_1985938299861483520",
+              "start": 18,
+              "url": "https://t.co/DsJgIHNvat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985938301694382247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不喜欢我就算了，我觉得我还挺可爱的 https://t.co/DsJgIHNvat"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2864,
+          "following_count": 487,
+          "like_count": 39743,
+          "listed_count": 5,
+          "media_count": 134,
+          "tweet_count": 4014
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

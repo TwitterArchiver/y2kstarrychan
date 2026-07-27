@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940644850811965440"
+      ],
+      "media_source_tweet_id": [
+        "1940644858638881157"
+      ]
+    },
+    "author_id": "1632336255823519744",
+    "conversation_id": "1940814852647538918",
+    "created_at": "2025-07-03T16:48:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T17:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940814852647538918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1632336255823519744",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XnwRTubgaX",
+          "end": 48,
+          "expanded_url": "https://x.com/y2k__star/status/1940644858638881157/photo/1",
+          "media_key": "3_1940644850811965440",
+          "start": 25,
+          "url": "https://t.co/XnwRTubgaX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940814852647538918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940644858638881157",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: 两岸一家亲 https://t.co/XnwRTubgaX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2216,
+        "media_key": "3_1940644850811965440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu6ONbfWkAASYFz.jpg",
+        "width": 1246
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940644850811965440"
+          ],
+          "media_source_tweet_id": [
+            "1940644858638881157"
+          ]
+        },
+        "author_id": "1632336255823519744",
+        "conversation_id": "1940814852647538918",
+        "created_at": "2025-07-03T16:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T17:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940814852647538918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1632336255823519744",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XnwRTubgaX",
+              "end": 48,
+              "expanded_url": "https://x.com/y2k__star/status/1940644858638881157/photo/1",
+              "media_key": "3_1940644850811965440",
+              "start": 25,
+              "url": "https://t.co/XnwRTubgaX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940814852647538918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940644858638881157",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: 两岸一家亲 https://t.co/XnwRTubgaX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940644850811965440"
+          ]
+        },
+        "author_id": "1632336255823519744",
+        "conversation_id": "1940644858638881157",
+        "created_at": "2025-07-03T05:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T06:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940644858638881157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XnwRTubgaX",
+              "end": 29,
+              "expanded_url": "https://x.com/y2k__star/status/1940644858638881157/photo/1",
+              "media_key": "3_1940644850811965440",
+              "start": 6,
+              "url": "https://t.co/XnwRTubgaX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940644858638881157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 755,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "两岸一家亲 https://t.co/XnwRTubgaX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-05T11:04:36.000Z",
+        "description": "",
+        "id": "1632336255823519744",
+        "name": "y2kchan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940613301257306112/eyiVgmNl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 26,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

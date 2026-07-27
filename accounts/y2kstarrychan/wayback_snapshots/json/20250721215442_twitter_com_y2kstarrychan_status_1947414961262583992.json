@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947291488263475202"
+      ],
+      "media_source_tweet_id": [
+        "1947291493921591603"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1947414961262583992",
+    "created_at": "2025-07-21T21:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T22:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947414961262583992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3244048580",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bF1jV5WR7l",
+          "end": 59,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1947291493921591603/photo/1",
+          "media_key": "3_1947291488263475202",
+          "start": 36,
+          "url": "https://t.co/bF1jV5WR7l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947414961262583992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947291493921591603",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: 诶, 想草我？草不着~氣不氣？😘 https://t.co/bF1jV5WR7l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3947,
+        "media_key": "3_1947291488263475202",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwYrSpgWEAIg485.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947291488263475202"
+          ],
+          "media_source_tweet_id": [
+            "1947291493921591603"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1947414961262583992",
+        "created_at": "2025-07-21T21:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T22:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947414961262583992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3244048580",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bF1jV5WR7l",
+              "end": 59,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1947291493921591603/photo/1",
+              "media_key": "3_1947291488263475202",
+              "start": 36,
+              "url": "https://t.co/bF1jV5WR7l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947414961262583992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947291493921591603",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: 诶, 想草我？草不着~氣不氣？😘 https://t.co/bF1jV5WR7l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947291488263475202"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1947291493921591603",
+        "created_at": "2025-07-21T13:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T14:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947291493921591603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bF1jV5WR7l",
+              "end": 40,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1947291493921591603/photo/1",
+              "media_key": "3_1947291488263475202",
+              "start": 17,
+              "url": "https://t.co/bF1jV5WR7l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947291493921591603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3188,
+          "like_count": 57,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "诶, 想草我？草不着~氣不氣？😘 https://t.co/bF1jV5WR7l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 264,
+          "like_count": 8124,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 3836
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

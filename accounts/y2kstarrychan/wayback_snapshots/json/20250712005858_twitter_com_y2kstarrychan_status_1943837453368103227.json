@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1943794448644645227",
+    "created_at": "2025-07-12T00:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T01:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943837453368103227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1821849172368355328",
+          "start": 0,
+          "username": "L98808Lju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943837453368103227",
+    "in_reply_to_user_id": "1821849172368355328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943836961082683560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L98808Lju 我向来看人很准，我第一眼就觉得yoyi博士是个值得认识且佩服的人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1943794448644645227",
+        "created_at": "2025-07-12T00:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T01:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943837453368103227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1821849172368355328",
+              "start": 0,
+              "username": "L98808Lju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943837453368103227",
+        "in_reply_to_user_id": "1821849172368355328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943836961082683560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L98808Lju 我向来看人很准，我第一眼就觉得yoyi博士是个值得认识且佩服的人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821849172368355328",
+        "conversation_id": "1943794448644645227",
+        "created_at": "2025-07-12T00:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T01:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943836961082683560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3244048580",
+              "start": 0,
+              "username": "y2kstarrychan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943836961082683560",
+        "in_reply_to_user_id": "3244048580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943794549325017475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y2kstarrychan 这么说虽然是没错了，不过推特作为社交媒体平台大家开始都不熟悉，而互关更多的是保留一种成为朋友的可能性，或许某天你关注的或者关注你的某个帖子就能引起对方的共鸣和兴趣；比起现实的社交，能看到他人的生活百态，也许这个才是关注一个人更长远的意义😉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” 及时行乐，享受当下。",
+        "id": "3244048580",
+        "location": "距离你0721厘米",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1942948488226152557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 232,
+          "like_count": 2875,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 3808
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T10:01:27.000Z",
+        "description": "I’m Anon’s (千早爱音) sister. PhD in Science🎓,首席AI政治学家🦋,谣言家^_^Share Knowledge/Social View/Animation. 蔷薇骑士福尔摩雨@Romanorum_ 机器人@Tinkles_12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 105,
+                "username": "Romanorum_"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "Tinkles_12"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/YoyiSG",
+                "end": 23,
+                "expanded_url": "https://github.com/YoyiSG",
+                "start": 0,
+                "url": "https://t.co/bqjyu34BRn"
+              }
+            ]
+          }
+        },
+        "id": "1821849172368355328",
+        "location": "Singapore",
+        "name": "神樂坂🌸Yoyi🇸🇬",
+        "pinned_tweet_id": "1928006182108614978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920668084102459395/1OyHpsxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 497,
+          "like_count": 36341,
+          "listed_count": 8,
+          "media_count": 745,
+          "tweet_count": 11203
+        },
+        "url": "https://t.co/bqjyu34BRn",
+        "username": "L98808Lju",
+        "verified": true
+      }
+    ]
+  }
+}

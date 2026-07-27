@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1955766879156371837",
+    "created_at": "2025-08-14T00:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T01:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955790007647789199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1491368400924422149",
+          "start": 0,
+          "username": "Taffydaisuki"
+        },
+        {
+          "end": 23,
+          "id": "1523294065063735298",
+          "start": 14,
+          "username": "Daryl336"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955790007647789199",
+    "in_reply_to_user_id": "1491368400924422149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955782291537776988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Taffydaisuki @Daryl336 莲莲是日本人😠，只是中文说的好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1955766879156371837",
+        "created_at": "2025-08-14T00:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T01:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955790007647789199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1491368400924422149",
+              "start": 0,
+              "username": "Taffydaisuki"
+            },
+            {
+              "end": 23,
+              "id": "1523294065063735298",
+              "start": 14,
+              "username": "Daryl336"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955790007647789199",
+        "in_reply_to_user_id": "1491368400924422149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955782291537776988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Taffydaisuki @Daryl336 莲莲是日本人😠，只是中文说的好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491368400924422149",
+        "conversation_id": "1955766879156371837",
+        "created_at": "2025-08-14T00:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T01:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955782291537776988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1523294065063735298",
+              "start": 0,
+              "username": "Daryl336"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955782291537776988",
+        "in_reply_to_user_id": "1523294065063735298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955766879156371837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Daryl336 莲的周边感觉都是国v里数一数二的贵了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1946,
+          "following_count": 349,
+          "like_count": 21268,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 3924
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-09T11:08:43.000Z",
+        "description": "mtx，Enby🏳️‍🌈｜纯良雏草姬+纯良棺材铺喵😿｜入宅7年二次元🇯🇵｜火影手游主修，二游和steam不常玩，钟爱恐怖游戏👻｜日本語N1 英語CET6📘｜偶尔cos，负天赋男娘，化妆进化中💄😭｜梦想是一天能吃一顿KFC躺平🍔｜互FO忘记了可私信",
+        "id": "1491368400924422149",
+        "location": "Utopia",
+        "name": "🍫空酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954876679316492289/xdhcIx8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 492,
+          "like_count": 16839,
+          "listed_count": 2,
+          "media_count": 653,
+          "tweet_count": 4003
+        },
+        "username": "Taffydaisuki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-08T13:29:58.000Z",
+        "description": "关注莲莲，好运连连～最喜欢😘：@AzumaSeren_Suki ｜莲宝：@AzumaSeren",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "AzumaSeren_Suki"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "AzumaSeren"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/azumaseren",
+                "end": 23,
+                "expanded_url": "https://lit.link/azumaseren",
+                "start": 0,
+                "url": "https://t.co/2VU2VE9tFl"
+              }
+            ]
+          }
+        },
+        "id": "1523294065063735298",
+        "location": "二次元世界",
+        "name": "東京の雪蓮い⛩️",
+        "pinned_tweet_id": "1795925402092785966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954312049036550144/dMwZRHBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4172,
+          "following_count": 2976,
+          "like_count": 52069,
+          "listed_count": 17,
+          "media_count": 657,
+          "tweet_count": 3828
+        },
+        "url": "https://t.co/2VU2VE9tFl",
+        "username": "Daryl336",
+        "verified": false
+      }
+    ]
+  }
+}

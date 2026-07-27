@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2035594121231171969",
+    "created_at": "2026-04-12T04:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T05:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043191704111452164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758508742780567552",
+          "start": 0,
+          "username": "qianxunchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043191704111452164",
+    "in_reply_to_user_id": "1758508742780567552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035594121231171969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianxunchan 什么时候才能私信你（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1796,
+        "media_key": "3_2035594117854715904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_iEK2a4AAZSc2.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035594117871509504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_iEK6bIAAtNSX.jpg",
+        "width": 1412
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035594117871460352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_iEK6aYAAK8ia.jpg",
+        "width": 1412
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035594117854711808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_iEK2a0AAcQjz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2035594121231171969",
+        "created_at": "2026-04-12T04:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043191704111452164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043191704111452164",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035594121231171969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 什么时候才能私信你（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035594117854715904",
+            "3_2035594117871509504",
+            "3_2035594117871460352",
+            "3_2035594117854711808"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2035594121231171969",
+        "created_at": "2026-03-22T05:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T06:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035594121231171969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1758508742780567552",
+              "start": 12,
+              "username": "qianxunchan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f7q16sWM1S",
+              "end": 182,
+              "expanded_url": "https://x.com/qianxunchan/status/2035594121231171969/photo/1",
+              "media_key": "3_2035594117854715904",
+              "start": 159,
+              "url": "https://t.co/f7q16sWM1S"
+            },
+            {
+              "display_url": "pic.x.com/f7q16sWM1S",
+              "end": 182,
+              "expanded_url": "https://x.com/qianxunchan/status/2035594121231171969/photo/1",
+              "media_key": "3_2035594117871509504",
+              "start": 159,
+              "url": "https://t.co/f7q16sWM1S"
+            },
+            {
+              "display_url": "pic.x.com/f7q16sWM1S",
+              "end": 182,
+              "expanded_url": "https://x.com/qianxunchan/status/2035594121231171969/photo/1",
+              "media_key": "3_2035594117871460352",
+              "start": 159,
+              "url": "https://t.co/f7q16sWM1S"
+            },
+            {
+              "display_url": "pic.x.com/f7q16sWM1S",
+              "end": 182,
+              "expanded_url": "https://x.com/qianxunchan/status/2035594121231171969/photo/1",
+              "media_key": "3_2035594117854711808",
+              "start": 159,
+              "url": "https://t.co/f7q16sWM1S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035594121231171969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 39297,
+          "like_count": 361,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "自我介绍：\n我是千寻酱 @qianxunchan  不是杯子\n喜欢在被窝里面偷偷穿女装并且玩郊狼\n不敢发出声音哇好羞耻的叫声\n不敢女装外出哇\n即使很多人都说我比较pass\n\n经常出没于：旧金山市区\n推:Suzume\n爱好：到处瞎逛，骑车，彩虹六号，录视频\n故乡：广东江门\n专业：电气工程\n梦想：和好多好朋友一起聚会！ https://t.co/f7q16sWM1S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2882,
+          "following_count": 794,
+          "like_count": 51883,
+          "listed_count": 5,
+          "media_count": 151,
+          "tweet_count": 4328
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\nQ群：667335570\ntg：在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:60\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 录视频 女装 wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 141,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 887,
+          "like_count": 1354,
+          "listed_count": 1,
+          "media_count": 323,
+          "tweet_count": 1173
+        },
+        "username": "qianxunchan",
+        "verified": false
+      }
+    ]
+  }
+}

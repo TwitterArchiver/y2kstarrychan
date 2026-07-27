@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2042660668676149657",
+    "created_at": "2026-04-10T18:02:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T19:02:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042664548490981398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1964042844198621187",
+          "start": 0,
+          "username": "bungeihaku8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042664548490981398",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042660668676149657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@bungeihaku8964 美国完蛋了！日本完蛋了！韩国完蛋了！英国完蛋了！意大利完蛋了！西班牙完蛋了！欧美完蛋了！世界完蛋了！蜥蜴人完蛋了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2042660668676149657",
+        "created_at": "2026-04-10T18:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042664548490981398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeihaku8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042664548490981398",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042660668676149657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@bungeihaku8964 美国完蛋了！日本完蛋了！韩国完蛋了！英国完蛋了！意大利完蛋了！西班牙完蛋了！欧美完蛋了！世界完蛋了！蜥蜴人完蛋了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2042660668676149657",
+        "created_at": "2026-04-10T17:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042660668676149657"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042660668676149657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "我真的服了 這週末回到家 我爸又開始小粉紅模式了 一會說美國川普怎麼怎麼懷 一會又聊到北約烏克蘭想聯和日本制裁中國 還有鄭麗文訪華 台灣馬上統一 我聽到真的很無助xd..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2905,
+          "following_count": 793,
+          "like_count": 51693,
+          "listed_count": 5,
+          "media_count": 150,
+          "tweet_count": 4311
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜戰無不勝的三民主義思想萬歲❂\n｜ 民國97年高校生｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeinobunha…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeinobunhaku",
+                "start": 0,
+                "url": "https://t.co/1MIMTvvFf8"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東香港🇭🇰",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1642,
+          "following_count": 540,
+          "like_count": 10403,
+          "listed_count": 3,
+          "media_count": 580,
+          "tweet_count": 2898
+        },
+        "url": "https://t.co/1MIMTvvFf8",
+        "username": "bungeihaku8964",
+        "verified": false
+      }
+    ]
+  }
+}

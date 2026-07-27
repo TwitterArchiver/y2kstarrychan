@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953648825291137024"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1953648827396772268",
+    "created_at": "2025-08-08T02:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T03:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953648827396772268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HWEDoyhdvM",
+          "end": 33,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1953648827396772268/photo/1",
+          "media_key": "3_1953648825291137024",
+          "start": 10,
+          "url": "https://t.co/HWEDoyhdvM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953648827396772268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "reply_settings": "everyone",
+    "text": "手机业内屏幕排行榜 https://t.co/HWEDoyhdvM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2752,
+        "media_key": "3_1953648825291137024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxzBQXdWYAAQz1K.jpg",
+        "width": 1207
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953648825291137024"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1953648827396772268",
+        "created_at": "2025-08-08T02:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T03:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953648827396772268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HWEDoyhdvM",
+              "end": 33,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1953648827396772268/photo/1",
+              "media_key": "3_1953648825291137024",
+              "start": 10,
+              "url": "https://t.co/HWEDoyhdvM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953648827396772268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "手机业内屏幕排行榜 https://t.co/HWEDoyhdvM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1872,
+          "following_count": 334,
+          "like_count": 18099,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 3887
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

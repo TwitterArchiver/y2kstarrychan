@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1943237997861965926",
+    "created_at": "2025-07-11T22:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T23:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943797057061630418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1557716371198291972",
+          "start": 0,
+          "username": "soyooo123_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943797057061630418",
+    "in_reply_to_user_id": "1557716371198291972",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943796469053657324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soyooo123_ 多少￥👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1943237997861965926",
+        "created_at": "2025-07-11T22:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T23:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943797057061630418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1557716371198291972",
+              "start": 0,
+              "username": "soyooo123_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943797057061630418",
+        "in_reply_to_user_id": "1557716371198291972",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943796469053657324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soyooo123_ 多少￥👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557716371198291972",
+        "conversation_id": "1943237997861965926",
+        "created_at": "2025-07-11T22:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T23:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943796469053657324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3244048580",
+              "start": 0,
+              "username": "y2kstarrychan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943796469053657324",
+        "in_reply_to_user_id": "3244048580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943796290719977966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y2kstarrychan 素"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” 及时行乐，享受当下。",
+        "id": "3244048580",
+        "location": "距离你0721厘米",
+        "name": "神乐板🌸星璃酱～",
+        "pinned_tweet_id": "1942948488226152557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 236,
+          "like_count": 2817,
+          "listed_count": 4,
+          "media_count": 105,
+          "tweet_count": 3806
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-11T13:11:51.000Z",
+        "description": "可丽饼过来",
+        "id": "1557716371198291972",
+        "name": "想吃奶油可丽饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776299052910383104/6yS6X3FT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 107,
+          "like_count": 11241,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 953
+        },
+        "username": "soyooo123_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2058179430204444944",
+    "created_at": "2026-05-23T15:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T16:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058205377133482040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 23,
+          "id": "1856689219764203520",
+          "start": 16,
+          "username": "cmrn_v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058205377133482040",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058179430204444944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@CyberKanjousen @cmrn_v 环状线我要求你立刻骂我😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1594,
+        "media_key": "3_2058179422042415104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJAfR5bbYAAyfb0.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2058179430204444944",
+        "created_at": "2026-05-23T15:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058205377133482040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 23,
+              "id": "1856689219764203520",
+              "start": 16,
+              "username": "cmrn_v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058205377133482040",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058179430204444944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen @cmrn_v 环状线我要求你立刻骂我😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058179422042415104"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2058179430204444944",
+        "created_at": "2026-05-23T13:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058179430204444944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1856689219764203520",
+              "start": 3,
+              "username": "cmrn_v"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XLarPB5U37",
+              "end": 171,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2058179430204444944/photo/1",
+              "media_key": "3_2058179422042415104",
+              "start": 148,
+              "url": "https://t.co/XLarPB5U37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058179430204444944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 10,
+                "id": "1856689219764203520",
+                "start": 3,
+                "username": "cmrn_v"
+              }
+            ]
+          },
+          "text": "您好，@cmrn_v ，虽然很冒犯，但请问您是ドＭ吗？\n\n不，显然您不是，您和環状線显然不是同一类人（唔呣……似乎无意间暴露了環状線的什么）。\n\n没记错的话这是您第 4 次在環状線的推文下索要環状線对您的辱骂了。但是，環状線不会辱骂任何人。環状線推测您是出于蹭流量的目的而做出如此行为的。那么恕 環状線拒绝您的请求。\n\n如果您今后再像这样回复固定内容的推文，環状線将视您为 spam bot 并进行屏蔽，请原谅環状線的无礼。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 936,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "您好，@cmrn_v ，虽然很冒犯，但请问您是ドＭ吗？\n\n不，显然您不是，您和環状線显然不是同一类人（唔呣……似乎无意间暴露了環状線的什么）。\n\n没记错的话这是您第 4 次在環状線的推文下索要環状線对您的辱骂了。但是，環状線不会辱骂任何人。環状線推测您是出于蹭流量的目的而做出如此行为的。那么恕 https://t.co/XLarPB5U37"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2944,
+          "following_count": 833,
+          "like_count": 54695,
+          "listed_count": 5,
+          "media_count": 156,
+          "tweet_count": 4417
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2057756896728436791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4032,
+          "following_count": 847,
+          "like_count": 21650,
+          "listed_count": 10,
+          "media_count": 1153,
+          "tweet_count": 6457
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-13T13:23:08.000Z",
+        "description": "06 大二                        \n认知｜搞钱｜增长                       \n合作｜进社群➕v：engengeng_123",
+        "id": "1856689219764203520",
+        "name": "Cameron 卡卡",
+        "pinned_tweet_id": "2052676305410490529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856964711750774784/J_TxoPNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 243,
+          "like_count": 4259,
+          "listed_count": 8,
+          "media_count": 269,
+          "tweet_count": 3400
+        },
+        "username": "cmrn_v",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2007196212219580749",
+    "created_at": "2026-01-03T08:33:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T09:33:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007369672694661618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1991364416823259139",
+          "start": 0,
+          "username": "NikaidoHiro0110"
+        },
+        {
+          "end": 27,
+          "id": "1547020655740080128",
+          "start": 17,
+          "username": "H_galgame"
+        },
+        {
+          "end": 41,
+          "id": "14851635",
+          "start": 28,
+          "username": "rickyberwick"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007369672694661618",
+    "in_reply_to_user_id": "1991364416823259139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007369546433434108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NikaidoHiro0110 @H_galgame @rickyberwick 战斗爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2007196212219580749",
+        "created_at": "2026-01-03T08:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T09:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007369672694661618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1991364416823259139",
+              "start": 0,
+              "username": "NikaidoHiro0110"
+            },
+            {
+              "end": 27,
+              "id": "1547020655740080128",
+              "start": 17,
+              "username": "H_galgame"
+            },
+            {
+              "end": 41,
+              "id": "14851635",
+              "start": 28,
+              "username": "rickyberwick"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007369672694661618",
+        "in_reply_to_user_id": "1991364416823259139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007369546433434108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NikaidoHiro0110 @H_galgame @rickyberwick 战斗爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991364416823259139",
+        "conversation_id": "2007196212219580749",
+        "created_at": "2026-01-03T08:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T09:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007369546433434108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3244048580",
+              "start": 0,
+              "username": "y2kstarrychan"
+            },
+            {
+              "end": 25,
+              "id": "1547020655740080128",
+              "start": 15,
+              "username": "H_galgame"
+            },
+            {
+              "end": 39,
+              "id": "14851635",
+              "start": 26,
+              "username": "rickyberwick"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007369546433434108",
+        "in_reply_to_user_id": "3244048580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007369442792222839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y2kstarrychan @H_galgame @rickyberwick 那还说啥了三鸡蛋uzi给你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997887294787796992/LkclvzQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2905,
+          "following_count": 636,
+          "like_count": 46500,
+          "listed_count": 5,
+          "media_count": 151,
+          "tweet_count": 4171
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T04:34:18.000Z",
+        "description": "喜欢观察人类 喜欢认识有意思的人 b站：https://t.co/D8SULUCESy 男",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/kTDbwUY",
+                "end": 43,
+                "expanded_url": "https://b23.tv/kTDbwUY",
+                "start": 20,
+                "url": "https://t.co/D8SULUCESy"
+              }
+            ]
+          }
+        },
+        "id": "1991364416823259139",
+        "name": "Nikaido Hiro",
+        "pinned_tweet_id": "2006707158256369846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991365556956807168/b84rccpy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 585,
+          "like_count": 4126,
+          "listed_count": 3,
+          "media_count": 46,
+          "tweet_count": 1191
+        },
+        "username": "NikaidoHiro0110",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T00:50:57.000Z",
+        "description": "男，怨世的伪善者，健忘的家伙。\n想要朋友？大概是个笨蛋傲娇。\n希望大家都能找到属于自己的真爱呢。\n\n问答箱https://t.co/qFhVEYSxVz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hy3129342449",
+                "end": 76,
+                "expanded_url": "https://ngl.link/hy3129342449",
+                "start": 53,
+                "url": "https://t.co/qFhVEYSxVz"
+              }
+            ]
+          }
+        },
+        "id": "1547020655740080128",
+        "location": "哈尔滨",
+        "name": "輝子",
+        "pinned_tweet_id": "1788435902139945017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977243309082083328/Vbn7lhde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 691,
+          "like_count": 18536,
+          "listed_count": 2,
+          "media_count": 4813,
+          "tweet_count": 10624
+        },
+        "username": "H_galgame",
+        "verified": false
+      },
+      {
+        "created_at": "2008-05-21T03:12:24.000Z",
+        "description": "Your not so normal video entertainer! • Partnered with @METAPCs, use code TONGUE for a discount! • tongue@rickyberwick.com for biz. • https://t.co/SCEO5rYpgi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 55,
+                "username": "METAPCs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/rickyberwick",
+                "end": 157,
+                "expanded_url": "http://discord.gg/rickyberwick",
+                "start": 134,
+                "url": "https://t.co/SCEO5rYpgi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "my.bio/rickyberwick",
+                "end": 23,
+                "expanded_url": "http://my.bio/rickyberwick",
+                "start": 0,
+                "url": "https://t.co/3vGtdYND3H"
+              }
+            ]
+          }
+        },
+        "id": "14851635",
+        "location": "Ontario, Canada",
+        "name": "Ricky Berwick",
+        "pinned_tweet_id": "2000300920828280860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996524577342599168/pK2nuw05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494617,
+          "following_count": 762,
+          "like_count": 74827,
+          "listed_count": 484,
+          "media_count": 78312,
+          "tweet_count": 99582
+        },
+        "url": "https://t.co/3vGtdYND3H",
+        "username": "rickyberwick",
+        "verified": true
+      }
+    ]
+  }
+}

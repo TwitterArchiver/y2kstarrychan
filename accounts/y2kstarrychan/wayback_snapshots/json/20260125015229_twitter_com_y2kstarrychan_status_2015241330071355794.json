@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2015027388371845289",
+    "created_at": "2026-01-25T01:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T02:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015241330071355794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1991364416823259139",
+          "start": 0,
+          "username": "NikaidoHiro0110"
+        },
+        {
+          "end": 31,
+          "id": "1907341555121496064",
+          "start": 17,
+          "username": "Kyouko5477251"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015241330071355794",
+    "in_reply_to_user_id": "1991364416823259139",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015143017456230409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NikaidoHiro0110 @Kyouko5477251 看看你的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2015027388371845289",
+        "created_at": "2026-01-25T01:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T02:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015241330071355794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1991364416823259139",
+              "start": 0,
+              "username": "NikaidoHiro0110"
+            },
+            {
+              "end": 31,
+              "id": "1907341555121496064",
+              "start": 17,
+              "username": "Kyouko5477251"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015241330071355794",
+        "in_reply_to_user_id": "1991364416823259139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015143017456230409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NikaidoHiro0110 @Kyouko5477251 看看你的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991364416823259139",
+        "conversation_id": "2015027388371845289",
+        "created_at": "2026-01-24T19:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T20:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015143017456230409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1907341555121496064",
+              "start": 0,
+              "username": "Kyouko5477251"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015143017456230409",
+        "in_reply_to_user_id": "1907341555121496064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015027388371845289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kyouko5477251 好腿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3005,
+          "following_count": 765,
+          "like_count": 49845,
+          "listed_count": 6,
+          "media_count": 146,
+          "tweet_count": 4265
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T04:34:18.000Z",
+        "description": "喜欢观察人类 喜欢认识有意思的人 b站：https://t.co/D8SULUCESy 男",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/kTDbwUY",
+                "end": 43,
+                "expanded_url": "https://b23.tv/kTDbwUY",
+                "start": 20,
+                "url": "https://t.co/D8SULUCESy"
+              }
+            ]
+          }
+        },
+        "id": "1991364416823259139",
+        "name": "Nikaido Hiro",
+        "pinned_tweet_id": "2008614281743597642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991365556956807168/b84rccpy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 529,
+          "like_count": 4962,
+          "listed_count": 4,
+          "media_count": 60,
+          "tweet_count": 1564
+        },
+        "username": "NikaidoHiro0110",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T07:57:29.000Z",
+        "description": "随缘发/致歉一切/中文/English/日本語 扩列请私信",
+        "id": "1907341555121496064",
+        "name": "きょうこ🐰（邪恶版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935293686209785856/vpPw0pc7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16634,
+          "following_count": 65,
+          "like_count": 671,
+          "listed_count": 57,
+          "media_count": 107,
+          "tweet_count": 257
+        },
+        "username": "Kyouko5477251",
+        "verified": true
+      }
+    ]
+  }
+}

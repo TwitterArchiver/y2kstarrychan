@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942134680553246720"
+      ]
+    },
+    "author_id": "1632336255823519744",
+    "conversation_id": "1942134682293854465",
+    "created_at": "2025-07-07T08:12:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T09:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942134682293854465"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f8bQTMASSP",
+          "end": 23,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1942134682293854465/photo/1",
+          "media_key": "3_1942134680553246720",
+          "start": 0,
+          "url": "https://t.co/f8bQTMASSP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942134682293854465",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/f8bQTMASSP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1763,
+        "media_key": "3_1942134680553246720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvPZM7xX0AAYGxZ.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942134680553246720"
+          ]
+        },
+        "author_id": "1632336255823519744",
+        "conversation_id": "1942134682293854465",
+        "created_at": "2025-07-07T08:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T09:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942134682293854465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f8bQTMASSP",
+              "end": 23,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1942134682293854465/photo/1",
+              "media_key": "3_1942134680553246720",
+              "start": 0,
+              "url": "https://t.co/f8bQTMASSP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942134682293854465",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/f8bQTMASSP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-05T11:04:36.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条。道法三千六百门，而人人各执一苗根”",
+        "id": "1632336255823519744",
+        "name": "星璃酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941473307338973185/fzCahO6j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 88,
+          "like_count": 509,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1957772261345124783",
+    "created_at": "2025-08-19T13:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T14:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957793154800763250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1683060453528965120",
+          "start": 0,
+          "username": "NationalPureVF3"
+        },
+        {
+          "end": 32,
+          "id": "1532012863480811520",
+          "start": 17,
+          "username": "Kanpaku_Yakumo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957793154800763250",
+    "in_reply_to_user_id": "1683060453528965120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957789962239111442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NationalPureVF3 @Kanpaku_Yakumo 陈睿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1957772261345124783",
+        "created_at": "2025-08-19T13:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T14:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957793154800763250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1683060453528965120",
+              "start": 0,
+              "username": "NationalPureVF3"
+            },
+            {
+              "end": 32,
+              "id": "1532012863480811520",
+              "start": 17,
+              "username": "Kanpaku_Yakumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957793154800763250",
+        "in_reply_to_user_id": "1683060453528965120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957789962239111442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NationalPureVF3 @Kanpaku_Yakumo 陈睿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683060453528965120",
+        "conversation_id": "1957772261345124783",
+        "created_at": "2025-08-19T13:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T14:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957789962239111442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1532012863480811520",
+              "start": 0,
+              "username": "Kanpaku_Yakumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957789962239111442",
+        "in_reply_to_user_id": "1532012863480811520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957772261345124783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanpaku_Yakumo 欸！？是用哪一匹馬做的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2013,
+          "following_count": 366,
+          "like_count": 24056,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 3937
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T10:24:22.000Z",
+        "description": "過氣的中推圈第一偶像-織田真理子，織田集團的大小姐，別稱：Veritatis/真理子/領袖/軟糯真理醬\n 裏帳@vnationvendetta \n最愛的藤醬主人老公 @hoshinofujivy \n夥伴 @jawenzhu  @_Weace_ @xi1966516 @realpresidenTy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 55,
+                "username": "vnationvendetta"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "hoshinofujivy"
+              },
+              {
+                "end": 111,
+                "start": 102,
+                "username": "jawenzhu"
+              },
+              {
+                "end": 121,
+                "start": 113,
+                "username": "_Weace_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "xi1966516"
+              },
+              {
+                "end": 148,
+                "start": 133,
+                "username": "realpresidenTy"
+              }
+            ]
+          }
+        },
+        "id": "1683060453528965120",
+        "location": "羽丘女子學園",
+        "name": "溫室敗犬公主-織田真理子",
+        "pinned_tweet_id": "1940020977259409704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957672449958625280/Rz7cqKfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 1069,
+          "like_count": 62811,
+          "listed_count": 14,
+          "media_count": 1036,
+          "tweet_count": 28109
+        },
+        "username": "NationalPureVF3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T14:55:18.000Z",
+        "description": "「你應當⋯永不言棄！」 \nLanguage: English/中文/日本語\n🟨🔴🟨漢本位/🏛️保守右派/⛩💜東方眾/🛩️鋼4「戰犯」/🎌🎶昭和ポップスが好き/📚架空歷史愛好者 \n希望和推上的各位朋友進行友好交流🥰 \n架空歷史作品 #SaMNS 持續更新中（",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 121,
+                "start": 115,
+                "tag": "SaMNS"
+              }
+            ]
+          }
+        },
+        "id": "1532012863480811520",
+        "location": "Γκενσόκιο",
+        "name": "歴史の転換期における隙間妖怪👁️",
+        "pinned_tweet_id": "1906403419642089888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908808854340767744/wwpQ8-7n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 1779,
+          "like_count": 237521,
+          "listed_count": 13,
+          "media_count": 1402,
+          "tweet_count": 40503
+        },
+        "username": "Kanpaku_Yakumo",
+        "verified": false
+      }
+    ]
+  }
+}

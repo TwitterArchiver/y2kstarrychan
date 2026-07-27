@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1943794277890375924",
+    "created_at": "2025-07-11T22:07:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T23:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943794277890375924"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1943794277890375924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我动态清零了许多我关注的人。原因是因为这些我关注的人我并不熟悉，如果他们对我没有印象的话，那么我关注他们为了什么？你的微信/Telegram/聊天软件会留很多你不知道的人吗？1000多个好友，当你真正遇到困难的时候会有多少人帮助你？恐怕你们没有一个人能回答上来准确答案。如果你被我动态清零，那么我很抱歉……希望你能遇到更好的人，业力与因果将保佑你。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我动态清零了许多我关注的人。原因是因为这些我关注的人我并不熟悉，如果他们对我没有印象的话，那么我关注他们为了什么？你的微信/Telegram/聊天软件会留很多你不知道的人吗？1000多个好友，当你真正遇到困难的时候会有多少人帮助你？恐怕你们没有一个人能回答上来准确答案。如果你被我动态清零，那么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1943794277890375924",
+        "created_at": "2025-07-11T22:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T23:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943794277890375924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943794277890375924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我动态清零了许多我关注的人。原因是因为这些我关注的人我并不熟悉，如果他们对我没有印象的话，那么我关注他们为了什么？你的微信/Telegram/聊天软件会留很多你不知道的人吗？1000多个好友，当你真正遇到困难的时候会有多少人帮助你？恐怕你们没有一个人能回答上来准确答案。如果你被我动态清零，那么我很抱歉……希望你能遇到更好的人，业力与因果将保佑你。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我动态清零了许多我关注的人。原因是因为这些我关注的人我并不熟悉，如果他们对我没有印象的话，那么我关注他们为了什么？你的微信/Telegram/聊天软件会留很多你不知道的人吗？1000多个好友，当你真正遇到困难的时候会有多少人帮助你？恐怕你们没有一个人能回答上来准确答案。如果你被我动态清零，那么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” 及时行乐，享受当下。",
+        "id": "3244048580",
+        "location": "距离你0721厘米",
+        "name": "神乐板🌸星璃酱～",
+        "pinned_tweet_id": "1942948488226152557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 233,
+          "like_count": 2810,
+          "listed_count": 4,
+          "media_count": 105,
+          "tweet_count": 3803
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

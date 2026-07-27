@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1955118587552682291",
+    "created_at": "2025-08-12T04:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T05:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955125778108084499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1909553877739085825",
+          "start": 0,
+          "username": "TOKYO8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955125778108084499",
+    "in_reply_to_user_id": "1909553877739085825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955121082928636226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOKYO8964 谢谢抽象的东雪莲😘，没想到妳的生日只跟我隔一天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1955118587552682291",
+        "created_at": "2025-08-12T04:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T05:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955125778108084499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1909553877739085825",
+              "start": 0,
+              "username": "TOKYO8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955125778108084499",
+        "in_reply_to_user_id": "1909553877739085825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955121082928636226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOKYO8964 谢谢抽象的东雪莲😘，没想到妳的生日只跟我隔一天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909553877739085825",
+        "conversation_id": "1955118587552682291",
+        "created_at": "2025-08-12T04:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T05:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955121082928636226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3244048580",
+              "start": 0,
+              "username": "y2kstarrychan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955121082928636226",
+        "in_reply_to_user_id": "3244048580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955118587552682291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y2kstarrychan 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1896,
+          "following_count": 350,
+          "like_count": 20386,
+          "listed_count": 3,
+          "media_count": 114,
+          "tweet_count": 3909
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "🇯🇵日本東京｜🌊自由民主｜🏳️‍⚧️07伪娘｜♀取向女｜🏳️‍🌈友跨友同｜🍯包蜜｜🍀雏草姬｜舞萌痴｜键政｜单纯搞抽象不恶俗不瞎骂 日本語勉强中 喜欢看番玩galgame和打各种音游二游 欢迎友好交流 极端魔怔人会b 时不时更新奇异搞笑幽默抽象TV和女装照 扩列交友互fo请私信 @heshan8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 139,
+                "username": "heshan8964"
+              }
+            ]
+          }
+        },
+        "id": "1909553877739085825",
+        "location": "東京",
+        "name": "抽象イェーガー",
+        "pinned_tweet_id": "1932095364385153188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953825203810971648/2LWXQbw-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6114,
+          "following_count": 629,
+          "like_count": 714,
+          "listed_count": 23,
+          "media_count": 431,
+          "tweet_count": 707
+        },
+        "username": "TOKYO8964",
+        "verified": true
+      }
+    ]
+  }
+}

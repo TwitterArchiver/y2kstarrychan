@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951677794024353792"
+      ],
+      "media_source_tweet_id": [
+        "1951677795400126502"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1952133375344480743",
+    "created_at": "2025-08-03T22:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T23:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952133375344480743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3244048580",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PzedcLMDkn",
+          "end": 65,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1951677795400126502/photo/1",
+          "media_key": "3_1951677794024353792",
+          "start": 42,
+          "url": "https://t.co/PzedcLMDkn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952133375344480743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951677795400126502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: 李老师已经被我关在地下室用炮机草三天三夜了🥺 https://t.co/PzedcLMDkn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1951677794024353792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxXAnPzW8AAzZ4p.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951677794024353792"
+          ],
+          "media_source_tweet_id": [
+            "1951677795400126502"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1952133375344480743",
+        "created_at": "2025-08-03T22:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T23:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952133375344480743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3244048580",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PzedcLMDkn",
+              "end": 65,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1951677795400126502/photo/1",
+              "media_key": "3_1951677794024353792",
+              "start": 42,
+              "url": "https://t.co/PzedcLMDkn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952133375344480743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951677795400126502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: 李老师已经被我关在地下室用炮机草三天三夜了🥺 https://t.co/PzedcLMDkn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951677794024353792"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1951677795400126502",
+        "created_at": "2025-08-02T16:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T17:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951677795400126502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PzedcLMDkn",
+              "end": 46,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1951677795400126502/photo/1",
+              "media_key": "3_1951677794024353792",
+              "start": 23,
+              "url": "https://t.co/PzedcLMDkn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951677795400126502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 86876,
+          "like_count": 472,
+          "quote_count": 3,
+          "reply_count": 58,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "李老师已经被我关在地下室用炮机草三天三夜了🥺 https://t.co/PzedcLMDkn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1827,
+          "following_count": 347,
+          "like_count": 15832,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 3877
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

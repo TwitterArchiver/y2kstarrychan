@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961779316737388544"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1961739034381963761",
+    "created_at": "2025-08-30T13:13:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T14:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961779319606280329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1960660650457489410",
+          "start": 0,
+          "username": "Hulovejapan"
+        },
+        {
+          "end": 29,
+          "id": "1822380396497313792",
+          "start": 13,
+          "username": "FascinatingAnon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fchZDbfI0Z",
+          "end": 83,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1961779319606280329/photo/1",
+          "media_key": "3_1961779316737388544",
+          "start": 60,
+          "url": "https://t.co/fchZDbfI0Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961779319606280329",
+    "in_reply_to_user_id": "1960660650457489410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961754422025044079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hulovejapan @FascinatingAnon 你爹我用的是苹果安卓壁纸 苹果安卓音乐 苹果安卓的三星手机 https://t.co/fchZDbfI0Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3120,
+        "media_key": "3_1961779316737388544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzmj5QXXMAAn8lS.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961779316737388544"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1961739034381963761",
+        "created_at": "2025-08-30T13:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T14:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961779319606280329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1960660650457489410",
+              "start": 0,
+              "username": "Hulovejapan"
+            },
+            {
+              "end": 29,
+              "id": "1822380396497313792",
+              "start": 13,
+              "username": "FascinatingAnon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fchZDbfI0Z",
+              "end": 83,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1961779319606280329/photo/1",
+              "media_key": "3_1961779316737388544",
+              "start": 60,
+              "url": "https://t.co/fchZDbfI0Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961779319606280329",
+        "in_reply_to_user_id": "1960660650457489410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961754422025044079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hulovejapan @FascinatingAnon 你爹我用的是苹果安卓壁纸 苹果安卓音乐 苹果安卓的三星手机 https://t.co/fchZDbfI0Z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960660650457489410",
+        "conversation_id": "1961739034381963761",
+        "created_at": "2025-08-30T11:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T12:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961754422025044079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822380396497313792",
+              "start": 0,
+              "username": "FascinatingAnon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961754422025044079",
+        "in_reply_to_user_id": "1822380396497313792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961739034381963761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FascinatingAnon 安卓壁纸 安卓音乐 安卓手机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2279,
+          "following_count": 411,
+          "like_count": 29562,
+          "listed_count": 5,
+          "media_count": 123,
+          "tweet_count": 3970
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-27T11:08:34.000Z",
+        "description": "b站知名up主 坚定的资本主义战士 中医儒学的一生之敌 喜欢留学生/特斯拉车主/苹果用户互fo 支持文明世界 坚决反对安卓 致力于推动安卓人安卓国家苹果化👊🏻🍎🔥",
+        "id": "1960660650457489410",
+        "location": "Japan",
+        "name": "户晨风（安卓bot）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960674674632978432/0bAShvzl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 29,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 38
+        },
+        "username": "Hulovejapan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T21:12:13.000Z",
+        "description": "「愛する人は、ずっと見守っている」\n个人介绍：\nhttps://t.co/SSILjcU5TF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/FascinatingAno…",
+                "end": 47,
+                "expanded_url": "https://twitter.com/FascinatingAnon/status/1959539255317061783",
+                "start": 24,
+                "url": "https://t.co/SSILjcU5TF"
+              }
+            ]
+          }
+        },
+        "id": "1822380396497313792",
+        "location": "「君の心」",
+        "name": "迷人の爱音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959536812852224000/atGt8ATs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 952,
+          "like_count": 17309,
+          "listed_count": 3,
+          "media_count": 1307,
+          "tweet_count": 8472
+        },
+        "username": "FascinatingAnon",
+        "verified": false
+      }
+    ]
+  }
+}

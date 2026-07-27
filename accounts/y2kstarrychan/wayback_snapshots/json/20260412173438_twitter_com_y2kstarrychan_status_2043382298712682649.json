@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2043273254828437930",
+    "created_at": "2026-04-12T17:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T18:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043382298712682649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165044876297134080",
+          "start": 0,
+          "username": "realNyarime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043382298712682649",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043273254828437930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realNyarime 想起雷军说1999交个朋友"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1779,
+        "media_key": "3_2043273126155579392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsqFR-a8AAjMCa.jpg",
+        "width": 1250
+      },
+      {
+        "height": 2247,
+        "media_key": "3_2043273126130434048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsqFR4bQAAnUpF.jpg",
+        "width": 1080
+      },
+      {
+        "height": 529,
+        "media_key": "3_2043273148641300480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsqGlvb0AAtvUp.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2043273254828437930",
+        "created_at": "2026-04-12T17:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043382298712682649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043382298712682649",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043273254828437930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 想起雷军说1999交个朋友"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043273126155579392",
+            "3_2043273126130434048",
+            "3_2043273148641300480"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2043273254828437930",
+        "created_at": "2026-04-12T10:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043273254828437930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wtxhkgsfZv",
+              "end": 182,
+              "expanded_url": "https://x.com/realNyarime/status/2043273254828437930/photo/1",
+              "media_key": "3_2043273126155579392",
+              "start": 159,
+              "url": "https://t.co/wtxhkgsfZv"
+            },
+            {
+              "display_url": "pic.x.com/wtxhkgsfZv",
+              "end": 182,
+              "expanded_url": "https://x.com/realNyarime/status/2043273254828437930/photo/1",
+              "media_key": "3_2043273126130434048",
+              "start": 159,
+              "url": "https://t.co/wtxhkgsfZv"
+            },
+            {
+              "display_url": "pic.x.com/wtxhkgsfZv",
+              "end": 182,
+              "expanded_url": "https://x.com/realNyarime/status/2043273254828437930/photo/1",
+              "media_key": "3_2043273148641300480",
+              "start": 159,
+              "url": "https://t.co/wtxhkgsfZv"
+            },
+            {
+              "display_url": "x.com/dashen_wang/st…",
+              "end": 206,
+              "expanded_url": "https://twitter.com/dashen_wang/status/2043215301765136413",
+              "start": 183,
+              "url": "https://t.co/w0aqUvedCW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043273254828437930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看来不少推友都认识S哥（Stanley）\n那天看到「雅思119托福9.9的口语母语水平」后就立刻删了微信好友、屏蔽推特\n\n我也是个普通人，赚不到大钱，经不起浪\n当了韭菜也不想麻烦民警叔叔介入\n怕被笑话、喝茶以及嘲笑\n\n所谓千万投资靠的是推友所助：\n现在社群的门槛已经从我交的2k涨到3999、4999到现在的6999\n甚至进群后还要再交999续年费，还一码归一码\n真正要退钱的时候，让你滚\n\n至于我进了社群后，也没有人教我怎么赚钱\n说个难听的，我粉丝数都比他多"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 11101,
+          "like_count": 31,
+          "quote_count": 4,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043215301765136413",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看来不少推友都认识S哥（Stanley）\n那天看到「雅思119托福9.9的口语母语水平」后就立刻删了微信好友、屏蔽推特\n\n我也是个普通人，赚不到大钱，经不起浪\n当了韭菜也不想麻烦民警叔叔介入\n怕被笑话、喝茶以及嘲笑\n\n所谓千万投资靠的是推友所助：\n现在社群的门槛已经从我交的2k涨到3999、4999到现在的6999 https://t.co/wtxhkgsfZv https://t.co/w0aqUvedCW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2876,
+          "following_count": 795,
+          "like_count": 51947,
+          "listed_count": 5,
+          "media_count": 151,
+          "tweet_count": 4332
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27817,
+          "following_count": 504,
+          "like_count": 12077,
+          "listed_count": 128,
+          "media_count": 1454,
+          "tweet_count": 9760
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

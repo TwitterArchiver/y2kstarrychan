@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065543125800505344"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "2065543127545327976",
+    "created_at": "2026-06-12T21:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T22:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065543127545327976"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 17,
+          "tag": "我的X周年纪念日"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2ZobOLZDHW",
+          "end": 50,
+          "expanded_url": "https://x.com/y2kstarrychan/status/2065543127545327976/photo/1",
+          "media_key": "3_2065543125800505344",
+          "start": 27,
+          "url": "https://t.co/2ZobOLZDHW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065543127545327976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还记得你何时加入 X 吗？我知道！#我的X周年纪念日 https://t.co/2ZobOLZDHW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2065543125800505344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKpIh3mW0AATZcd.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065543125800505344"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "2065543127545327976",
+        "created_at": "2026-06-12T21:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T22:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065543127545327976"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 17,
+              "tag": "我的X周年纪念日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ZobOLZDHW",
+              "end": 50,
+              "expanded_url": "https://x.com/y2kstarrychan/status/2065543127545327976/photo/1",
+              "media_key": "3_2065543125800505344",
+              "start": 27,
+              "url": "https://t.co/2ZobOLZDHW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065543127545327976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还记得你何时加入 X 吗？我知道！#我的X周年纪念日 https://t.co/2ZobOLZDHW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2932,
+          "following_count": 865,
+          "like_count": 55384,
+          "listed_count": 6,
+          "media_count": 156,
+          "tweet_count": 4427
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      }
+    ]
+  }
+}

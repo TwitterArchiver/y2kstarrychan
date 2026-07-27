@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939589237499699200"
+      ],
+      "media_source_tweet_id": [
+        "1939589240318271983"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1946631320383189150",
+    "created_at": "2025-07-19T18:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T19:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946631320383189150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3244048580",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x854jhbZyQ",
+          "end": 48,
+          "expanded_url": "https://x.com/huahuojiang___/status/1939589240318271983/photo/1",
+          "media_key": "3_1939589237499699200",
+          "start": 25,
+          "url": "https://t.co/x854jhbZyQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946631320383189150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 204
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939589240318271983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: 两岸一家亲 https://t.co/x854jhbZyQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2102,
+        "media_key": "3_1939589237499699200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GurOIpdXIAAItZ6.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939589237499699200"
+          ],
+          "media_source_tweet_id": [
+            "1939589240318271983"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1946631320383189150",
+        "created_at": "2025-07-19T18:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T19:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946631320383189150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3244048580",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x854jhbZyQ",
+              "end": 48,
+              "expanded_url": "https://x.com/huahuojiang___/status/1939589240318271983/photo/1",
+              "media_key": "3_1939589237499699200",
+              "start": 25,
+              "url": "https://t.co/x854jhbZyQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946631320383189150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 204
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939589240318271983",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: 两岸一家亲 https://t.co/x854jhbZyQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939589237499699200"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1939589240318271983",
+        "created_at": "2025-06-30T07:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T08:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939589240318271983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x854jhbZyQ",
+              "end": 29,
+              "expanded_url": "https://x.com/huahuojiang___/status/1939589240318271983/photo/1",
+              "media_key": "3_1939589237499699200",
+              "start": 6,
+              "url": "https://t.co/x854jhbZyQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939589240318271983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 419,
+          "impression_count": 616439,
+          "like_count": 3712,
+          "quote_count": 13,
+          "reply_count": 127,
+          "retweet_count": 204
+        },
+        "reply_settings": "everyone",
+        "text": "两岸一家亲 https://t.co/x854jhbZyQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 243,
+          "like_count": 6784,
+          "listed_count": 3,
+          "media_count": 100,
+          "tweet_count": 3820
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

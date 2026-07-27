@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2076109321528811863",
+    "created_at": "2026-07-12T10:37:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T11:37:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076254519600550325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        },
+        {
+          "end": 31,
+          "id": "1830493173099208704",
+          "start": 16,
+          "username": "Ellenalice7990"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076254519600550325",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076252348213862546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 @Ellenalice7990 天皇阁下万岁！？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2076109321528811863",
+        "created_at": "2026-07-12T10:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076254519600550325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            },
+            {
+              "end": 31,
+              "id": "1830493173099208704",
+              "start": 16,
+              "username": "Ellenalice7990"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076254519600550325",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076252348213862546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 @Ellenalice7990 天皇阁下万岁！？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2076109321528811863",
+        "created_at": "2026-07-12T10:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076252348213862546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830493173099208704",
+              "start": 0,
+              "username": "Ellenalice7990"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076252348213862546",
+        "in_reply_to_user_id": "1830493173099208704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076109321528811863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ellenalice7990 那天皇怎么办？只有天知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2916,
+          "following_count": 868,
+          "like_count": 57320,
+          "listed_count": 6,
+          "media_count": 156,
+          "tweet_count": 4450
+        },
+        "url": "",
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13163,
+          "following_count": 3186,
+          "like_count": 43250,
+          "listed_count": 40,
+          "media_count": 4649,
+          "tweet_count": 23767
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-02T06:29:47.000Z",
+        "description": "艾蓮·山魚·翁\nEileen Mntfish Ong\n有时候反左人，有时候反右人，主要反对蠢人和坏人，。\n政治中间偏右保守自由 ，新保守主义\n经济民生左翼改良改革，左翼民族主义者\n中国特色民主化 🏯本土自由派 🚩🏳️‍⚧️🇦🇶🏁🏳️‍🌈\n本土优先、公有制为主，主权至上、自由市场、国家稳定、理性务实",
+        "id": "1830493173099208704",
+        "name": "艾蓮·山魚·翁 エレン・ムントフィッシュ・オン",
+        "pinned_tweet_id": "2001863652912304408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032483154616053760/MnrgBjo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 2894,
+          "like_count": 15731,
+          "listed_count": 5,
+          "media_count": 1784,
+          "tweet_count": 15405
+        },
+        "url": "",
+        "username": "Ellenalice7990",
+        "verified": false
+      }
+    ]
+  }
+}

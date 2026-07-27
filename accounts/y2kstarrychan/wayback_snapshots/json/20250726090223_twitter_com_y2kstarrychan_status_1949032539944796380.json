@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1949032539944796380",
+    "created_at": "2025-07-26T09:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T10:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949032539944796380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949032539944796380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949031950146248920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 网友投稿：\n近日 标榜为“中国最大黑客松”的AdventureX爆出创始成员朱浩宇，未在隐私协议中说明，即向赞助商贩卖全部选手与游客及团队的隐私信息，其中不少选手是未成年人，主办者还曾因涉嫌在高中性骚扰被处分。\n其还对提出异议者以及进行资…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1949008566687596546",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwxE9xGbgAI8vQG.jpg",
+        "width": 488
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1949008565005643776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwxE9q1a8AAvh56.jpg",
+        "width": 411
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1949008565009874944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwxE9q2bgAABVgz.jpg",
+        "width": 359
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1949008565009895424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwxE9q2b0AAIg3c.jpg",
+        "width": 449
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1949032539944796380",
+        "created_at": "2025-07-26T09:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T10:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949032539944796380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949032539944796380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949031950146248920",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 网友投稿：\n近日 标榜为“中国最大黑客松”的AdventureX爆出创始成员朱浩宇，未在隐私协议中说明，即向赞助商贩卖全部选手与游客及团队的隐私信息，其中不少选手是未成年人，主办者还曾因涉嫌在高中性骚扰被处分。\n其还对提出异议者以及进行资…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949008566687596546",
+            "3_1949008565005643776",
+            "3_1949008565009874944",
+            "3_1949008565009895424"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1949031950146248920",
+        "created_at": "2025-07-26T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949031950146248920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TNtzaJnJ8p",
+              "end": 171,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1949031950146248920/photo/1",
+              "media_key": "3_1949008566687596546",
+              "start": 148,
+              "url": "https://t.co/TNtzaJnJ8p"
+            },
+            {
+              "display_url": "pic.x.com/TNtzaJnJ8p",
+              "end": 171,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1949031950146248920/photo/1",
+              "media_key": "3_1949008565005643776",
+              "start": 148,
+              "url": "https://t.co/TNtzaJnJ8p"
+            },
+            {
+              "display_url": "pic.x.com/TNtzaJnJ8p",
+              "end": 171,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1949031950146248920/photo/1",
+              "media_key": "3_1949008565009874944",
+              "start": 148,
+              "url": "https://t.co/TNtzaJnJ8p"
+            },
+            {
+              "display_url": "pic.x.com/TNtzaJnJ8p",
+              "end": 171,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1949031950146248920/photo/1",
+              "media_key": "3_1949008565009895424",
+              "start": 148,
+              "url": "https://t.co/TNtzaJnJ8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949031950146248920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "网友投稿：\n近日 标榜为“中国最大黑客松”的AdventureX爆出创始成员朱浩宇，未在隐私协议中说明，即向赞助商贩卖全部选手与游客及团队的隐私信息，其中不少选手是未成年人，主办者还曾因涉嫌在高中性骚扰被处分。\n其还对提出异议者以及进行资金相关信息询问的参赛者在千人大群中直接开盒、辱骂、网暴。\n同时此活动制定了一系列霸王条款，并且被爆出让孕妇冒着高温在活动现场坚持工作、而工资并无保障。\n场地还是小朱同学的父亲托关系拿下来的，还请了杭州市的一大堆领导前来出席开幕式、开幕式还因为某领导迟到而在宣布开始之后推迟了四十分钟）。\n朱浩宇在接受媒体采访时称：他们通过贩卖个人信息的方式拉到了很多国企与政府、共青团的赞助，在不到一个月内就筹集到了超过一百万元。\n有知情人士称，朱浩宇曾盗用他人身份信息冒名参加十余次黑客松等活动，同时advx也是为了他个人想靠不正当手段进入南加大而举行的。\n还有网友质疑：AdventureX主办朱浩宇同学被查明在校内长期多次猥亵多名异性，但因其家庭背景，获得了学校的冷处理优待。这样的人，也配上南加大？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 840,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿：\n近日 标榜为“中国最大黑客松”的AdventureX爆出创始成员朱浩宇，未在隐私协议中说明，即向赞助商贩卖全部选手与游客及团队的隐私信息，其中不少选手是未成年人，主办者还曾因涉嫌在高中性骚扰被处分。\n其还对提出异议者以及进行资金相关信息询问的参赛者在千人大群中直接开盒、辱骂、网暴。 https://t.co/TNtzaJnJ8p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 304,
+          "like_count": 11219,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 3867
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 132,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 109,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2043512,
+          "following_count": 980,
+          "like_count": 7714,
+          "listed_count": 8211,
+          "media_count": 32245,
+          "tweet_count": 38912
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

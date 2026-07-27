@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1953916758118871068",
+    "created_at": "2025-08-09T08:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T09:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954099149307044037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 17,
+          "id": "1051744812007739393",
+          "start": 6,
+          "username": "gaby901123"
+        },
+        {
+          "end": 33,
+          "id": "954993200384507909",
+          "start": 18,
+          "username": "Yucohanhan_ROC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954099149307044037",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953917303265145313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @gaby901123 @Yucohanhan_ROC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1953916758118871068",
+        "created_at": "2025-08-09T08:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T09:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954099149307044037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 17,
+              "id": "1051744812007739393",
+              "start": 6,
+              "username": "gaby901123"
+            },
+            {
+              "end": 33,
+              "id": "954993200384507909",
+              "start": 18,
+              "username": "Yucohanhan_ROC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954099149307044037",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953917303265145313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @gaby901123 @Yucohanhan_ROC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "1953916758118871068",
+        "created_at": "2025-08-08T20:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T21:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953917303265145313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1051744812007739393",
+              "start": 0,
+              "username": "gaby901123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953917303265145313",
+        "in_reply_to_user_id": "1051744812007739393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953916758118871068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaby901123 父親: Kigawa Kuka  \n母親: 冥子えのき  \n哥哥: Iwan1000VRC  \n弟弟: Kun-J.S  \n姐姐: milliope  \n妹妹: adbincion  \n死黨: Doge0u0  \n朋友: MiaoDaDong  \n寵物: 可可貓  \n戀人: leechng02  \n老師: 雨可韓韓  \n前輩: 大狗狗先生酒酒  \n後輩: 青檸  \n一生一世的對手: Racon"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju 宝宝 @sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1876,
+          "following_count": 338,
+          "like_count": 18688,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 3892
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5831345,
+          "following_count": 3,
+          "like_count": 73,
+          "listed_count": 4620,
+          "media_count": 2465396,
+          "tweet_count": 34836439
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2018-10-15T08:01:18.000Z",
+        "description": "maru 台灣人TW 是個喜歡貼貼的人 歡迎跟我搭話~貼貼Ok ＋好友也ok 聊天ok 也是個比較缺陪伴的人 如果願意陪我 我會很開心～ \n\n💍:@leechng022\n\nVRchat ID:丸把刃maru discord:maru1123 女裝?：@haori901123 QQ:1282513842",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "leechng022"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "haori901123"
+              }
+            ]
+          }
+        },
+        "id": "1051744812007739393",
+        "location": "Keelung City, Taiwan",
+        "name": "丸把刃",
+        "pinned_tweet_id": "1571763471632723969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670278771289755648/-IFFNbGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1545,
+          "following_count": 2106,
+          "like_count": 61309,
+          "listed_count": 11,
+          "media_count": 1106,
+          "tweet_count": 8561
+        },
+        "username": "gaby901123",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-21T08:24:56.000Z",
+        "description": "個人帳號🇹🇼來自中華民國的台灣人｜🌂生活分享、政治觀點、軍事新聞、時事評論、遊戲動畫、VTuber、塗鴉｜💜華獨主義、反對中共、台灣認同、青鳥行動｜🇹🇼#Taiwan #RepublicOfChina 🇺🇦#StandWithUkraine #我們不能只有在贏的時候才愛台灣",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 83,
+                "start": 76,
+                "tag": "Taiwan"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "tag": "RepublicOfChina"
+              },
+              {
+                "end": 120,
+                "start": 103,
+                "tag": "StandWithUkraine"
+              },
+              {
+                "end": 137,
+                "start": 121,
+                "tag": "我們不能只有在贏的時候才愛台灣"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/32kmMug",
+                "end": 23,
+                "expanded_url": "https://discord.gg/32kmMug",
+                "start": 0,
+                "url": "https://t.co/uv8f76XUQv"
+              }
+            ]
+          }
+        },
+        "id": "954993200384507909",
+        "location": "Kaohsiung City, Taiwan",
+        "name": "雨可韓韓 𝐘𝐮𝐜𝐨𝐡𝐚𝐧𝐡𝐚𝐧🇹🇼🇺🇦",
+        "pinned_tweet_id": "1949030361809461462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926002787885740032/C-nn-H0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8135,
+          "following_count": 857,
+          "like_count": 38508,
+          "listed_count": 37,
+          "media_count": 12607,
+          "tweet_count": 55784
+        },
+        "url": "https://t.co/uv8f76XUQv",
+        "username": "Yucohanhan_ROC",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956675327222001664"
+      ],
+      "media_source_tweet_id": [
+        "1956675329843515805"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1956675339750387913",
+    "created_at": "2025-08-16T11:12:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T12:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956675339750387913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3244048580",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ffynaLcFEP",
+          "end": 58,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1956675329843515805/photo/1",
+          "media_key": "3_1956675327222001664",
+          "start": 35,
+          "url": "https://t.co/ffynaLcFEP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956675339750387913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956675329843515805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: 在评论区打出你上一次复制的东西 https://t.co/ffynaLcFEP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3120,
+        "media_key": "3_1956675327222001664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyeB19vWsAA8Hfe.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956675327222001664"
+          ],
+          "media_source_tweet_id": [
+            "1956675329843515805"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1956675339750387913",
+        "created_at": "2025-08-16T11:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T12:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956675339750387913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3244048580",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ffynaLcFEP",
+              "end": 58,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1956675329843515805/photo/1",
+              "media_key": "3_1956675327222001664",
+              "start": 35,
+              "url": "https://t.co/ffynaLcFEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956675339750387913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956675329843515805",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: 在评论区打出你上一次复制的东西 https://t.co/ffynaLcFEP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956675327222001664"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1956675329843515805",
+        "created_at": "2025-08-16T11:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T12:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956675329843515805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ffynaLcFEP",
+              "end": 39,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1956675329843515805/photo/1",
+              "media_key": "3_1956675327222001664",
+              "start": 16,
+              "url": "https://t.co/ffynaLcFEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956675329843515805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在评论区打出你上一次复制的东西 https://t.co/ffynaLcFEP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1961,
+          "following_count": 351,
+          "like_count": 22530,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 3935
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

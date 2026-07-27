@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992872744279576576"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1992479567936934304",
+    "created_at": "2025-11-24T08:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T09:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992872747341639741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1313383273079345152",
+          "start": 0,
+          "username": "ValeriaEulabeia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AATv2HnWcQ",
+          "end": 47,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1992872747341639741/photo/1",
+          "media_key": "3_1992872744279576576",
+          "start": 24,
+          "url": "https://t.co/AATv2HnWcQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992872747341639741",
+    "in_reply_to_user_id": "1313383273079345152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992479567936934304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ValeriaEulabeia 三星也通共了 https://t.co/AATv2HnWcQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2939,
+        "media_key": "3_1992872744279576576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6gbM8VXkAAcE_l.jpg",
+        "width": 1438
+      },
+      {
+        "height": 2142,
+        "media_key": "3_1992479564380172288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6a1m3Ea8AAOcXV.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992872744279576576"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1992479567936934304",
+        "created_at": "2025-11-24T08:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T09:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992872747341639741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1313383273079345152",
+              "start": 0,
+              "username": "ValeriaEulabeia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AATv2HnWcQ",
+              "end": 47,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1992872747341639741/photo/1",
+              "media_key": "3_1992872744279576576",
+              "start": 24,
+              "url": "https://t.co/AATv2HnWcQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992872747341639741",
+        "in_reply_to_user_id": "1313383273079345152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992479567936934304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ValeriaEulabeia 三星也通共了 https://t.co/AATv2HnWcQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992479564380172288"
+          ]
+        },
+        "author_id": "1313383273079345152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Pixel",
+              "id": "1045759094756323328",
+              "name": "Google Pixel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1992479567936934304",
+        "created_at": "2025-11-23T06:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T07:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992479567936934304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hf4b6QDABF",
+              "end": 48,
+              "expanded_url": "https://x.com/ValeriaEulabeia/status/1992479567936934304/photo/1",
+              "media_key": "3_1992479564380172288",
+              "start": 25,
+              "url": "https://t.co/hf4b6QDABF"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1992397692480139358",
+              "start": 49,
+              "url": "https://t.co/gomtgR7QEy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992479567936934304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5571,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992397692480139358",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Google Pixel 也有，这下谷歌也通共辣 https://t.co/hf4b6QDABF https://t.co/gomtgR7QEy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2888,
+          "following_count": 540,
+          "like_count": 41764,
+          "listed_count": 5,
+          "media_count": 139,
+          "tweet_count": 4042
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "Unluckily...got a boy's body at birth. MtF🏳️‍⚧️ | HRT🍥 started at: 2021.12.6 |  International Communication Study |  Borderline Personality Disorder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zone2.nessbyte.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://zone2.nessbyte.top/#/register?code=fEQOPAcf",
+                "start": 0,
+                "url": "https://t.co/x655wqqoK7"
+              }
+            ]
+          }
+        },
+        "id": "1313383273079345152",
+        "location": "链接是自用🛫",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "1982343054469243077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991732097313304576/zO2_W3jc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6803,
+          "following_count": 3699,
+          "like_count": 143689,
+          "listed_count": 17,
+          "media_count": 2398,
+          "tweet_count": 22055
+        },
+        "url": "https://t.co/x655wqqoK7",
+        "username": "ValeriaEulabeia",
+        "verified": false
+      }
+    ]
+  }
+}

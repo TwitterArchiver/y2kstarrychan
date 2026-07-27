@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947655365971345408"
+      ],
+      "media_source_tweet_id": [
+        "1947655478403862778"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1948119149500105214",
+    "created_at": "2025-07-23T20:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T21:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948119149500105214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1916882415869730817",
+          "start": 3,
+          "username": "bang_dream37745"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ndnNT4unJc",
+          "end": 55,
+          "expanded_url": "https://x.com/bang_dream37745/status/1947655478403862778/photo/1",
+          "media_key": "3_1947655365971345408",
+          "start": 32,
+          "url": "https://t.co/ndnNT4unJc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948119149500105214",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947655478403862778",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bang_dream37745: ライブまであと四日！ https://t.co/ndnNT4unJc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1947655365971345408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwd2PHmbAAARyTr.jpg",
+        "width": 2803
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947655365971345408"
+          ],
+          "media_source_tweet_id": [
+            "1947655478403862778"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1948119149500105214",
+        "created_at": "2025-07-23T20:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T21:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948119149500105214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1916882415869730817",
+              "start": 3,
+              "username": "bang_dream37745"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ndnNT4unJc",
+              "end": 55,
+              "expanded_url": "https://x.com/bang_dream37745/status/1947655478403862778/photo/1",
+              "media_key": "3_1947655365971345408",
+              "start": 32,
+              "url": "https://t.co/ndnNT4unJc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948119149500105214",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947655478403862778",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bang_dream37745: ライブまであと四日！ https://t.co/ndnNT4unJc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947655365971345408"
+          ]
+        },
+        "author_id": "1916882415869730817",
+        "conversation_id": "1947655478403862778",
+        "created_at": "2025-07-22T13:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T14:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947655478403862778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ndnNT4unJc",
+              "end": 34,
+              "expanded_url": "https://x.com/bang_dream37745/status/1947655478403862778/photo/1",
+              "media_key": "3_1947655365971345408",
+              "start": 11,
+              "url": "https://t.co/ndnNT4unJc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947655478403862778",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 33365,
+          "like_count": 1200,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "ライブまであと四日！ https://t.co/ndnNT4unJc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 259,
+          "like_count": 9335,
+          "listed_count": 3,
+          "media_count": 104,
+          "tweet_count": 3845
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T15:50:09.000Z",
+        "description": "MyGOの高松燈推し|\n23歳♂|\n無言フォロー失礼しますm(_ _)m|\n気が向いてるときはAIイラスト投稿します",
+        "id": "1916882415869730817",
+        "location": "神奈川県",
+        "name": "Ryu@ムジカ5th",
+        "pinned_tweet_id": "1919277736431956195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934119162500235265/mFmrlJb6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 572,
+          "like_count": 2798,
+          "listed_count": 5,
+          "media_count": 77,
+          "tweet_count": 712
+        },
+        "username": "bang_dream37745",
+        "verified": false
+      }
+    ]
+  }
+}

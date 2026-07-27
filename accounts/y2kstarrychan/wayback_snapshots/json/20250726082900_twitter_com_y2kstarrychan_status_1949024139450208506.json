@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949024137894113280"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1949024139450208506",
+    "created_at": "2025-07-26T08:29:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T09:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949024139450208506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DjD8pTsTIa",
+          "end": 30,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1949024139450208506/photo/1",
+          "media_key": "3_1949024137894113280",
+          "start": 7,
+          "url": "https://t.co/DjD8pTsTIa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949024139450208506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "成都市传说了 https://t.co/DjD8pTsTIa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1766,
+        "media_key": "3_1949024137894113280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwxTIIXXMAANfNL.jpg",
+        "width": 1063
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949024137894113280"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1949024139450208506",
+        "created_at": "2025-07-26T08:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T09:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949024139450208506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DjD8pTsTIa",
+              "end": 30,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1949024139450208506/photo/1",
+              "media_key": "3_1949024137894113280",
+              "start": 7,
+              "url": "https://t.co/DjD8pTsTIa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949024139450208506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成都市传说了 https://t.co/DjD8pTsTIa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 301,
+          "like_count": 11146,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 3865
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

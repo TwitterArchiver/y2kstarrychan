@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941294961808314368"
+      ],
+      "media_source_tweet_id": [
+        "1941294963842744454"
+      ]
+    },
+    "author_id": "1632336255823519744",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1941294979013611581",
+    "created_at": "2025-07-05T00:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T01:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941294979013611581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1632336255823519744",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pfb0XhAEPu",
+          "end": 57,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1941294963842744454/photo/1",
+          "media_key": "3_1941294961808314368",
+          "start": 34,
+          "url": "https://t.co/Pfb0XhAEPu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941294979013611581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941294963842744454",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: 我放弃馒头，选择获得生生不息 https://t.co/Pfb0XhAEPu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1293,
+        "media_key": "3_1941294961808314368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvDde3rXEAATTSB.jpg",
+        "width": 1432
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941294961808314368"
+          ],
+          "media_source_tweet_id": [
+            "1941294963842744454"
+          ]
+        },
+        "author_id": "1632336255823519744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1941294979013611581",
+        "created_at": "2025-07-05T00:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T01:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941294979013611581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1632336255823519744",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pfb0XhAEPu",
+              "end": 57,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1941294963842744454/photo/1",
+              "media_key": "3_1941294961808314368",
+              "start": 34,
+              "url": "https://t.co/Pfb0XhAEPu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941294979013611581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941294963842744454",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: 我放弃馒头，选择获得生生不息 https://t.co/Pfb0XhAEPu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941294961808314368"
+          ]
+        },
+        "author_id": "1632336255823519744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1941294963842744454",
+        "created_at": "2025-07-05T00:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T01:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941294963842744454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pfb0XhAEPu",
+              "end": 38,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1941294963842744454/photo/1",
+              "media_key": "3_1941294961808314368",
+              "start": 15,
+              "url": "https://t.co/Pfb0XhAEPu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941294963842744454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我放弃馒头，选择获得生生不息 https://t.co/Pfb0XhAEPu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-05T11:04:36.000Z",
+        "description": "",
+        "id": "1632336255823519744",
+        "name": "星璃酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941260793166569472/GBcG60IQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 85,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      }
+    ]
+  }
+}

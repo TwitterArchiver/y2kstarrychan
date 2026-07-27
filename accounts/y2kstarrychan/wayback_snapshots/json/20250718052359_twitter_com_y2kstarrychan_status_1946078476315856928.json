@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1174344555111469057",
+          "name": "Samsung Indonesia"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364234",
+          "name": "Samsung "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10045298641",
+          "name": "Samsung USA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364234",
+          "name": "Samsung "
+        }
+      }
+    ],
+    "conversation_id": "1945913569616265509",
+    "created_at": "2025-07-18T05:23:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T06:23:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946078476315856928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1909553877739085825",
+          "start": 0,
+          "username": "TOKYOheshan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946078476315856928",
+    "in_reply_to_user_id": "1909553877739085825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945913569616265509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOKYOheshan 我语文不好，但我会写三星！\n我英语不好，但我会读Samsung！\n我历史不好，但我永不忘记1938！\n我数学不好，但我永远记得20％！\n我地理不好，但我永远记得地图上的朝鲜半岛！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16843,
+        "height": 1280,
+        "media_key": "13_1945913510350757889",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1945913510350757889/img/V0K7uVuqe_25sa11.jpg",
+        "public_metrics": {
+          "view_count": 361
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945913510350757889/vid/avc1/320x568/ZhqQQ_zWdXJC8YaU.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945913510350757889/vid/avc1/480x852/hcQZ1UPrvdKQW2_g.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945913510350757889/vid/avc1/720x1280/QHTBAJJvCZtaHdJt.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1945913510350757889/pl/A-utzIYEuIEiHnSw.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1174344555111469057",
+              "name": "Samsung Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364234",
+              "name": "Samsung "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10045298641",
+              "name": "Samsung USA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364234",
+              "name": "Samsung "
+            }
+          }
+        ],
+        "conversation_id": "1945913569616265509",
+        "created_at": "2025-07-18T05:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T06:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946078476315856928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1909553877739085825",
+              "start": 0,
+              "username": "TOKYOheshan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946078476315856928",
+        "in_reply_to_user_id": "1909553877739085825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945913569616265509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOKYOheshan 我语文不好，但我会写三星！\n我英语不好，但我会读Samsung！\n我历史不好，但我永不忘记1938！\n我数学不好，但我永远记得20％！\n我地理不好，但我永远记得地图上的朝鲜半岛！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1945913510350757889"
+          ]
+        },
+        "author_id": "1909553877739085825",
+        "conversation_id": "1945913569616265509",
+        "created_at": "2025-07-17T18:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T19:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945913569616265509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LD8wy41zL9",
+              "end": 30,
+              "expanded_url": "https://x.com/TOKYOheshan/status/1945913569616265509/video/1",
+              "media_key": "13_1945913510350757889",
+              "start": 7,
+              "url": "https://t.co/LD8wy41zL9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945913569616265509",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 987,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看哭了😭🇨🇳 https://t.co/LD8wy41zL9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 238,
+          "like_count": 5756,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 3810
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "互联网冲浪找史炒作高手 07跨性别女同🏳️‍⚧️ IP🇯🇵東京池袋 成分：键政｜抽象｜二次元｜神友｜右翼｜自由民主｜精日罕见｜包蜜｜LGBTQ｜女裝｜舞萌痴｜明日方舟｜啤酒烧烤｜永雏塔菲｜東雪蓮｜进击的巨人｜MYGO｜平常会更新日常和抽象爱国TV 互fo扩列私信 欢迎线下一起玩 逃生舱:@heshan8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 144,
+                "username": "heshan8964"
+              }
+            ]
+          }
+        },
+        "id": "1909553877739085825",
+        "location": "東京 豊島区",
+        "name": "抽象耶格尔🍥",
+        "pinned_tweet_id": "1932095364385153188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945752007501062144/N0rKOgE8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5143,
+          "following_count": 581,
+          "like_count": 657,
+          "listed_count": 10,
+          "media_count": 315,
+          "tweet_count": 504
+        },
+        "username": "TOKYOheshan",
+        "verified": true
+      }
+    ]
+  }
+}

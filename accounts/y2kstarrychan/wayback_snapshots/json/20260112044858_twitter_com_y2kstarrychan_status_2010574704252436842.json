@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2010571856831779251",
+    "created_at": "2026-01-12T04:48:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T05:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010574704252436842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1988647634689720320",
+          "start": 0,
+          "username": "sorasirokotyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010574704252436842",
+    "in_reply_to_user_id": "1988647634689720320",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010571856831779251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sorasirokotyan 51"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2010571856831779251].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2010571856831779251",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2010571856831779251"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2010571856831779251",
+        "created_at": "2026-01-12T04:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T05:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010574704252436842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1988647634689720320",
+              "start": 0,
+              "username": "sorasirokotyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010574704252436842",
+        "in_reply_to_user_id": "1988647634689720320",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010571856831779251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sorasirokotyan 51"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3020,
+          "following_count": 709,
+          "like_count": 48236,
+          "listed_count": 5,
+          "media_count": 143,
+          "tweet_count": 4230
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-12T16:38:48.000Z",
+        "description": "08年坐標廣東/身高158 體重47kg/空白子無證不含糖 不係跨 係友跨順男蛆🏳️‍⚧️(絕不翻車 /政治🚫🚫🚫/咱只是把推特當朋友圈玩的普通高校生 阿Sir求放過 多謝\n最も好きな空去ちゃん：@chaikh222",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "chaikh222"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kunHaku0",
+                "end": 23,
+                "expanded_url": "http://t.me/kunHaku0",
+                "start": 0,
+                "url": "https://t.co/JXjYVOVNV8"
+              }
+            ]
+          }
+        },
+        "id": "1988647634689720320",
+        "location": "Twitter の インターネット",
+        "name": "空白子ちゃん~Official🍥",
+        "pinned_tweet_id": "2010157465422438910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009473906999164928/vofr9rJQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 406,
+          "like_count": 2236,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 427
+        },
+        "url": "https://t.co/JXjYVOVNV8",
+        "username": "sorasirokotyan",
+        "verified": false
+      }
+    ]
+  }
+}

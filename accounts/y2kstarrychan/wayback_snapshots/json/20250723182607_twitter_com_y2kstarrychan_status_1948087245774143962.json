@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948027723181608960"
+      ],
+      "media_source_tweet_id": [
+        "1948035377689931901"
+      ]
+    },
+    "author_id": "3244048580",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1948087245774143962",
+    "created_at": "2025-07-23T18:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T19:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948087245774143962"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 64,
+          "start": 56,
+          "tag": "あずせの誕生日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1355900185235259396",
+          "start": 3,
+          "username": "AzumaSeren"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nY26rs8Swt",
+          "end": 88,
+          "expanded_url": "https://x.com/AzumaSeren/status/1948035377689931901/photo/1",
+          "media_key": "3_1948027723181608960",
+          "start": 65,
+          "url": "https://t.co/nY26rs8Swt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948087245774143962",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948035377689931901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AzumaSeren: ～爆誕2025～\nまた生き延びちゃったョ．．．\n今年も頑張っていきたいね❄️\n\n＃あずせの誕生日 https://t.co/nY26rs8Swt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1948027723181608960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwjI5KTaUAAKaaH.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948027723181608960"
+          ],
+          "media_source_tweet_id": [
+            "1948035377689931901"
+          ]
+        },
+        "author_id": "3244048580",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1948087245774143962",
+        "created_at": "2025-07-23T18:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T19:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948087245774143962"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 56,
+              "tag": "あずせの誕生日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1355900185235259396",
+              "start": 3,
+              "username": "AzumaSeren"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nY26rs8Swt",
+              "end": 88,
+              "expanded_url": "https://x.com/AzumaSeren/status/1948035377689931901/photo/1",
+              "media_key": "3_1948027723181608960",
+              "start": 65,
+              "url": "https://t.co/nY26rs8Swt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948087245774143962",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948035377689931901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AzumaSeren: ～爆誕2025～\nまた生き延びちゃったョ．．．\n今年も頑張っていきたいね❄️\n\n＃あずせの誕生日 https://t.co/nY26rs8Swt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948027723181608960"
+          ]
+        },
+        "author_id": "1355900185235259396",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1948035377689931901",
+        "created_at": "2025-07-23T15:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T16:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948035377689931901"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 40,
+              "tag": "あずせの誕生日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nY26rs8Swt",
+              "end": 72,
+              "expanded_url": "https://x.com/AzumaSeren/status/1948035377689931901/photo/1",
+              "media_key": "3_1948027723181608960",
+              "start": 49,
+              "url": "https://t.co/nY26rs8Swt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948035377689931901",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 11405,
+          "like_count": 498,
+          "quote_count": 7,
+          "reply_count": 67,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "～爆誕2025～\nまた生き延びちゃったョ．．．\n今年も頑張っていきたいね❄️\n\n＃あずせの誕生日 https://t.co/nY26rs8Swt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 278,
+          "like_count": 9309,
+          "listed_count": 3,
+          "media_count": 104,
+          "tweet_count": 3844
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-31T15:26:46.000Z",
+        "description": "°ʚ🍼ɞ°￤詩￤唄￤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/azumaseren",
+                "end": 23,
+                "expanded_url": "https://lit.link/azumaseren",
+                "start": 0,
+                "url": "https://t.co/fKPzK4dlPm"
+              }
+            ]
+          }
+        },
+        "id": "1355900185235259396",
+        "name": "東 雪蓮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922983367907090432/mLpJdD8G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52329,
+          "following_count": 193,
+          "like_count": 20343,
+          "listed_count": 119,
+          "media_count": 921,
+          "tweet_count": 8295
+        },
+        "url": "https://t.co/fKPzK4dlPm",
+        "username": "AzumaSeren",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1632336255823519744",
+    "conversation_id": "1941978765266940160",
+    "created_at": "2025-07-06T21:53:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T22:53:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941978765266940160"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1941978765266940160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不结婚，不买房，不买车，不负债才是现代版的 “人生赢家”。 不是我没能力, 而是我看透了这个游戏, 退局才是最好的通关方式。现实世界如同十日终焉终焉之地那样，集齐3600颗道不过是神之欺诈。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632336255823519744",
+        "conversation_id": "1941978765266940160",
+        "created_at": "2025-07-06T21:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T22:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941978765266940160"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941978765266940160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不结婚，不买房，不买车，不负债才是现代版的 “人生赢家”。 不是我没能力, 而是我看透了这个游戏, 退局才是最好的通关方式。现实世界如同十日终焉终焉之地那样，集齐3600颗道不过是神之欺诈。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-05T11:04:36.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条。道法三千六百门，而人人各执一苗根”",
+        "id": "1632336255823519744",
+        "name": "星璃酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941473307338973185/fzCahO6j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 87,
+          "like_count": 472,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

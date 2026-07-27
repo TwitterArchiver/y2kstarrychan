@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1988454141849686429",
+    "created_at": "2025-11-12T04:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T05:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988466445529870398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1873706565552979968",
+          "start": 0,
+          "username": "vitasoy_1022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988466445529870398",
+    "in_reply_to_user_id": "3244048580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988466377318142133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vitasoy_1022 让他登陆上来？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1988454141849686429",
+        "created_at": "2025-11-12T04:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T05:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988466445529870398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1873706565552979968",
+              "start": 0,
+              "username": "vitasoy_1022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988466445529870398",
+        "in_reply_to_user_id": "3244048580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988466377318142133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vitasoy_1022 让他登陆上来？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1988454141849686429",
+        "created_at": "2025-11-12T04:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T05:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988466377318142133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1873706565552979968",
+              "start": 0,
+              "username": "vitasoy_1022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988466377318142133",
+        "in_reply_to_user_id": "1873706565552979968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988454141849686429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vitasoy_1022 不是，你为什么不挡验证码？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2863,
+          "following_count": 500,
+          "like_count": 40257,
+          "listed_count": 5,
+          "media_count": 136,
+          "tweet_count": 4021
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-30T12:24:17.000Z",
+        "description": "🇭🇰｜it/its｜12y｜❤️ @name_ftx_0411 ⬅️如果你关注了我请再关注这个人｜モリモリあつし大好き｜what is this? @wobushiv1tas0y｜🎯👎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "name_ftx_0411"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "wobushiv1tas0y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@vitasoy1022",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@vitasoy1022",
+                "start": 0,
+                "url": "https://t.co/rr4yW08tSr"
+              }
+            ]
+          }
+        },
+        "id": "1873706565552979968",
+        "location": "九龍醫院H座",
+        "name": "維他奶🦋🥛",
+        "pinned_tweet_id": "1980551190065869298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980550954731651072/3G3XR8Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 2246,
+          "like_count": 39363,
+          "listed_count": 2,
+          "media_count": 334,
+          "tweet_count": 8438
+        },
+        "url": "https://t.co/rr4yW08tSr",
+        "username": "vitasoy_1022",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993217244092825600"
+      ],
+      "media_source_tweet_id": [
+        "1993217246320378045"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1993217264909533268",
+    "created_at": "2025-11-25T07:16:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T08:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993217264909533268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3244048580",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cUE36EetVp",
+          "end": 51,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1993217246320378045/photo/1",
+          "media_key": "3_1993217244092825600",
+          "start": 28,
+          "url": "https://t.co/cUE36EetVp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993217264909533268",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993217246320378045",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: 明日香的杨汁甘露 https://t.co/cUE36EetVp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 898,
+        "media_key": "3_1993217244092825600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6lUheJWAAA5E7E.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993217244092825600"
+          ],
+          "media_source_tweet_id": [
+            "1993217246320378045"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1993217264909533268",
+        "created_at": "2025-11-25T07:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T08:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993217264909533268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3244048580",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cUE36EetVp",
+              "end": 51,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1993217246320378045/photo/1",
+              "media_key": "3_1993217244092825600",
+              "start": 28,
+              "url": "https://t.co/cUE36EetVp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993217264909533268",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993217246320378045",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: 明日香的杨汁甘露 https://t.co/cUE36EetVp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993217244092825600"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1993217246320378045",
+        "created_at": "2025-11-25T07:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T08:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993217246320378045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cUE36EetVp",
+              "end": 32,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1993217246320378045/photo/1",
+              "media_key": "3_1993217244092825600",
+              "start": 9,
+              "url": "https://t.co/cUE36EetVp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993217246320378045",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "明日香的杨汁甘露 https://t.co/cUE36EetVp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2887,
+          "following_count": 542,
+          "like_count": 41922,
+          "listed_count": 5,
+          "media_count": 139,
+          "tweet_count": 4040
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

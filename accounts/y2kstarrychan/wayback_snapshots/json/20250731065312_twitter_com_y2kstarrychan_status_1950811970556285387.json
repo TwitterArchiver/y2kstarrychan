@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1950811970556285387",
+    "created_at": "2025-07-31T06:53:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T07:53:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950811970556285387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1569930872102559745",
+          "start": 3,
+          "username": "dongxuelianhaha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950811970556285387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950809979541508548",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dongxuelianhaha: 第一，这是性骚扰案，不是性侵案,对案件本身完全不了解就不要来瞎评价\n第二，女方就是恶意诬告，对男方进行开盒长期进行网络暴力，使其精神出现严重问题无法继续学习，\n第三，女方在诬告失败后发文嘲讽挑衅男方，并且没有付出任何代价\n这样一个赤裸裸…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1950811970556285387",
+        "created_at": "2025-07-31T06:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T07:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950811970556285387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1569930872102559745",
+              "start": 3,
+              "username": "dongxuelianhaha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950811970556285387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950809979541508548",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dongxuelianhaha: 第一，这是性骚扰案，不是性侵案,对案件本身完全不了解就不要来瞎评价\n第二，女方就是恶意诬告，对男方进行开盒长期进行网络暴力，使其精神出现严重问题无法继续学习，\n第三，女方在诬告失败后发文嘲讽挑衅男方，并且没有付出任何代价\n这样一个赤裸裸…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569930872102559745",
+        "conversation_id": "1950809979541508548",
+        "created_at": "2025-07-31T06:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T07:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950809979541508548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ilovelittlepig…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/ilovelittlepigs/status/1950538187429851572",
+              "start": 138,
+              "url": "https://t.co/eMjOQpHKVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950809979541508548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 54,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950538187429851572",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一，这是性骚扰案，不是性侵案,对案件本身完全不了解就不要来瞎评价\n第二，女方就是恶意诬告，对男方进行开盒长期进行网络暴力，使其精神出现严重问题无法继续学习，\n第三，女方在诬告失败后发文嘲讽挑衅男方，并且没有付出任何代价\n这样一个赤裸裸的恶意诬告的加害者。怎么就成受害者了？ https://t.co/eMjOQpHKVf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 341,
+          "like_count": 14079,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 3874
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-14T06:07:59.000Z",
+        "description": "迷えば、敗れる 大坏蛋老婆@soyorinQaQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "soyorinQaQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ogXbO67",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ogXbO67",
+                "start": 0,
+                "url": "https://t.co/DEZp6tgi8m"
+              }
+            ]
+          }
+        },
+        "id": "1569930872102559745",
+        "location": "日本东京",
+        "name": "東雪莲哭哭🥺",
+        "pinned_tweet_id": "1873738854957830359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936367304855412736/xqxUMSfu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2846,
+          "following_count": 768,
+          "like_count": 91376,
+          "listed_count": 19,
+          "media_count": 1303,
+          "tweet_count": 11387
+        },
+        "url": "https://t.co/DEZp6tgi8m",
+        "username": "dongxuelianhaha",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008032317340532736"
+      ],
+      "media_source_tweet_id": [
+        "2008032319643521287"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "2008032331169411407",
+    "created_at": "2026-01-05T04:26:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T05:26:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008032331169411407"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 19,
+          "tag": "星璃醬的每日梗图分享系列"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3244048580",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ocpyksCVDF",
+          "end": 68,
+          "expanded_url": "https://x.com/y2kstarrychan/status/2008032319643521287/photo/1",
+          "media_key": "3_2008032317340532736",
+          "start": 45,
+          "url": "https://t.co/ocpyksCVDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008032331169411407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008032319643521287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: #星璃醬的每日梗图分享系列\n姐妹之间抠一下怎么了？ https://t.co/ocpyksCVDF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_2008032317340532736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G932wOyWQAA-To2.jpg",
+        "width": 1010
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008032317340532736"
+          ],
+          "media_source_tweet_id": [
+            "2008032319643521287"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "2008032331169411407",
+        "created_at": "2026-01-05T04:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T05:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008032331169411407"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 19,
+              "tag": "星璃醬的每日梗图分享系列"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3244048580",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ocpyksCVDF",
+              "end": 68,
+              "expanded_url": "https://x.com/y2kstarrychan/status/2008032319643521287/photo/1",
+              "media_key": "3_2008032317340532736",
+              "start": 45,
+              "url": "https://t.co/ocpyksCVDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008032331169411407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008032319643521287",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: #星璃醬的每日梗图分享系列\n姐妹之间抠一下怎么了？ https://t.co/ocpyksCVDF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008032317340532736"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "2008032319643521287",
+        "created_at": "2026-01-05T04:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T05:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008032319643521287"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "星璃醬的每日梗图分享系列"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ocpyksCVDF",
+              "end": 49,
+              "expanded_url": "https://x.com/y2kstarrychan/status/2008032319643521287/photo/1",
+              "media_key": "3_2008032317340532736",
+              "start": 26,
+              "url": "https://t.co/ocpyksCVDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008032319643521287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#星璃醬的每日梗图分享系列\n姐妹之间抠一下怎么了？ https://t.co/ocpyksCVDF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3000,
+          "following_count": 674,
+          "like_count": 46991,
+          "listed_count": 5,
+          "media_count": 147,
+          "tweet_count": 4195
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      }
+    ]
+  }
+}

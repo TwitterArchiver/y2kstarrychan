@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2045101557189140588",
+    "created_at": "2026-04-18T03:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T04:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045342785792782578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045342785792782578",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045101557189140588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 有北京天安门广场附近的吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 332,
+        "media_key": "3_2045101535773032448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGpAulbgAAQlsX.jpg",
+        "width": 1200
+      },
+      {
+        "height": 628,
+        "media_key": "3_2045101304713007105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGozR0bUAECwAk.jpg",
+        "width": 1196
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2045101557189140588",
+        "created_at": "2026-04-18T03:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045342785792782578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045342785792782578",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045101557189140588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 有北京天安门广场附近的吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045101535773032448",
+            "3_2045101304713007105"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2045101557189140588",
+        "created_at": "2026-04-17T11:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045101557189140588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GiGhkKp86S",
+              "end": 69,
+              "expanded_url": "https://x.com/Rococo90933671/status/2045101557189140588/photo/1",
+              "media_key": "3_2045101535773032448",
+              "start": 46,
+              "url": "https://t.co/GiGhkKp86S"
+            },
+            {
+              "display_url": "pic.x.com/GiGhkKp86S",
+              "end": 69,
+              "expanded_url": "https://x.com/Rococo90933671/status/2045101557189140588/photo/1",
+              "media_key": "3_2045101304713007105",
+              "start": 46,
+              "url": "https://t.co/GiGhkKp86S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045101557189140588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 114124,
+          "like_count": 686,
+          "quote_count": 1,
+          "reply_count": 198,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "警告⚠️：今天突然发现，机器人头像从真人熟女开始向卡通二次元看齐了，这是摸清楚受众了（悲） https://t.co/GiGhkKp86S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2878,
+          "following_count": 797,
+          "like_count": 52323,
+          "listed_count": 5,
+          "media_count": 152,
+          "tweet_count": 4349
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10111,
+          "following_count": 2900,
+          "like_count": 35322,
+          "listed_count": 30,
+          "media_count": 3691,
+          "tweet_count": 20572
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

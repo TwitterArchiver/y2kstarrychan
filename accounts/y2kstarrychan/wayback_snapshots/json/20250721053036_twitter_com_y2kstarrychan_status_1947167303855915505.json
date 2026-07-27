@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947167301117050880",
+        "3_1947167301737893888"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1946857801097298030",
+    "created_at": "2025-07-21T05:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T06:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947167303855915505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1908668668919398400",
+          "start": 0,
+          "username": "SasakiKazumawa"
+        },
+        {
+          "end": 27,
+          "id": "1925040968572796928",
+          "start": 16,
+          "username": "kgracebown"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1zaCLOCnQc",
+          "end": 87,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1947167303855915505/photo/1",
+          "media_key": "3_1947167301117050880",
+          "start": 64,
+          "url": "https://t.co/1zaCLOCnQc"
+        },
+        {
+          "display_url": "pic.x.com/1zaCLOCnQc",
+          "end": 87,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1947167303855915505/photo/1",
+          "media_key": "3_1947167301737893888",
+          "start": 64,
+          "url": "https://t.co/1zaCLOCnQc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947167303855915505",
+    "in_reply_to_user_id": "1908668668919398400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947165275931238472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SasakiKazumawa @kgracebown 我氣死你+1，三星s25ultra 1TB在中國售價是￥14,000😋 https://t.co/1zaCLOCnQc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1131,
+        "media_key": "3_1947167301117050880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwW6WAVWgAA7vpi.jpg",
+        "width": 1359
+      },
+      {
+        "height": 3120,
+        "media_key": "3_1947167301737893888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwW6WCpX0AAN8VG.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2796,
+        "media_key": "3_1947165258830766080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwW4fIOW4AAV_6e.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947167301117050880",
+            "3_1947167301737893888"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1946857801097298030",
+        "created_at": "2025-07-21T05:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T06:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947167303855915505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1908668668919398400",
+              "start": 0,
+              "username": "SasakiKazumawa"
+            },
+            {
+              "end": 27,
+              "id": "1925040968572796928",
+              "start": 16,
+              "username": "kgracebown"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1zaCLOCnQc",
+              "end": 87,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1947167303855915505/photo/1",
+              "media_key": "3_1947167301117050880",
+              "start": 64,
+              "url": "https://t.co/1zaCLOCnQc"
+            },
+            {
+              "display_url": "pic.x.com/1zaCLOCnQc",
+              "end": 87,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1947167303855915505/photo/1",
+              "media_key": "3_1947167301737893888",
+              "start": 64,
+              "url": "https://t.co/1zaCLOCnQc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947167303855915505",
+        "in_reply_to_user_id": "1908668668919398400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947165275931238472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SasakiKazumawa @kgracebown 我氣死你+1，三星s25ultra 1TB在中國售價是￥14,000😋 https://t.co/1zaCLOCnQc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947165258830766080"
+          ]
+        },
+        "author_id": "1908668668919398400",
+        "conversation_id": "1946857801097298030",
+        "created_at": "2025-07-21T05:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T06:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947165275931238472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1925040968572796928",
+              "start": 0,
+              "username": "kgracebown"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tWEaSfxpvh",
+              "end": 58,
+              "expanded_url": "https://x.com/SasakiKazumawa/status/1947165275931238472/photo/1",
+              "media_key": "3_1947165258830766080",
+              "start": 35,
+              "url": "https://t.co/tWEaSfxpvh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947165275931238472",
+        "in_reply_to_user_id": "1925040968572796928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946857801097298030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kgracebown 气死你我iCloud还有200g空间呢气死你 https://t.co/tWEaSfxpvh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 254,
+          "like_count": 7698,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 3829
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-05T23:50:54.000Z",
+        "description": "平成24年（2012年）生まれの13歳🚹の中学二年生。| とても大切な人@chaox1220_2nd🥰 | 📬DMはFF/認証済みアカウントのみ | #あつ森 #音ゲー #プロセカ #日本語間違えてたら教えて | サブ📒@hhaaiibot 音ゲー垢🎵@BbLlOoCcKk",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 75,
+                "tag": "あつ森"
+              },
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "音ゲー"
+              },
+              {
+                "end": 90,
+                "start": 85,
+                "tag": "プロセカ"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "tag": "日本語間違えてたら教えて"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 50,
+                "start": 36,
+                "username": "chaox1220_2nd"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "hhaaiibot"
+              },
+              {
+                "end": 137,
+                "start": 126,
+                "username": "BbLlOoCcKk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/hhaaiibot",
+                "end": 23,
+                "expanded_url": "https://x.com/hhaaiibot",
+                "start": 0,
+                "url": "https://t.co/GoqUNkUo5T"
+              }
+            ]
+          }
+        },
+        "id": "1908668668919398400",
+        "location": "叫我「佐佐木大将军/大统领」就好",
+        "name": "𝑲𝒂𝒛𝒖𝒎𝒂 𝑺𝒂𝒔𝒂𝒌𝒊 🏳️‍🌈",
+        "pinned_tweet_id": "1940757723765002505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945439337241292800/o7VO85t6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 2351,
+          "like_count": 1187,
+          "listed_count": 0,
+          "media_count": 504,
+          "tweet_count": 2303
+        },
+        "url": "https://t.co/GoqUNkUo5T",
+        "username": "SasakiKazumawa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-21T04:08:29.000Z",
+        "description": "",
+        "id": "1925040968572796928",
+        "name": "Grace Brown",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 112
+        },
+        "username": "kgracebown",
+        "verified": false
+      }
+    ]
+  }
+}

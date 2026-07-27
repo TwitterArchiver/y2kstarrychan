@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978666387607289856"
+      ],
+      "media_source_tweet_id": [
+        "1978666390451110170"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1978666401586929760",
+    "created_at": "2025-10-16T03:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T04:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978666401586929760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3244048580",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DF8sXaf6O9",
+          "end": 51,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1978666390451110170/photo/1",
+          "media_key": "3_1978666387607289856",
+          "start": 28,
+          "url": "https://t.co/DF8sXaf6O9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978666401586929760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978666390451110170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: 他终于解脱了…… https://t.co/DF8sXaf6O9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_1978666387607289856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3WimJpWgAAyV_C.jpg",
+        "width": 2880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978666387607289856"
+          ],
+          "media_source_tweet_id": [
+            "1978666390451110170"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1978666401586929760",
+        "created_at": "2025-10-16T03:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T04:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978666401586929760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3244048580",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DF8sXaf6O9",
+              "end": 51,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1978666390451110170/photo/1",
+              "media_key": "3_1978666387607289856",
+              "start": 28,
+              "url": "https://t.co/DF8sXaf6O9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978666401586929760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978666390451110170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: 他终于解脱了…… https://t.co/DF8sXaf6O9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978666387607289856"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1978666390451110170",
+        "created_at": "2025-10-16T03:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T04:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978666390451110170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DF8sXaf6O9",
+              "end": 32,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1978666390451110170/photo/1",
+              "media_key": "3_1978666387607289856",
+              "start": 9,
+              "url": "https://t.co/DF8sXaf6O9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978666390451110170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "他终于解脱了…… https://t.co/DF8sXaf6O9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2822,
+          "following_count": 464,
+          "like_count": 38541,
+          "listed_count": 5,
+          "media_count": 129,
+          "tweet_count": 3994
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

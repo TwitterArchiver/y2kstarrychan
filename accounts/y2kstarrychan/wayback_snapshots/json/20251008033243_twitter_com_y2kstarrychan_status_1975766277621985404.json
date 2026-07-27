@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975766264522878976"
+      ],
+      "media_source_tweet_id": [
+        "1975766267706679469"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1975766277621985404",
+    "created_at": "2025-10-08T03:32:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T04:32:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975766277621985404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3244048580",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3kpWcoLb5R",
+          "end": 50,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1975766267706679469/photo/1",
+          "media_key": "3_1975766264522878976",
+          "start": 27,
+          "url": "https://t.co/3kpWcoLb5R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975766277621985404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975766267706679469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: 只有黄才是真的 https://t.co/3kpWcoLb5R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 878,
+        "media_key": "3_1975766264522878976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2tU8xQWMAAGEnU.jpg",
+        "width": 684
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975766264522878976"
+          ],
+          "media_source_tweet_id": [
+            "1975766267706679469"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1975766277621985404",
+        "created_at": "2025-10-08T03:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T04:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975766277621985404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3244048580",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3kpWcoLb5R",
+              "end": 50,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1975766267706679469/photo/1",
+              "media_key": "3_1975766264522878976",
+              "start": 27,
+              "url": "https://t.co/3kpWcoLb5R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975766277621985404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975766267706679469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: 只有黄才是真的 https://t.co/3kpWcoLb5R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975766264522878976"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1975766267706679469",
+        "created_at": "2025-10-08T03:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T04:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975766267706679469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3kpWcoLb5R",
+              "end": 31,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1975766267706679469/photo/1",
+              "media_key": "3_1975766264522878976",
+              "start": 8,
+              "url": "https://t.co/3kpWcoLb5R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975766267706679469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "只有黄才是真的 https://t.co/3kpWcoLb5R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2834,
+          "following_count": 465,
+          "like_count": 37858,
+          "listed_count": 5,
+          "media_count": 131,
+          "tweet_count": 3996
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

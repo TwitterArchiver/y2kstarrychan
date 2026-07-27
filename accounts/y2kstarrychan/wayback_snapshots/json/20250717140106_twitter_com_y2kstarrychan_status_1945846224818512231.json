@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1945846224818512231",
+    "created_at": "2025-07-17T14:01:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T15:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945846224818512231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1096361887330054145",
+          "start": 3,
+          "username": "OQ0aKSHncak5ULm"
+        },
+        {
+          "end": 35,
+          "id": "3244048580",
+          "start": 21,
+          "username": "y2kstarrychan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945846224818512231",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945842987604537501",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OQ0aKSHncak5ULm: @y2kstarrychan 他父母把文曲星當棒球打回去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1945846224818512231",
+        "created_at": "2025-07-17T14:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T15:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945846224818512231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1096361887330054145",
+              "start": 3,
+              "username": "OQ0aKSHncak5ULm"
+            },
+            {
+              "end": 35,
+              "id": "3244048580",
+              "start": 21,
+              "username": "y2kstarrychan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945846224818512231",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945842987604537501",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OQ0aKSHncak5ULm: @y2kstarrychan 他父母把文曲星當棒球打回去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1096361887330054145",
+        "conversation_id": "1945360668783178013",
+        "created_at": "2025-07-17T13:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T14:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945842987604537501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3244048580",
+              "start": 0,
+              "username": "y2kstarrychan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945842987604537501",
+        "in_reply_to_user_id": "3244048580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945360668783178013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y2kstarrychan 他父母把文曲星當棒球打回去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 226,
+          "like_count": 5228,
+          "listed_count": 3,
+          "media_count": 97,
+          "tweet_count": 3805
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2019-02-15T10:53:38.000Z",
+        "description": "TW 20+ ISTJ｜混亂雜食人｜目前主推🐑｜除日常暴言什麼都不會",
+        "id": "1096361887330054145",
+        "name": "羅妮亞",
+        "pinned_tweet_id": "1554110349598924800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817060911091449857/iAoOe2R3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 68,
+          "like_count": 600,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1729
+        },
+        "username": "OQ0aKSHncak5ULm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008697041443057664"
+      ],
+      "media_source_tweet_id": [
+        "2008697043548823762"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "2008697057200992685",
+    "created_at": "2026-01-07T00:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T01:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008697057200992685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3244048580",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iNLDavq4Ea",
+          "end": 54,
+          "expanded_url": "https://x.com/y2kstarrychan/status/2008697043548823762/photo/1",
+          "media_key": "3_2008697041443057664",
+          "start": 31,
+          "url": "https://t.co/iNLDavq4Ea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008697057200992685",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008697043548823762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: 反美是工作，赴美是生活 https://t.co/iNLDavq4Ea"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1760,
+        "media_key": "3_2008697041443057664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-BTURCXcAASSgi.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008697041443057664"
+          ],
+          "media_source_tweet_id": [
+            "2008697043548823762"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "2008697057200992685",
+        "created_at": "2026-01-07T00:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T01:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008697057200992685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3244048580",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iNLDavq4Ea",
+              "end": 54,
+              "expanded_url": "https://x.com/y2kstarrychan/status/2008697043548823762/photo/1",
+              "media_key": "3_2008697041443057664",
+              "start": 31,
+              "url": "https://t.co/iNLDavq4Ea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008697057200992685",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008697043548823762",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: 反美是工作，赴美是生活 https://t.co/iNLDavq4Ea"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008697041443057664"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "2008697043548823762",
+        "created_at": "2026-01-07T00:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T01:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008697043548823762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iNLDavq4Ea",
+              "end": 35,
+              "expanded_url": "https://x.com/y2kstarrychan/status/2008697043548823762/photo/1",
+              "media_key": "3_2008697041443057664",
+              "start": 12,
+              "url": "https://t.co/iNLDavq4Ea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008697043548823762",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "反美是工作，赴美是生活 https://t.co/iNLDavq4Ea"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3007,
+          "following_count": 680,
+          "like_count": 47187,
+          "listed_count": 5,
+          "media_count": 145,
+          "tweet_count": 4198
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      }
+    ]
+  }
+}

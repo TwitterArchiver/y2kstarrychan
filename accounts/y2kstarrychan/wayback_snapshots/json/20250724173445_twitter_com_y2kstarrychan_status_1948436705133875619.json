@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948436702776664064"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1948349051969442285",
+    "created_at": "2025-07-24T17:34:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T18:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948436705133875619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1319600236491255808",
+          "start": 0,
+          "username": "miku_suki393939"
+        },
+        {
+          "end": 24,
+          "id": "121462680",
+          "start": 17,
+          "username": "eva00x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MutFgjpcz6",
+          "end": 48,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1948436705133875619/photo/1",
+          "media_key": "3_1948436702776664064",
+          "start": 25,
+          "url": "https://t.co/MutFgjpcz6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948436705133875619",
+    "in_reply_to_user_id": "1319600236491255808",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948349051969442285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miku_suki393939 @eva00x https://t.co/MutFgjpcz6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 796,
+        "media_key": "3_1948436702776664064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwo826BWIAAbNuw.jpg",
+        "width": 942
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1948349045451436032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwntIlCasAAjyHC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948436702776664064"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1948349051969442285",
+        "created_at": "2025-07-24T17:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T18:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948436705133875619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1319600236491255808",
+              "start": 0,
+              "username": "miku_suki393939"
+            },
+            {
+              "end": 24,
+              "id": "121462680",
+              "start": 17,
+              "username": "eva00x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MutFgjpcz6",
+              "end": 48,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1948436705133875619/photo/1",
+              "media_key": "3_1948436702776664064",
+              "start": 25,
+              "url": "https://t.co/MutFgjpcz6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948436705133875619",
+        "in_reply_to_user_id": "1319600236491255808",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948349051969442285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miku_suki393939 @eva00x https://t.co/MutFgjpcz6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948349045451436032"
+          ]
+        },
+        "author_id": "1319600236491255808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1948349051969442285",
+        "created_at": "2025-07-24T11:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T12:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948349051969442285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "121462680",
+              "start": 3,
+              "username": "eva00x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a7MI3mrFr0",
+              "end": 51,
+              "expanded_url": "https://x.com/miku_suki393939/status/1948349051969442285/photo/1",
+              "media_key": "3_1948349045451436032",
+              "start": 28,
+              "url": "https://t.co/a7MI3mrFr0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948349051969442285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 581,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天和@eva00x \n一起吃雞\n爭取將來成為八岐大蛇 https://t.co/a7MI3mrFr0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1509,
+          "following_count": 279,
+          "like_count": 9820,
+          "listed_count": 3,
+          "media_count": 106,
+          "tweet_count": 3854
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-23T11:23:30.000Z",
+        "description": "日本潜伏中のオタク／ACG全振り勢🎨ライブ現場主食🍙コール命がけ🔥音ゲ廃人🎧アニメ・ボカロ・V箱に沼ってる全推し勢🌸ヲタ芸修行中💡宅舞もちょっと練習したい勢💃 山ざくら 霞の間より ほのかにも 見てし人こそ 恋しかりけれ",
+        "id": "1319600236491255808",
+        "location": "初音ミク",
+        "name": "🌸婲緋節扌喿⛩️🩵39C5BB",
+        "pinned_tweet_id": "1772835531313025098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803097210193915904/pojoHfV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4136,
+          "following_count": 1954,
+          "like_count": 158065,
+          "listed_count": 13,
+          "media_count": 3853,
+          "tweet_count": 65339
+        },
+        "username": "miku_suki393939",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-09T15:37:34.000Z",
+        "description": "freedom equality economy 重新开放推特，润出天朝，日本社畜  東京の会社員、日本の友達を大歓迎",
+        "id": "121462680",
+        "location": "日本 東京",
+        "name": "FREEDOM🇺🇦🇯🇵",
+        "pinned_tweet_id": "1802297912988463204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/810419531/_______normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 1168,
+          "like_count": 27820,
+          "listed_count": 4,
+          "media_count": 54,
+          "tweet_count": 9513
+        },
+        "username": "eva00x",
+        "verified": false
+      }
+    ]
+  }
+}

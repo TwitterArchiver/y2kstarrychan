@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039106044992065536",
+        "3_2039106044753027072"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "2039044414891348025",
+    "created_at": "2026-03-31T22:22:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T23:22:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039106046921224233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "965583779380129792",
+          "start": 0,
+          "username": "mario_2333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/86dib1bPCe",
+          "end": 35,
+          "expanded_url": "https://x.com/y2kstarrychan/status/2039106046921224233/photo/1",
+          "media_key": "3_2039106044992065536",
+          "start": 12,
+          "url": "https://t.co/86dib1bPCe"
+        },
+        {
+          "display_url": "pic.x.com/86dib1bPCe",
+          "end": 35,
+          "expanded_url": "https://x.com/y2kstarrychan/status/2039106046921224233/photo/1",
+          "media_key": "3_2039106044753027072",
+          "start": 12,
+          "url": "https://t.co/86dib1bPCe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039106046921224233",
+    "in_reply_to_user_id": "965583779380129792",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039044414891348025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mario_2333 https://t.co/86dib1bPCe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039106044992065536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HExcJO8akAABwoJ.jpg",
+        "width": 945
+      },
+      {
+        "height": 726,
+        "media_key": "3_2039106044753027072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HExcJODbIAAO7ml.jpg",
+        "width": 870
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039044411720359937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEwkFtHWYAE5jJS.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039044412555034625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEwkFwOWgAEtzA4.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039044412550885376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEwkFwNXMAAeo4X.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039106044992065536",
+            "3_2039106044753027072"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "2039044414891348025",
+        "created_at": "2026-03-31T22:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T23:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039106046921224233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "965583779380129792",
+              "start": 0,
+              "username": "mario_2333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/86dib1bPCe",
+              "end": 35,
+              "expanded_url": "https://x.com/y2kstarrychan/status/2039106046921224233/photo/1",
+              "media_key": "3_2039106044992065536",
+              "start": 12,
+              "url": "https://t.co/86dib1bPCe"
+            },
+            {
+              "display_url": "pic.x.com/86dib1bPCe",
+              "end": 35,
+              "expanded_url": "https://x.com/y2kstarrychan/status/2039106046921224233/photo/1",
+              "media_key": "3_2039106044753027072",
+              "start": 12,
+              "url": "https://t.co/86dib1bPCe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039106046921224233",
+        "in_reply_to_user_id": "965583779380129792",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039044414891348025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mario_2333 https://t.co/86dib1bPCe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039044411720359937",
+            "3_2039044412555034625",
+            "3_2039044412550885376"
+          ]
+        },
+        "author_id": "965583779380129792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2039044414891348025",
+        "created_at": "2026-03-31T18:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T19:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039044414891348025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SJd3ZVLAPG",
+              "end": 114,
+              "expanded_url": "https://x.com/mario_2333/status/2039044414891348025/photo/1",
+              "media_key": "3_2039044411720359937",
+              "start": 91,
+              "url": "https://t.co/SJd3ZVLAPG"
+            },
+            {
+              "display_url": "pic.x.com/SJd3ZVLAPG",
+              "end": 114,
+              "expanded_url": "https://x.com/mario_2333/status/2039044414891348025/photo/1",
+              "media_key": "3_2039044412555034625",
+              "start": 91,
+              "url": "https://t.co/SJd3ZVLAPG"
+            },
+            {
+              "display_url": "pic.x.com/SJd3ZVLAPG",
+              "end": 114,
+              "expanded_url": "https://x.com/mario_2333/status/2039044414891348025/photo/1",
+              "media_key": "3_2039044412550885376",
+              "start": 91,
+              "url": "https://t.co/SJd3ZVLAPG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039044414891348025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 729,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感觉手机什么都没用就快满了捏（×\n\n而且谷歌你真的有必要整一个11G的ai核心塞我手机里吗，我怎么觉得这11G没干多少事呢，Apple intelligence也就八九个G吧qwq https://t.co/SJd3ZVLAPG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2945,
+          "following_count": 785,
+          "like_count": 51030,
+          "listed_count": 5,
+          "media_count": 150,
+          "tweet_count": 4290
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我🥰 | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | CC BY-NC 4.0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8ArcV"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+2",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3357,
+          "following_count": 261,
+          "like_count": 43141,
+          "listed_count": 15,
+          "media_count": 919,
+          "tweet_count": 13894
+        },
+        "url": "https://t.co/pjgtS8ArcV",
+        "username": "mario_2333",
+        "verified": false
+      }
+    ]
+  }
+}

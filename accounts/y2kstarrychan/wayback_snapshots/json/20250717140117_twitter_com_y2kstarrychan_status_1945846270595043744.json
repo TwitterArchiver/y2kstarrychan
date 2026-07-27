@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945360665989763072"
+      ],
+      "media_source_tweet_id": [
+        "1945360668783178013"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1945846270595043744",
+    "created_at": "2025-07-17T14:01:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T15:01:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945846270595043744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3244048580",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qD7B3OZPhl",
+          "end": 59,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1945360668783178013/photo/1",
+          "media_key": "3_1945360665989763072",
+          "start": 36,
+          "url": "https://t.co/qD7B3OZPhl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945846270595043744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 143
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945360668783178013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: 父母以一己之力把祖坟青烟按了回去 https://t.co/qD7B3OZPhl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_1945360665989763072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv9POABWUAA7v_s.jpg",
+        "width": 2880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945360665989763072"
+          ],
+          "media_source_tweet_id": [
+            "1945360668783178013"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1945846270595043744",
+        "created_at": "2025-07-17T14:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T15:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945846270595043744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3244048580",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qD7B3OZPhl",
+              "end": 59,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1945360668783178013/photo/1",
+              "media_key": "3_1945360665989763072",
+              "start": 36,
+              "url": "https://t.co/qD7B3OZPhl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945846270595043744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 143
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945360668783178013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: 父母以一己之力把祖坟青烟按了回去 https://t.co/qD7B3OZPhl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945360665989763072"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1945360668783178013",
+        "created_at": "2025-07-16T05:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T06:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945360668783178013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qD7B3OZPhl",
+              "end": 40,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1945360668783178013/photo/1",
+              "media_key": "3_1945360665989763072",
+              "start": 17,
+              "url": "https://t.co/qD7B3OZPhl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945360668783178013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 281,
+          "impression_count": 762357,
+          "like_count": 3395,
+          "quote_count": 12,
+          "reply_count": 151,
+          "retweet_count": 143
+        },
+        "reply_settings": "everyone",
+        "text": "父母以一己之力把祖坟青烟按了回去 https://t.co/qD7B3OZPhl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 226,
+          "like_count": 5228,
+          "listed_count": 3,
+          "media_count": 97,
+          "tweet_count": 3805
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

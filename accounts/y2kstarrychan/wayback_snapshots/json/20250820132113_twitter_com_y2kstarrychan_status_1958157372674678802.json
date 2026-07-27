@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1958125630668828767",
+    "created_at": "2025-08-20T13:21:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T14:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958157372674678802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "974517717200875529",
+          "start": 0,
+          "username": "localhost_4173"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958157372674678802",
+    "in_reply_to_user_id": "974517717200875529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958125630668828767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@localhost_4173 ChatWise能否增加短视频，点外卖，贷款，聊天机器人，Ai问答，摇一摇转淘宝，看广告功能？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1958125630668828767",
+        "created_at": "2025-08-20T13:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T14:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958157372674678802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "974517717200875529",
+              "start": 0,
+              "username": "localhost_4173"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958157372674678802",
+        "in_reply_to_user_id": "974517717200875529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958125630668828767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@localhost_4173 ChatWise能否增加短视频，点外卖，贷款，聊天机器人，Ai问答，摇一摇转淘宝，看广告功能？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "974517717200875529",
+        "conversation_id": "1958125630668828767",
+        "created_at": "2025-08-20T11:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T12:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958125630668828767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958125630668828767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 7212,
+          "like_count": 75,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "如果我察觉到 ChatWise 的竞争对手，我就会立即切换到我的小号，然后请求它们支持移动端版本或网页版，或者抱怨某个模型的响应速度太慢，或者询问什么时候加端到端加密，或者要求添加一些可有可无的功能。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2019,
+          "following_count": 373,
+          "like_count": 24581,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 3940
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-16T05:28:24.000Z",
+        "description": "CEO of https://t.co/CjrW0kKKPC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "chatwise.app",
+                "end": 30,
+                "expanded_url": "http://chatwise.app",
+                "start": 7,
+                "url": "https://t.co/CjrW0kKKPC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egoist.dev",
+                "end": 23,
+                "expanded_url": "https://egoist.dev",
+                "start": 0,
+                "url": "https://t.co/9otA2Ck0eR"
+              }
+            ]
+          }
+        },
+        "id": "974517717200875529",
+        "location": "Indie Hacking",
+        "name": "低空飞行",
+        "pinned_tweet_id": "1907962321751691563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945572469630267392/b1cc_cld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11831,
+          "following_count": 534,
+          "like_count": 22483,
+          "listed_count": 146,
+          "media_count": 2221,
+          "tweet_count": 7286
+        },
+        "url": "https://t.co/9otA2Ck0eR",
+        "username": "localhost_4173",
+        "verified": true
+      }
+    ]
+  }
+}

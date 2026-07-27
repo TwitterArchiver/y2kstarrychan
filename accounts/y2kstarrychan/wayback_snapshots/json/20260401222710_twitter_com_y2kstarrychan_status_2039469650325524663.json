@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2039384258368733525",
+    "created_at": "2026-04-01T22:27:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T23:27:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039469650325524663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "828947309874417664",
+          "start": 0,
+          "username": "AsagiriMayumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039469650325524663",
+    "in_reply_to_user_id": "828947309874417664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039384258368733525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsagiriMayumi 美国能直接买1000颗的大药罐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1153,
+        "media_key": "3_2039384255776641024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1ZLO4XUAAUn4Y.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2039384258368733525",
+        "created_at": "2026-04-01T22:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T23:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039469650325524663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "828947309874417664",
+              "start": 0,
+              "username": "AsagiriMayumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039469650325524663",
+        "in_reply_to_user_id": "828947309874417664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039384258368733525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsagiriMayumi 美国能直接买1000颗的大药罐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039384255776641024"
+          ]
+        },
+        "author_id": "828947309874417664",
+        "conversation_id": "2039384258368733525",
+        "created_at": "2026-04-01T16:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039384258368733525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ws1XTkcSLl",
+              "end": 138,
+              "expanded_url": "https://x.com/AsagiriMayumi/status/2039384258368733525/photo/1",
+              "media_key": "3_2039384255776641024",
+              "start": 115,
+              "url": "https://t.co/Ws1XTkcSLl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039384258368733525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1459,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去年干过一个蠢事，刚来德国的时候不懂自己在网上买处方药，结果快递被警察拦了，还请我去警局喝了茶。不过还好最后无罪结案了，并没有处罚。是的在德国没有医生的处方自己买处方药也是犯罪，被查到需要完整走一遍立案-听证-处罚/结案的流程。 https://t.co/Ws1XTkcSLl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2944,
+          "following_count": 785,
+          "like_count": 51044,
+          "listed_count": 5,
+          "media_count": 151,
+          "tweet_count": 4295
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-07T12:43:34.000Z",
+        "description": "我与你感同身受",
+        "id": "828947309874417664",
+        "location": " Deutschland",
+        "name": "NuclearCake",
+        "pinned_tweet_id": "2027752059110400312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945441303694647296/HjOatkbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 628,
+          "like_count": 2397,
+          "listed_count": 2,
+          "media_count": 156,
+          "tweet_count": 2148
+        },
+        "username": "AsagiriMayumi",
+        "verified": true
+      }
+    ]
+  }
+}

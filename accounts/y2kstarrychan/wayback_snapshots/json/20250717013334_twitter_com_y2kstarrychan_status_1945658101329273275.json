@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "1945658101329273275",
+    "created_at": "2025-07-17T01:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T02:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945658101329273275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3233549473",
+          "start": 3,
+          "username": "tglhier"
+        },
+        {
+          "end": 27,
+          "id": "3244048580",
+          "start": 13,
+          "username": "y2kstarrychan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945658101329273275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945657756779942319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tglhier: @y2kstarrychan 回頭去查查關於他的百度還有其他人製作的介紹影片\n沒有一般人的童年，只有各種限制，讓父母在他人眼中有面子，最後因為父母不守承諾，所以只好躺了。\n\n以他父母的財力，正常來說應該在他16歲那年買房，還是有能力的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1945658101329273275",
+        "created_at": "2025-07-17T01:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T02:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945658101329273275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3233549473",
+              "start": 3,
+              "username": "tglhier"
+            },
+            {
+              "end": 27,
+              "id": "3244048580",
+              "start": 13,
+              "username": "y2kstarrychan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945658101329273275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945657756779942319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tglhier: @y2kstarrychan 回頭去查查關於他的百度還有其他人製作的介紹影片\n沒有一般人的童年，只有各種限制，讓父母在他人眼中有面子，最後因為父母不守承諾，所以只好躺了。\n\n以他父母的財力，正常來說應該在他16歲那年買房，還是有能力的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3233549473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1945360668783178013",
+        "created_at": "2025-07-17T01:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T02:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945657756779942319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3244048580",
+              "start": 0,
+              "username": "y2kstarrychan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945657756779942319",
+        "in_reply_to_user_id": "3244048580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945360668783178013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y2kstarrychan 回頭去查查關於他的百度還有其他人製作的介紹影片\n沒有一般人的童年，只有各種限制，讓父母在他人眼中有面子，最後因為父母不守承諾，所以只好躺了。\n\n以他父母的財力，正常來說應該在他16歲那年買房，還是有能力的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 221,
+          "like_count": 4887,
+          "listed_count": 3,
+          "media_count": 97,
+          "tweet_count": 3803
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2015-06-02T12:49:41.000Z",
+        "description": "🏆SuiRyouArtStudio|委託接受中\n🏆歡迎繪圖美術相關委託洽詢\n🏆曾任遊戲UI美術設計師_5年\n🏆SODAART 建模班_六期生\nCN⭕️/JP🔺/EN🔺\n\nPixiv：https://t.co/dVTByEw49F\n委託網站：https://t.co/OR0TXFRDLQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/4Lrxzj",
+                "end": 114,
+                "expanded_url": "https://reurl.cc/4Lrxzj",
+                "start": 91,
+                "url": "https://t.co/dVTByEw49F"
+              },
+              {
+                "display_url": "vgen.co/suiryou",
+                "end": 143,
+                "expanded_url": "https://vgen.co/suiryou",
+                "start": 120,
+                "url": "https://t.co/OR0TXFRDLQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/suiryou",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/suiryou",
+                "start": 0,
+                "url": "https://t.co/sbKW7H9sJN"
+              }
+            ]
+          }
+        },
+        "id": "3233549473",
+        "name": "SuiRyou夕耶 涼_繪圖美術相關委託開放中",
+        "pinned_tweet_id": "1880130306533126567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923203976826322945/oUrPvR_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 3493,
+          "like_count": 57097,
+          "listed_count": 11,
+          "media_count": 210,
+          "tweet_count": 5507
+        },
+        "url": "https://t.co/sbKW7H9sJN",
+        "username": "tglhier",
+        "verified": false
+      }
+    ]
+  }
+}

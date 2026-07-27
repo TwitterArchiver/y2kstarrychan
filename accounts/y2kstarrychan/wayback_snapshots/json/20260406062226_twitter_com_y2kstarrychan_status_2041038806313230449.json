@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2041030076729565269",
+    "created_at": "2026-04-06T06:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T07:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041038806313230449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1964042844198621187",
+          "start": 0,
+          "username": "bungeihaku8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041038806313230449",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041030076729565269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bungeihaku8964 杯子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041030058257854464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMyBi5asAAM_kV.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2041030076729565269",
+        "created_at": "2026-04-06T06:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T07:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041038806313230449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeihaku8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041038806313230449",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041030076729565269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeihaku8964 杯子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041030058257854464"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2041030076729565269",
+        "created_at": "2026-04-06T05:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041030076729565269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Fw2jzQQ5Z",
+              "end": 30,
+              "expanded_url": "https://x.com/bungeihaku8964/status/2041030076729565269/photo/1",
+              "media_key": "3_2041030058257854464",
+              "start": 7,
+              "url": "https://t.co/6Fw2jzQQ5Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041030076729565269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何評價他？ https://t.co/6Fw2jzQQ5Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2921,
+          "following_count": 789,
+          "like_count": 51210,
+          "listed_count": 5,
+          "media_count": 150,
+          "tweet_count": 4299
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜戰無不勝的三民主義思想萬歲❂\n｜ 民國97年高校生｜無證不含糖｜雙極性障害\n｜日本語N2とEJUの受験勉強中\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeinobunha…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeinobunhaku",
+                "start": 0,
+                "url": "https://t.co/1MIMTvvFf8"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "粵內廣府人 IP所在地：広東",
+        "name": "文芸🍁空白子🍥🇭🇰🇯🇵",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 640,
+          "like_count": 10192,
+          "listed_count": 2,
+          "media_count": 568,
+          "tweet_count": 2805
+        },
+        "url": "https://t.co/1MIMTvvFf8",
+        "username": "bungeihaku8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995032072910487552"
+      ]
+    },
+    "author_id": "3244048580",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1994971027643011108",
+    "created_at": "2025-11-30T07:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T08:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995032075192472015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1821849172368355328",
+          "start": 0,
+          "username": "L98808Lju"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ssoeNWMSjc",
+          "end": 49,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1995032075192472015/photo/1",
+          "media_key": "3_1995032072910487552",
+          "start": 26,
+          "url": "https://t.co/ssoeNWMSjc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995032075192472015",
+    "in_reply_to_user_id": "1821849172368355328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994971027643011108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L98808Lju 我一晚上没了1400万纯币😭 https://t.co/ssoeNWMSjc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2263,
+        "media_key": "3_1995032072910487552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6_HGaVXQAAAidS.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995032072910487552"
+          ]
+        },
+        "author_id": "3244048580",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994971027643011108",
+        "created_at": "2025-11-30T07:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T08:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995032075192472015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1821849172368355328",
+              "start": 0,
+              "username": "L98808Lju"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ssoeNWMSjc",
+              "end": 49,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1995032075192472015/photo/1",
+              "media_key": "3_1995032072910487552",
+              "start": 26,
+              "url": "https://t.co/ssoeNWMSjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995032075192472015",
+        "in_reply_to_user_id": "1821849172368355328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994971027643011108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L98808Lju 我一晚上没了1400万纯币😭 https://t.co/ssoeNWMSjc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821849172368355328",
+        "conversation_id": "1994971027643011108",
+        "created_at": "2025-11-30T03:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T04:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994971027643011108"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994971027643011108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 488,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Yoyi最近似乎精神状态不佳呢，昨天打CS十连败，看来这个游戏好像并没有ELO机制保底呢😉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬🙏🇭🇰",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2884,
+          "following_count": 550,
+          "like_count": 42588,
+          "listed_count": 5,
+          "media_count": 141,
+          "tweet_count": 4047
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-09T10:01:27.000Z",
+        "description": "I’m Anon’s (千早爱音) sister. PhD in Science🎓,首席AI政治学家🦋,谣言家^_^Share Knowledge/Social View/Animation. 蔷薇骑士福尔摩雨@Romanorum_ 机器人@Tinkles_12 学生@C4_rRed",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 105,
+                "username": "Romanorum_"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "Tinkles_12"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "username": "C4_rRed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/YoyiSG",
+                "end": 23,
+                "expanded_url": "https://github.com/YoyiSG",
+                "start": 0,
+                "url": "https://t.co/bqjyu34BRn"
+              }
+            ]
+          }
+        },
+        "id": "1821849172368355328",
+        "location": "Singapore",
+        "name": "神樂坂🌸Yoyi🇸🇬",
+        "pinned_tweet_id": "1928006182108614978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920668084102459395/1OyHpsxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 523,
+          "like_count": 44791,
+          "listed_count": 9,
+          "media_count": 900,
+          "tweet_count": 13881
+        },
+        "url": "https://t.co/bqjyu34BRn",
+        "username": "L98808Lju",
+        "verified": true
+      }
+    ]
+  }
+}

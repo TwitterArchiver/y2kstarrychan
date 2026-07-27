@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1944398508884476236",
+    "created_at": "2025-07-13T16:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T17:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944436835528187931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748531675573964800",
+          "start": 0,
+          "username": "dingansich8964"
+        },
+        {
+          "end": 29,
+          "id": "1446813263526772736",
+          "start": 16,
+          "username": "MakeItAQuote"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944436835528187931",
+    "in_reply_to_user_id": "1748531675573964800",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944399703203803218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dingansich8964 @MakeItAQuote"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1944398508884476236",
+        "created_at": "2025-07-13T16:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T17:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944436835528187931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748531675573964800",
+              "start": 0,
+              "username": "dingansich8964"
+            },
+            {
+              "end": 29,
+              "id": "1446813263526772736",
+              "start": 16,
+              "username": "MakeItAQuote"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944436835528187931",
+        "in_reply_to_user_id": "1748531675573964800",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944399703203803218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dingansich8964 @MakeItAQuote"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748531675573964800",
+        "conversation_id": "1944398508884476236",
+        "created_at": "2025-07-13T14:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T15:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944399703203803218"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944399703203803218",
+        "in_reply_to_user_id": "1748531675573964800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944398508884476236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "簡而言之，這個人長得越像個屌，這個人越man。相反則是娘砲。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” 及时行乐，享受当下。",
+        "id": "3244048580",
+        "location": "距离你0721厘米",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1943846362149531979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 190,
+          "like_count": 3465,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 3810
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-20T02:23:53.000Z",
+        "description": "已工作，生不如死。會發一些枯燥的日常。叫我物物就好。在國外工作。看動漫，健身，填词，聽古典樂。喜欢烹飪、園藝、最近还在看谢林。「だって、私、追いかけるのが好きなんだもの。」喜歡的人是@dingansich8964。電報@DINGANSICH648",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "dingansich8964"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "DINGANSICH648"
+              }
+            ]
+          }
+        },
+        "id": "1748531675573964800",
+        "name": "物凝主體",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897646810052886528/nBKqybTs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 61,
+          "like_count": 18160,
+          "listed_count": 0,
+          "media_count": 555,
+          "tweet_count": 5709
+        },
+        "username": "dingansich8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-09T12:22:23.000Z",
+        "description": "Input: \"@makeitaquote Quote\" to generate a tweet. Input: \"@DeleteMyQuote Delete\" if you want a tweet removed.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "makeitaquote"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "DeleteMyQuote"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "makeitaquote.com",
+                "end": 23,
+                "expanded_url": "https://makeitaquote.com/",
+                "start": 0,
+                "url": "https://t.co/SeOd2QVomH"
+              }
+            ]
+          }
+        },
+        "id": "1446813263526772736",
+        "name": "Make it a quote",
+        "pinned_tweet_id": "1842219999903060251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816146556212375552/2K-tXe3h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698225,
+          "following_count": 4,
+          "like_count": 115,
+          "listed_count": 1131,
+          "media_count": 1923021,
+          "tweet_count": 2007680
+        },
+        "url": "https://t.co/SeOd2QVomH",
+        "username": "MakeItAQuote",
+        "verified": true
+      }
+    ]
+  }
+}

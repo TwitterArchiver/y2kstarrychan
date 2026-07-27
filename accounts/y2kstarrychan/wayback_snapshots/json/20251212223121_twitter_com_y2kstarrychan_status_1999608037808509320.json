@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1999497645224792506",
+    "created_at": "2025-12-12T22:31:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T23:31:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999608037808509320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "165407871",
+          "start": 0,
+          "username": "Solitude_Sola"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999608037808509320",
+    "in_reply_to_user_id": "165407871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999497645224792506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Solitude_Sola 感觉这张图1眼ai"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1086,
+        "media_key": "3_1999497631190622208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-kgHRaIAAbLKf.jpg",
+        "width": 1111
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1999497645224792506",
+        "created_at": "2025-12-12T22:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T23:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999608037808509320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "165407871",
+              "start": 0,
+              "username": "Solitude_Sola"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999608037808509320",
+        "in_reply_to_user_id": "165407871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999497645224792506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Solitude_Sola 感觉这张图1眼ai"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999497631190622208"
+          ]
+        },
+        "author_id": "165407871",
+        "conversation_id": "1999497645224792506",
+        "created_at": "2025-12-12T15:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T16:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999497645224792506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m7fYinxwqz",
+              "end": 120,
+              "expanded_url": "https://x.com/Solitude_Sola/status/1999497645224792506/photo/1",
+              "media_key": "3_1999497631190622208",
+              "start": 97,
+              "url": "https://t.co/m7fYinxwqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999497645224792506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 416,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Gemini 3 pro生图效果已经强到足以以假乱真的程度。但倒不如说现在集美们拍的图实在太假，前面在时间线上看到张日本cos的照片，我第一反应就是“这哪家底能ai啊出图那么假完全不像人子”。 https://t.co/m7fYinxwqz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997887294787796992/LkclvzQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2906,
+          "following_count": 560,
+          "like_count": 43821,
+          "listed_count": 5,
+          "media_count": 145,
+          "tweet_count": 4071
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-11T13:41:45.000Z",
+        "description": "守序邪恶 == 真名宿敌\n\n万般皆下品，唯有狞狞高。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Solitude_Sola",
+                "end": 23,
+                "expanded_url": "http://t.me/Solitude_Sola",
+                "start": 0,
+                "url": "https://t.co/bwcOewi77e"
+              }
+            ]
+          }
+        },
+        "id": "165407871",
+        "location": "投身之所",
+        "name": "空空 🌟 狞猫世界第一可爱！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1422573861787209730/RJWO2Gsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20162,
+          "following_count": 550,
+          "like_count": 560,
+          "listed_count": 122,
+          "media_count": 20737,
+          "tweet_count": 68153
+        },
+        "url": "https://t.co/bwcOewi77e",
+        "username": "Solitude_Sola",
+        "verified": false
+      }
+    ]
+  }
+}

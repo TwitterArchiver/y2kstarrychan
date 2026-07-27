@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992628645546938368"
+      ],
+      "media_source_tweet_id": [
+        "1992628647560397104"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1992628658826313924",
+    "created_at": "2025-11-23T16:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T17:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992628658826313924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3244048580",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aOFSM8xMYR",
+          "end": 49,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1992628647560397104/photo/1",
+          "media_key": "3_1992628645546938368",
+          "start": 26,
+          "url": "https://t.co/aOFSM8xMYR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992628658826313924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992628647560397104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: 老祖宗的智慧 https://t.co/aOFSM8xMYR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 710,
+        "media_key": "3_1992628645546938368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6c9MhsX0AAX7yA.jpg",
+        "width": 595
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992628645546938368"
+          ],
+          "media_source_tweet_id": [
+            "1992628647560397104"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1992628658826313924",
+        "created_at": "2025-11-23T16:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T17:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992628658826313924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3244048580",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aOFSM8xMYR",
+              "end": 49,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1992628647560397104/photo/1",
+              "media_key": "3_1992628645546938368",
+              "start": 26,
+              "url": "https://t.co/aOFSM8xMYR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992628658826313924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992628647560397104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: 老祖宗的智慧 https://t.co/aOFSM8xMYR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992628645546938368"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1992628647560397104",
+        "created_at": "2025-11-23T16:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T17:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992628647560397104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aOFSM8xMYR",
+              "end": 30,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1992628647560397104/photo/1",
+              "media_key": "3_1992628645546938368",
+              "start": 7,
+              "url": "https://t.co/aOFSM8xMYR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992628647560397104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "老祖宗的智慧 https://t.co/aOFSM8xMYR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2888,
+          "following_count": 534,
+          "like_count": 41623,
+          "listed_count": 5,
+          "media_count": 139,
+          "tweet_count": 4040
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

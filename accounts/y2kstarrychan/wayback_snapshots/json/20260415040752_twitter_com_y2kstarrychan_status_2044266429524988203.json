@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2044239199684178354",
+    "created_at": "2026-04-15T04:07:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T05:07:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044266429524988203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "996744811",
+          "start": 0,
+          "username": "hjc4869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044266429524988203",
+    "in_reply_to_user_id": "996744811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044239199684178354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hjc4869 多少钱！？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2044239168281407488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF6YsVVacAAQ46n.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2044239199684178354",
+        "created_at": "2026-04-15T04:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T05:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044266429524988203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "996744811",
+              "start": 0,
+              "username": "hjc4869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044266429524988203",
+        "in_reply_to_user_id": "996744811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044239199684178354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hjc4869 多少钱！？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044239168281407488"
+          ]
+        },
+        "author_id": "996744811",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2044239199684178354",
+        "created_at": "2026-04-15T02:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T03:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044239199684178354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z4peaUObby",
+              "end": 77,
+              "expanded_url": "https://x.com/hjc4869/status/2044239199684178354/photo/1",
+              "media_key": "3_2044239168281407488",
+              "start": 54,
+              "url": "https://t.co/z4peaUObby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044239199684178354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2077,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "吃午饭之前放这里更新，吃完饭回来还卡在一模一样的位置转圈。\n\n这就是现在A$4299的Windows体验😅 https://t.co/z4peaUObby"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2873,
+          "following_count": 794,
+          "like_count": 52128,
+          "listed_count": 5,
+          "media_count": 152,
+          "tweet_count": 4340
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-08T08:37:27.000Z",
+        "description": "个人频道：https://t.co/3wRKiAztOc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/david_random",
+                "end": 28,
+                "expanded_url": "https://t.me/david_random",
+                "start": 5,
+                "url": "https://t.co/3wRKiAztOc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.hjc.im",
+                "end": 23,
+                "expanded_url": "http://blog.hjc.im",
+                "start": 0,
+                "url": "https://t.co/lSyjKmnXiO"
+              }
+            ]
+          }
+        },
+        "id": "996744811",
+        "location": "Sydney",
+        "name": "David Huang",
+        "pinned_tweet_id": "1675401146607738882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862363656572239872/fKy6Wh6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5506,
+          "following_count": 162,
+          "like_count": 23,
+          "listed_count": 65,
+          "media_count": 868,
+          "tweet_count": 4794
+        },
+        "url": "https://t.co/lSyjKmnXiO",
+        "username": "hjc4869",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,498 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1952798971824365843",
+    "created_at": "2025-08-05T18:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T19:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952798971824365843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1864739862697644032",
+          "start": 3,
+          "username": "2196F3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952798971824365843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952793604109549662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2196F3: 以下是一些与 GPT OSS（OpenAI 发布的开源模型）相关的细节：\n\n以 120B 为例：\n\n基本架构:\n是的，它是一个超大规模模型……采用 MOE（Mixture of Experts，专家混合）配置。这与 Qwen 和 DeepSeek 中的设…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 747,
+        "media_key": "3_1952791016819621888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxm1FV4bgAAh92O.jpg",
+        "width": 1346
+      },
+      {
+        "height": 2000,
+        "media_key": "3_1952791046292946947",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxm1HDrawAM2gPC.jpg",
+        "width": 3450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1952798971824365843",
+        "created_at": "2025-08-05T18:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T19:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952798971824365843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1864739862697644032",
+              "start": 3,
+              "username": "2196F3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952798971824365843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952793604109549662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2196F3: 以下是一些与 GPT OSS（OpenAI 发布的开源模型）相关的细节：\n\n以 120B 为例：\n\n基本架构:\n是的，它是一个超大规模模型……采用 MOE（Mixture of Experts，专家混合）配置。这与 Qwen 和 DeepSeek 中的设…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952791016819621888",
+            "3_1952791046292946947"
+          ]
+        },
+        "author_id": "1864739862697644032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1952793604109549662",
+        "created_at": "2025-08-05T18:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T18:57:54.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952791187347447962",
+          "1952791450548355143",
+          "1952793604109549662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dV1gcanOX9",
+              "end": 198,
+              "expanded_url": "https://x.com/2196F3/status/1952793604109549662/photo/1",
+              "media_key": "3_1952791016819621888",
+              "start": 175,
+              "url": "https://t.co/dV1gcanOX9"
+            },
+            {
+              "display_url": "pic.x.com/dV1gcanOX9",
+              "end": 198,
+              "expanded_url": "https://x.com/2196F3/status/1952793604109549662/photo/1",
+              "media_key": "3_1952791046292946947",
+              "start": 175,
+              "url": "https://t.co/dV1gcanOX9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952793604109549662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1344,
+                "start": 1337,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 1355,
+                "start": 1345,
+                "tag": "OpenModel"
+              },
+              {
+                "end": 1368,
+                "start": 1356,
+                "tag": "OpenWeights"
+              },
+              {
+                "end": 1376,
+                "start": 1369,
+                "tag": "gptoss"
+              },
+              {
+                "end": 1388,
+                "start": 1377,
+                "tag": "opensource"
+              },
+              {
+                "end": 1393,
+                "start": 1389,
+                "tag": "cot"
+              },
+              {
+                "end": 1398,
+                "start": 1394,
+                "tag": "llm"
+              },
+              {
+                "end": 1418,
+                "start": 1399,
+                "tag": "largelanguagemodel"
+              },
+              {
+                "end": 1422,
+                "start": 1419,
+                "tag": "ai"
+              },
+              {
+                "end": 1429,
+                "start": 1423,
+                "tag": "大语言模型"
+              },
+              {
+                "end": 1433,
+                "start": 1430,
+                "tag": "开源"
+              },
+              {
+                "end": 1439,
+                "start": 1434,
+                "tag": "思考模型"
+              },
+              {
+                "end": 1444,
+                "start": 1440,
+                "tag": "思考链"
+              }
+            ]
+          },
+          "text": "以下是一些与 GPT OSS（OpenAI 发布的开源模型）相关的细节：\n\n以 120B 为例：\n\n基本架构:\n是的，它是一个超大规模模型……采用 MOE（Mixture of Experts，专家混合）配置。这与 Qwen 和 DeepSeek 中的设计非常相似。对于 MOE 模型，每个前馈网络（FFN）都由路由器权重进行路由和控制，以偏向特定 token 的生成。\n实际上，这相当于模拟了一个非常非常大的 FFN，帮助模型存储大量知识。\nFalcon H1 团队已经证明，更深的层数能带来最大的性能提升；MOE 在不增加过多开销的情况下实际上扩展了模型的“宽度”，并允许添加更多层——这是资源使用与模型性能之间的良好折衷。\n\n模态能力:\n截至撰写本文时，该模型尚未集成视觉模块，这意味着它目前还不具备视觉能力。\nQwen 和 Pixtral 已经支持视觉能力；但遗憾的是，OSS 版本似乎既未使用视觉 tokens，也未使用视觉嵌入。因此，此时此刻，这个模型实际上是“盲”的。😿\n\n上下文长度:\n模型对局部上下文使用滑动窗口注意力，原生上下文长度为 4096（详见图 2 演示）。这使得滑动窗口层能够关注局部信息并捕捉合理数量的本地模式……但最大上下文长度约为 130k，所以在原生窗口之外，也不必过分担心性能急剧下降。\n\n模型归一化:\n该模型是经典的 Prenorm Transformer：在自注意力层之前对输入做一次层归一化（LayerNorm），在 MLP 之前再做一次层归一化。这与原始 Transformer 模型不同——研究表明，Prenorm 能改善超深模型的梯度流，更快收敛；对于 LoRA 爱好者来说也是好消息，因为它降低了微调时的不稳定性。但使用 Prenorm 模型时应谨慎，因为其峰值性能略低且“表示”较为“懒惰”。\n\n注意力设计:\n该模型是 GQA（Group Query Attention）的修改版本，将 K/V 投影到各组中。\n这种注意力机制不如 DeepSeek 的 MLA 或旧模型常用的MHA（多头注意力）（许多 Llama1 时代模型使用的旧式注意力）强大，但节省了大量资源。研究表明，MLA（多层注意力）通常性能优于 GQA 和 MHA，但 OpenAI 并未选择使用它😿\n总体而言，该模型旨在适配消费级硬件，在性能和成本之间取得平衡，主要通过牺牲部分资源使用来确保大多数人都能运行。唯一的遗憾？——GQA 注意力。但 MLA 作为 DeepSeek 的一大亮点也非常流行，我们也不必太难过……对吧？😿\n\n推理能力:\n最后，这确实是一个具备自回归推理（AR reasoning）和指令式（instruct）能力的推理模型，支持可调节的推理强度，类似于早期版本（现已将“思考”与“指令”分离）的 ThinkingQwen。\n虽然流传着 OpenAI 已开发出真正“潜层思考”——即在不解码成文本时就能“思考”的模型，但 OSS 依然是在文本上进行自回归。作为推理能力的前沿探索者，OpenAI 也许对比 DeepSeek R1 有自己独特的“秘方”，究竟如何？只有更多尝试才能揭晓。\n我们将在后续测试中了解更多，敬请关注！\n\n#OpenAI #OpenModel #OpenWeights #gptoss #opensource #cot #llm #largelanguagemodel #ai #大语言模型 #开源 #思考模型 #思考链"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "以下是一些与 GPT OSS（OpenAI 发布的开源模型）相关的细节：\n\n以 120B 为例：\n\n基本架构:\n是的，它是一个超大规模模型……采用 MOE（Mixture of Experts，专家混合）配置。这与 Qwen 和 DeepSeek 中的设计非常相似。对于 MOE 模型，每个前馈网络（FFN）都由路由器权重进行路由和控制，以偏向特定 https://t.co/dV1gcanOX9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1861,
+          "following_count": 345,
+          "like_count": 16928,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 3881
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-05T18:33:59.000Z",
+        "description": "本体是香香软软没有攻击性的INTP猞猁！有Candidacy，是explorer，coser和Les. 想做大家的好朋友给人们带来快乐。不太喜欢zs话题也不会主动传播负能量，刷到相关推文会点not interested. 看到做得不好的实验会整个炸掉(然后亲自上手) 。😿 私信话题：源石会诱导Casp蛋白表达上升吗？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "prts.eterea.uk/?quickacc=bull…",
+                "end": 23,
+                "expanded_url": "http://prts.eterea.uk/?quickacc=bulletin",
+                "start": 0,
+                "url": "https://t.co/fVFEeZUeRA"
+              }
+            ]
+          }
+        },
+        "id": "1864739862697644032",
+        "location": "California, USA",
+        "name": "凯尔希是猫猫",
+        "pinned_tweet_id": "1949626289104802165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952307711271735297/Kt15yKo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 534,
+          "like_count": 3543,
+          "listed_count": 5,
+          "media_count": 241,
+          "tweet_count": 3064
+        },
+        "url": "https://t.co/fVFEeZUeRA",
+        "username": "2196F3",
+        "verified": true
+      }
+    ]
+  }
+}

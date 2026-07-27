@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2045344383558631601",
+    "created_at": "2026-04-18T04:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T05:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045358376037515288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758508742780567552",
+          "start": 0,
+          "username": "qianxunchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045358376037515288",
+    "in_reply_to_user_id": "1758508742780567552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045344383558631601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianxunchan 这披萨好贵……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 361,
+        "media_key": "3_2045343014361710592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKEoobbQAAXJPU.jpg",
+        "width": 403
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045343014336544768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKEooVbQAAKy9J.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2045344380526227456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKF4JybcAAGk8m.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2045344383558631601",
+        "created_at": "2026-04-18T04:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T05:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045358376037515288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045358376037515288",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045344383558631601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 这披萨好贵……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045343014361710592",
+            "3_2045343014336544768",
+            "3_2045344380526227456"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045344383558631601",
+        "created_at": "2026-04-18T03:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:25:51.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045343020233769292",
+          "2045344383558631601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x0xSFdq9dm",
+              "end": 37,
+              "expanded_url": "https://x.com/qianxunchan/status/2045344383558631601/photo/1",
+              "media_key": "3_2045343014361710592",
+              "start": 14,
+              "url": "https://t.co/x0xSFdq9dm"
+            },
+            {
+              "display_url": "pic.x.com/x0xSFdq9dm",
+              "end": 37,
+              "expanded_url": "https://x.com/qianxunchan/status/2045344383558631601/photo/1",
+              "media_key": "3_2045343014336544768",
+              "start": 14,
+              "url": "https://t.co/x0xSFdq9dm"
+            },
+            {
+              "display_url": "pic.x.com/x0xSFdq9dm",
+              "end": 37,
+              "expanded_url": "https://x.com/qianxunchan/status/2045344383558631601/photo/1",
+              "media_key": "3_2045344380526227456",
+              "start": 14,
+              "url": "https://t.co/x0xSFdq9dm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045344383558631601",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "127rmb……😋😋😋😆😆 https://t.co/x0xSFdq9dm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2878,
+          "following_count": 798,
+          "like_count": 52331,
+          "listed_count": 5,
+          "media_count": 151,
+          "tweet_count": 4349
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\nQ群：667335570\ntg：在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 136,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 923,
+          "like_count": 1681,
+          "listed_count": 1,
+          "media_count": 405,
+          "tweet_count": 1407
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

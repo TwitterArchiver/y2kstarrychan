@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952512587767119872"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1952512590304661635",
+    "created_at": "2025-08-04T23:30:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T00:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952512590304661635"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6P6QqWxXgi",
+          "end": 46,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1952512590304661635/photo/1",
+          "media_key": "3_1952512587767119872",
+          "start": 23,
+          "url": "https://t.co/6P6QqWxXgi"
+        },
+        {
+          "display_url": "x.com/POI74103174/st…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/POI74103174/status/1951550871491452931",
+          "start": 47,
+          "url": "https://t.co/ECdKcb7jxg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952512590304661635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951550871491452931",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "莫名其妙的，以后我也会像poi那样对等处理。 https://t.co/6P6QqWxXgi https://t.co/ECdKcb7jxg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3120,
+        "media_key": "3_1952512587767119872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxi32o1WgAAQGl2.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1669,
+        "media_key": "3_1951550865984331776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxVNLEAaIAAke93.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952512587767119872"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1952512590304661635",
+        "created_at": "2025-08-04T23:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T00:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952512590304661635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6P6QqWxXgi",
+              "end": 46,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1952512590304661635/photo/1",
+              "media_key": "3_1952512587767119872",
+              "start": 23,
+              "url": "https://t.co/6P6QqWxXgi"
+            },
+            {
+              "display_url": "x.com/POI74103174/st…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/POI74103174/status/1951550871491452931",
+              "start": 47,
+              "url": "https://t.co/ECdKcb7jxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952512590304661635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951550871491452931",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "莫名其妙的，以后我也会像poi那样对等处理。 https://t.co/6P6QqWxXgi https://t.co/ECdKcb7jxg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951550865984331776"
+          ]
+        },
+        "author_id": "1362960365055668225",
+        "conversation_id": "1951550871491452931",
+        "created_at": "2025-08-02T07:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T08:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951550871491452931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q7NPxEUy4d",
+              "end": 54,
+              "expanded_url": "https://x.com/POI74103174/status/1951550871491452931/photo/1",
+              "media_key": "3_1951550865984331776",
+              "start": 31,
+              "url": "https://t.co/Q7NPxEUy4d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951550871491452931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4207,
+          "like_count": 66,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷到这种被完全不认识的人b了的我以后都会对等处理，莫名其妙。 https://t.co/Q7NPxEUy4d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1859,
+          "following_count": 347,
+          "like_count": 16475,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 3880
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-20T03:00:58.000Z",
+        "description": "叫Poi就好啦。永远最喜欢的哥哥@kinpeimoment615；藝術系留学生／小市民；甘いものと冬と北海道が好き。(经常打错字，互动得多的话可能会回fo哦。🍡@Poi74103175",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "kinpeimoment615"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "Poi74103175"
+              }
+            ]
+          }
+        },
+        "id": "1362960365055668225",
+        "location": "Motorway South",
+        "name": "鸛鳥踟躕",
+        "pinned_tweet_id": "1786390162064433658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939208765053575168/rkOBGkcd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2906,
+          "following_count": 344,
+          "like_count": 60781,
+          "listed_count": 10,
+          "media_count": 2312,
+          "tweet_count": 21338
+        },
+        "username": "POI74103174",
+        "verified": true
+      }
+    ]
+  }
+}

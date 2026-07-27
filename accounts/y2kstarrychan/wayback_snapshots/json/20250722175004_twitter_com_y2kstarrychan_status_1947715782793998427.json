@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947715779010707456"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1947715782793998427",
+    "created_at": "2025-07-22T17:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T18:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947715782793998427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 38,
+          "id": "811993529153003522",
+          "start": 22,
+          "username": "night_are_light"
+        },
+        {
+          "end": 55,
+          "id": "1782463420631220227",
+          "start": 39,
+          "username": "wsmwsmwuwuwu555"
+        },
+        {
+          "end": 72,
+          "id": "1821849172368355328",
+          "start": 62,
+          "username": "L98808Lju"
+        },
+        {
+          "end": 93,
+          "id": "828947309874417664",
+          "start": 79,
+          "username": "Luminouslucis"
+        },
+        {
+          "end": 103,
+          "id": "1478146235756576770",
+          "start": 94,
+          "username": "UNN_Owen"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+          "display_url": "infintytweet.me/family-tree?la…",
+          "end": 131,
+          "expanded_url": "https://infintytweet.me/family-tree?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1945321974923976704/Hclu7Ckx?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1945321974923976704/Hclu7Ckx?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 108,
+          "status": 200,
+          "title": "Family Tree • Infinitweet",
+          "unwound_url": "https://infintytweet.me/family-tree?lang=zh",
+          "url": "https://t.co/imLx0eBqGa"
+        },
+        {
+          "display_url": "pic.x.com/JNKjs4ZOMx",
+          "end": 155,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1947715782793998427/photo/1",
+          "media_key": "3_1947715779010707456",
+          "start": 132,
+          "url": "https://t.co/JNKjs4ZOMx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947715782793998427",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @night_are_light @wsmwsmwuwuwu555\n👰 配偶: @L98808Lju\n👶 孩子: @Luminouslucis @UNN_Owen\n\n➡️ https://t.co/imLx0eBqGa https://t.co/JNKjs4ZOMx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1947715779010707456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwetLntbQAAyhVf.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947715779010707456"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1947715782793998427",
+        "created_at": "2025-07-22T17:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T18:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947715782793998427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "811993529153003522",
+              "start": 22,
+              "username": "night_are_light"
+            },
+            {
+              "end": 55,
+              "id": "1782463420631220227",
+              "start": 39,
+              "username": "wsmwsmwuwuwu555"
+            },
+            {
+              "end": 72,
+              "id": "1821849172368355328",
+              "start": 62,
+              "username": "L98808Lju"
+            },
+            {
+              "end": 93,
+              "id": "828947309874417664",
+              "start": 79,
+              "username": "Luminouslucis"
+            },
+            {
+              "end": 103,
+              "id": "1478146235756576770",
+              "start": 94,
+              "username": "UNN_Owen"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infintytweet.me/family-tree?la…",
+              "end": 131,
+              "expanded_url": "https://infintytweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1945321974923976704/Hclu7Ckx?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1945321974923976704/Hclu7Ckx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 108,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infintytweet.me/family-tree?lang=zh",
+              "url": "https://t.co/imLx0eBqGa"
+            },
+            {
+              "display_url": "pic.x.com/JNKjs4ZOMx",
+              "end": 155,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1947715782793998427/photo/1",
+              "media_key": "3_1947715779010707456",
+              "start": 132,
+              "url": "https://t.co/JNKjs4ZOMx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947715782793998427",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @night_are_light @wsmwsmwuwuwu555\n👰 配偶: @L98808Lju\n👶 孩子: @Luminouslucis @UNN_Owen\n\n➡️ https://t.co/imLx0eBqGa https://t.co/JNKjs4ZOMx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 275,
+          "like_count": 8667,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 3836
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2016-12-22T17:55:18.000Z",
+        "description": "",
+        "id": "811993529153003522",
+        "location": "高雄",
+        "name": "白宿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834882607408201728/h1Yj3gei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 317,
+          "like_count": 794,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 39
+        },
+        "username": "night_are_light",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T17:36:21.000Z",
+        "description": "绿豆糕绿豆糕绿豆糕绿豆糕绿豆糕\n糕糕糕糕糕糕糕糕糕糕糕糕糕糕糕",
+        "id": "1782463420631220227",
+        "location": "绿豆糕星球",
+        "name": "绿豆糕糕",
+        "pinned_tweet_id": "1944709893430317426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886824583879340032/qInsLAxs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 991,
+          "like_count": 54827,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1452
+        },
+        "username": "wsmwsmwuwuwu555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T10:01:27.000Z",
+        "description": "I’m Anon’s (千早爱音) sister. PhD in Science🎓,首席AI政治学家🦋,谣言家^_^Share Knowledge/Social View/Animation. 蔷薇骑士福尔摩雨@Romanorum_ 机器人@Tinkles_12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 105,
+                "username": "Romanorum_"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "Tinkles_12"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/YoyiSG",
+                "end": 23,
+                "expanded_url": "https://github.com/YoyiSG",
+                "start": 0,
+                "url": "https://t.co/bqjyu34BRn"
+              }
+            ]
+          }
+        },
+        "id": "1821849172368355328",
+        "location": "Singapore",
+        "name": "神樂坂🌸Yoyi🇸🇬",
+        "pinned_tweet_id": "1928006182108614978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920668084102459395/1OyHpsxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1371,
+          "following_count": 503,
+          "like_count": 37440,
+          "listed_count": 8,
+          "media_count": 753,
+          "tweet_count": 11459
+        },
+        "url": "https://t.co/bqjyu34BRn",
+        "username": "L98808Lju",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-07T12:43:34.000Z",
+        "description": "我与你感同身受",
+        "id": "828947309874417664",
+        "location": "Würzburg, Germany",
+        "name": "NuclearCake",
+        "pinned_tweet_id": "1945912808383594949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945441303694647296/HjOatkbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 263,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 489
+        },
+        "username": "Luminouslucis",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-03T23:28:29.000Z",
+        "description": "我是佳阳小姐的狗",
+        "id": "1478146235756576770",
+        "location": "Nyaville",
+        "name": "The Nameless Belkan Catgirl",
+        "pinned_tweet_id": "1893627790353645783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835394207579877376/vuH6Nz5M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 188,
+          "like_count": 4339,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 977
+        },
+        "username": "UNN_Owen",
+        "verified": false
+      }
+    ]
+  }
+}

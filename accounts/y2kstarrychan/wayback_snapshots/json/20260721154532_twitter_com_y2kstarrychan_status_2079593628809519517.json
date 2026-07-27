@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2079496058397483040",
+    "created_at": "2026-07-21T15:45:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T16:45:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079593628809519517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847835560175685635",
+          "start": 0,
+          "username": "OPPOFANS114514"
+        },
+        {
+          "end": 27,
+          "id": "1757688141664948224",
+          "start": 16,
+          "username": "LLLLLANCHY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079593628809519517",
+    "in_reply_to_user_id": "1847835560175685635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079498506000331122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OPPOFANS114514 @LLLLLANCHY 的確，上次還很大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2079496058397483040",
+        "created_at": "2026-07-21T15:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079593628809519517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847835560175685635",
+              "start": 0,
+              "username": "OPPOFANS114514"
+            },
+            {
+              "end": 27,
+              "id": "1757688141664948224",
+              "start": 16,
+              "username": "LLLLLANCHY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079593628809519517",
+        "in_reply_to_user_id": "1847835560175685635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079498506000331122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OPPOFANS114514 @LLLLLANCHY 的確，上次還很大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847835560175685635",
+        "conversation_id": "2079496058397483040",
+        "created_at": "2026-07-21T09:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079498506000331122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757688141664948224",
+              "start": 0,
+              "username": "LLLLLANCHY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079498506000331122",
+        "in_reply_to_user_id": "1757688141664948224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079496886273429982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LLLLLANCHY 对，上次吃没那么小的。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2915,
+          "following_count": 877,
+          "like_count": 58114,
+          "listed_count": 6,
+          "media_count": 156,
+          "tweet_count": 4467
+        },
+        "url": "",
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T03:02:37.000Z",
+        "description": "我可能开心，我也可能不开心\n但记住，你一定要天天开心~ ₍˄·͈༝·͈˄*₎◞ ̑̑\n不吃🍔了，现在已对🍕上瘾 INFP-T\n颜文字万岁！( ≧▽≦ )",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oppofans",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oppofans",
+                "start": 0,
+                "url": "https://t.co/hNOuTw9yN4"
+              }
+            ]
+          }
+        },
+        "id": "1847835560175685635",
+        "name": "OPPOFANS",
+        "pinned_tweet_id": "1899040879727509924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005659214631575553/AcPZ89dY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2191,
+          "following_count": 2240,
+          "like_count": 23059,
+          "listed_count": 6,
+          "media_count": 892,
+          "tweet_count": 22388
+        },
+        "url": "https://t.co/hNOuTw9yN4",
+        "username": "OPPOFANS114514",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T08:48:13.000Z",
+        "description": "🇭🇰/🚫AI/未授权使用/未授权转载/\n/会发画/是小画室人/\n/大号已经飞升/正常交流可/\n极端人士请离开\n飞升处：@8wRb7（已卖号）/@ChandaPras89332（已飞升）/@laudigfris66866（已飞升）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 59,
+                "username": "8wRb7"
+              },
+              {
+                "end": 87,
+                "start": 71,
+                "username": "ChandaPras89332"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "laudigfris66866"
+              }
+            ]
+          }
+        },
+        "id": "1757688141664948224",
+        "location": "SIDE 4殖民卫星/也有可能在阿克西斯（）",
+        "name": "xinm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064577033351675904/h-thQq2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 470,
+          "like_count": 3013,
+          "listed_count": 2,
+          "media_count": 519,
+          "tweet_count": 4807
+        },
+        "url": "",
+        "username": "LLLLLANCHY",
+        "verified": false
+      }
+    ]
+  }
+}

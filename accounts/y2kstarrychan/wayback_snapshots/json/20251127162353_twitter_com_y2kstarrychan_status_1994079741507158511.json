@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1994079741507158511",
+    "created_at": "2025-11-27T16:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T17:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994079741507158511"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RainEngine2024…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/RainEngine2024/status/1993814525968306324",
+          "start": 16,
+          "url": "https://t.co/rdUgSxa25u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994079741507158511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993814525968306324",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "年少不知三星好，错把苹果当成宝 https://t.co/rdUgSxa25u"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1994079741507158511",
+        "created_at": "2025-11-27T16:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T17:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994079741507158511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RainEngine2024…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/RainEngine2024/status/1993814525968306324",
+              "start": 16,
+              "url": "https://t.co/rdUgSxa25u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994079741507158511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993814525968306324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "年少不知三星好，错把苹果当成宝 https://t.co/rdUgSxa25u"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "1993814525968306324",
+        "created_at": "2025-11-26T22:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T23:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993814525968306324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/momosereina/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/momosereina/status/1993714297927876952",
+              "start": 16,
+              "url": "https://t.co/WQqsGg1mrU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993814525968306324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10038,
+          "like_count": 71,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993714297927876952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "年少不知苹果好，错把小米当成宝 https://t.co/WQqsGg1mrU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2887,
+          "following_count": 549,
+          "like_count": 42228,
+          "listed_count": 5,
+          "media_count": 140,
+          "tweet_count": 4047
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "小米合作伙伴/互联网小透明/非二元/喜欢拍照记录生活/爱好折腾数码产品/PM前请征得同意否则Ban/回复消息可能不及时还请谅解/GMT+8/ZH-CN/EN-US is OK",
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "1992434189019611427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991776429114290176/1qedHbna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3490,
+          "following_count": 601,
+          "like_count": 30789,
+          "listed_count": 4,
+          "media_count": 710,
+          "tweet_count": 4690
+        },
+        "username": "RainEngine2024",
+        "verified": false
+      }
+    ]
+  }
+}

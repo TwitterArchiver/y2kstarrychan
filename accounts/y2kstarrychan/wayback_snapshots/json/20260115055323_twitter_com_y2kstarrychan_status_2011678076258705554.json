@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2011047767045701919",
+    "created_at": "2026-01-15T05:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T06:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011678076258705554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845668678387515392",
+          "start": 0,
+          "username": "dilei114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011678076258705554",
+    "in_reply_to_user_id": "1845668678387515392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011047767045701919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dilei114 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2011047767045701919",
+        "created_at": "2026-01-15T05:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T06:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011678076258705554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845668678387515392",
+              "start": 0,
+              "username": "dilei114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011678076258705554",
+        "in_reply_to_user_id": "1845668678387515392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011047767045701919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dilei114 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845668678387515392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2011047767045701919",
+        "created_at": "2026-01-13T12:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T13:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011047767045701919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dilei114/statu…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/dilei114/status/1951506698927218921",
+              "start": 141,
+              "url": "https://t.co/FytwgyR0G9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011047767045701919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1505,
+          "like_count": 32,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951506698927218921",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "翻到了之前和别人对线的帖子，越看越难受，难受的想哭😢\n我是反对传统的中式教育的，但却因不同意网左的某些观点被他们扣上了建制派的帽子，强行断定我的观点是支持中式教育，并以此批斗我\n我只想当个很温和的人…\n如今的网络环境下为何很多人都这么极端呢，为什么只要不极端就会被各种人扣帽子呢… https://t.co/FytwgyR0G9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3016,
+          "following_count": 735,
+          "like_count": 48707,
+          "listed_count": 5,
+          "media_count": 143,
+          "tweet_count": 4238
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T03:31:27.000Z",
+        "description": "会很友善的对待大家的哟 ✧(≖ ◡ ≖✿)｜偶尔是小男娘 ?丨不对线｜无明确意识形态｜拒绝一切极端人｜会尽最大努力避免与任何人发生冲突｜做个萌萌人｜绝对不会主动骂人或人身攻击｜不会因立场不同而屏蔽或辱骂他人｜会屏蔽乱骂人的账号｜可能会出现误屏蔽的情况｜善待每一位能好好说话的推友❤️丨🔞小号@baojiangdilei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 145,
+                "username": "baojiangdilei"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "18comic.vip",
+                "end": 23,
+                "expanded_url": "http://18comic.vip",
+                "start": 0,
+                "url": "https://t.co/li0aYkyZOF"
+              }
+            ]
+          }
+        },
+        "id": "1845668678387515392",
+        "location": "D.P.R.KOREN",
+        "name": "爆浆地雷😘",
+        "pinned_tweet_id": "1913817499562639368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928477544153759744/blr9epX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 671,
+          "like_count": 175486,
+          "listed_count": 5,
+          "media_count": 1032,
+          "tweet_count": 11081
+        },
+        "url": "https://t.co/li0aYkyZOF",
+        "username": "dilei114",
+        "verified": false
+      }
+    ]
+  }
+}

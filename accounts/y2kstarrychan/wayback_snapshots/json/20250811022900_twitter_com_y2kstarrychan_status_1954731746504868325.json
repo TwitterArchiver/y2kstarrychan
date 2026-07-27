@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954731744407457795"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1954731746504868325",
+    "created_at": "2025-08-11T02:29:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T03:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954731746504868325"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iAvtIHRlHD",
+          "end": 34,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1954731746504868325/photo/1",
+          "media_key": "3_1954731744407457795",
+          "start": 11,
+          "url": "https://t.co/iAvtIHRlHD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954731746504868325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "reply_settings": "everyone",
+    "text": "这确定是在说美国吗？ https://t.co/iAvtIHRlHD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1929,
+        "media_key": "3_1954731744407457795",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyCaKjiWEAMCzwS.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954731744407457795"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1954731746504868325",
+        "created_at": "2025-08-11T02:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T03:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954731746504868325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iAvtIHRlHD",
+              "end": 34,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1954731746504868325/photo/1",
+              "media_key": "3_1954731744407457795",
+              "start": 11,
+              "url": "https://t.co/iAvtIHRlHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954731746504868325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这确定是在说美国吗？ https://t.co/iAvtIHRlHD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1887,
+          "following_count": 345,
+          "like_count": 19545,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 3896
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

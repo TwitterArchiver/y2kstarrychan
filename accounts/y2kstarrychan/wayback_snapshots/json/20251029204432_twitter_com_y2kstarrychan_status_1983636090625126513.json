@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1983490850194678187",
+    "created_at": "2025-10-29T20:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T21:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983636090625126513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1595110651621318656",
+          "start": 0,
+          "username": "ProcyonCoke731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983636090625126513",
+    "in_reply_to_user_id": "1595110651621318656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983490850194678187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ProcyonCoke731 貼貼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3098,
+        "media_key": "3_1983490813121175553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4bGYrNWoAEpc9I.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1983490850194678187",
+        "created_at": "2025-10-29T20:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T21:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983636090625126513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1595110651621318656",
+              "start": 0,
+              "username": "ProcyonCoke731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983636090625126513",
+        "in_reply_to_user_id": "1595110651621318656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983490850194678187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ProcyonCoke731 貼貼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983490813121175553"
+          ]
+        },
+        "author_id": "1595110651621318656",
+        "conversation_id": "1983490850194678187",
+        "created_at": "2025-10-29T11:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T12:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983490850194678187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/76Yf2zYS4s",
+              "end": 47,
+              "expanded_url": "https://x.com/ProcyonCoke731/status/1983490850194678187/photo/1",
+              "media_key": "3_1983490813121175553",
+              "start": 24,
+              "url": "https://t.co/76Yf2zYS4s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983490850194678187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 578,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "扣1和我互关，已经是互关的可以贴贴抱抱亲亲😘💞 https://t.co/76Yf2zYS4s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2866,
+          "following_count": 476,
+          "like_count": 39388,
+          "listed_count": 5,
+          "media_count": 134,
+          "tweet_count": 4011
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-22T17:43:19.000Z",
+        "description": "直升機駕駛員\n异世界转生号https://t.co/2usdJjOgLk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/chaosc…",
+                "end": 36,
+                "expanded_url": "https://bsky.app/profile/chaoscoke731.bsky.social",
+                "start": 13,
+                "url": "https://t.co/2usdJjOgLk"
+              }
+            ]
+          }
+        },
+        "id": "1595110651621318656",
+        "name": "桜桃可乐🇯🇵🌌🌸🍸✝️",
+        "pinned_tweet_id": "1981997572719014169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925815464057348096/BKWJubhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3927,
+          "following_count": 1028,
+          "like_count": 31467,
+          "listed_count": 24,
+          "media_count": 3383,
+          "tweet_count": 14432
+        },
+        "username": "ProcyonCoke731",
+        "verified": false
+      }
+    ]
+  }
+}

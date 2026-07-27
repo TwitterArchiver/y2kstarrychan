@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1988553430525178064",
+    "created_at": "2025-11-13T03:50:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T04:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988816678571151484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1763541864689319936",
+          "start": 0,
+          "username": "iunco294060"
+        },
+        {
+          "end": 28,
+          "id": "1847835560175685635",
+          "start": 13,
+          "username": "OPPOFANS114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988816678571151484",
+    "in_reply_to_user_id": "1763541864689319936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988568266822860965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iunco294060 @OPPOFANS114514 上一个这么在乎粉丝的人坟头草已经三尺高了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1988553430525178064",
+        "created_at": "2025-11-13T03:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T04:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988816678571151484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1763541864689319936",
+              "start": 0,
+              "username": "iunco294060"
+            },
+            {
+              "end": 28,
+              "id": "1847835560175685635",
+              "start": 13,
+              "username": "OPPOFANS114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988816678571151484",
+        "in_reply_to_user_id": "1763541864689319936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988568266822860965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iunco294060 @OPPOFANS114514 上一个这么在乎粉丝的人坟头草已经三尺高了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763541864689319936",
+        "conversation_id": "1988553430525178064",
+        "created_at": "2025-11-12T11:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988568266822860965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847835560175685635",
+              "start": 0,
+              "username": "OPPOFANS114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988568266822860965",
+        "in_reply_to_user_id": "1847835560175685635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988553430525178064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OPPOFANS114514 其實粉絲量算不上是什麼，只要你盡了你的力量就行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2871,
+          "following_count": 509,
+          "like_count": 40513,
+          "listed_count": 5,
+          "media_count": 138,
+          "tweet_count": 4028
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-01T12:28:57.000Z",
+        "description": "我的另一個我...。。\n@iunco282354\n                                   喺twitch上直播:https://t.co/IubFUVL2Gz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "iunco282354"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "m.twitch.tv/iunco233/home",
+                "end": 94,
+                "expanded_url": "https://m.twitch.tv/iunco233/home",
+                "start": 71,
+                "url": "https://t.co/IubFUVL2Gz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/iuncotangye/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/iuncotangye/",
+                "start": 0,
+                "url": "https://t.co/jiLPOkVmHo"
+              }
+            ]
+          }
+        },
+        "id": "1763541864689319936",
+        "location": "你的身邊",
+        "name": "iunco",
+        "pinned_tweet_id": "1884413234029220171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940290010202112000/YYvhwagg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 2493,
+          "like_count": 12850,
+          "listed_count": 5,
+          "media_count": 2062,
+          "tweet_count": 16913
+        },
+        "url": "https://t.co/jiLPOkVmHo",
+        "username": "iunco294060",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T03:02:37.000Z",
+        "description": "OPPO粉的推特账号,发些日常,不会安慰人(｡í _ ì｡)丨会emo,请忽略,我也有情绪(；ω；)丨如果哪天突然消失了,就是VPN炸了(つд⊂)丨会互fo哦੭ ᐕ)੭*⁾⁾丨可以叫我OPPO粉,OPPOFANS,OPPO酱,粉猫猫,小粉,饭饭丨天天开心哦！(*๓´╰╯`๓)♡丨INFP丨颜文字万岁喵(／ω＼)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oppofans",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oppofans",
+                "start": 0,
+                "url": "https://t.co/37m0RVoXvD"
+              }
+            ]
+          }
+        },
+        "id": "1847835560175685635",
+        "name": "OPPOFANS",
+        "pinned_tweet_id": "1899040879727509924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984078199282921476/JWjpD7x__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 1647,
+          "like_count": 13504,
+          "listed_count": 7,
+          "media_count": 416,
+          "tweet_count": 13912
+        },
+        "url": "https://t.co/37m0RVoXvD",
+        "username": "OPPOFANS114514",
+        "verified": false
+      }
+    ]
+  }
+}

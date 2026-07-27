@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1955118587552682291",
+    "created_at": "2025-08-12T04:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T05:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955125094998511835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1908668668919398400",
+          "start": 0,
+          "username": "Kazumasski"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955125094998511835",
+    "in_reply_to_user_id": "1908668668919398400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955124312962372202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kazumasski 感谢佐佐木为我打这么多字来庆祝我的生日，感谢你的祝福，也希望你身体健康，感谢😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1955118587552682291",
+        "created_at": "2025-08-12T04:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T05:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955125094998511835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1908668668919398400",
+              "start": 0,
+              "username": "Kazumasski"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955125094998511835",
+        "in_reply_to_user_id": "1908668668919398400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955124312962372202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kazumasski 感谢佐佐木为我打这么多字来庆祝我的生日，感谢你的祝福，也希望你身体健康，感谢😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908668668919398400",
+        "conversation_id": "1955118587552682291",
+        "created_at": "2025-08-12T04:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T05:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955124312962372202"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "星璃様",
+              "probability": 0.6855,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3244048580",
+              "start": 0,
+              "username": "y2kstarrychan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955124312962372202",
+        "in_reply_to_user_id": "3244048580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "星璃様、お誕生日おめでとうございます。\n\nこの特別な日が、星璃様にとって、喜びと幸福に満ちあふれた素晴らしい一日となりますよう、心よりお祈り申し上げます。\n日頃のご活躍を拝見しており、星璃様の輝かしいお姿に、いつも感銘を受けております。\nこれからも、ますますのご発展と、ご健康が末永く続きますよう、衷心より願っております。\nまた、星璃様の周囲に、温かな笑顔と幸運が絶えず訪れますよう、お祈りいたします。\n改めまして、お誕生日おめでとうございます。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955118587552682291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y2kstarrychan 星璃様、お誕生日おめでとうございます。\n\nこの特別な日が、星璃様にとって、喜びと幸福に満ちあふれた素晴らしい一日となりますよう、心よりお祈り申し上げます。\n日頃のご活躍を拝見しており、星璃様の輝かしいお姿に、いつも感銘を受けております。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1896,
+          "following_count": 350,
+          "like_count": 20384,
+          "listed_count": 3,
+          "media_count": 114,
+          "tweet_count": 3907
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-05T23:50:54.000Z",
+        "description": "みんなが悪魔で異常です｜佐々木 和真と申します｜インターネットの天使｜音ゲーマー｜13歳中2生｜あの人@chaox1220_2nd｜金金金金｜陰キャ｜サブ垢@hhaaiibot 音ゲー垢@bblloocckk_｜メール✉️:sashisusesoowo@hotmail.com ｜よろしく申し上げます。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "chaox1220_2nd"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "hhaaiibot"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "bblloocckk_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "irasutoya.com",
+                "end": 23,
+                "expanded_url": "http://irasutoya.com",
+                "start": 0,
+                "url": "https://t.co/vxqq8xI5xm"
+              }
+            ]
+          }
+        },
+        "id": "1908668668919398400",
+        "location": "金金金金",
+        "name": "朽木牌手机9.9元包邮 🏳️‍🌈 @赖床单推人",
+        "pinned_tweet_id": "1952324132558995762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953261706488233984/QwOOzoh-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1483,
+          "following_count": 3352,
+          "like_count": 3075,
+          "listed_count": 2,
+          "media_count": 744,
+          "tweet_count": 4017
+        },
+        "url": "https://t.co/vxqq8xI5xm",
+        "username": "Kazumasski",
+        "verified": true
+      }
+    ]
+  }
+}

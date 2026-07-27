@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949384513362026497"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1949313291479622120",
+    "created_at": "2025-07-27T08:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T09:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949384515463569487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1865419581206208512",
+          "start": 0,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PvxCJZhub2",
+          "end": 73,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1949384515463569487/photo/1",
+          "media_key": "3_1949384513362026497",
+          "start": 50,
+          "url": "https://t.co/PvxCJZhub2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949384515463569487",
+    "in_reply_to_user_id": "1865419581206208512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949313291479622120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDzhanshou5150 1. 因為我成功把這個梗火到破圈了\n2. yoyo，肯定能壓你一頭 https://t.co/PvxCJZhub2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 681,
+        "media_key": "3_1949384513362026497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw2a4vmXYAEWjAr.jpg",
+        "width": 1436
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949384513362026497"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1949313291479622120",
+        "created_at": "2025-07-27T08:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T09:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949384515463569487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865419581206208512",
+              "start": 0,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PvxCJZhub2",
+              "end": 73,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1949384515463569487/photo/1",
+              "media_key": "3_1949384513362026497",
+              "start": 50,
+              "url": "https://t.co/PvxCJZhub2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949384515463569487",
+        "in_reply_to_user_id": "1865419581206208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949313291479622120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDzhanshou5150 1. 因為我成功把這個梗火到破圈了\n2. yoyo，肯定能壓你一頭 https://t.co/PvxCJZhub2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865419581206208512",
+        "conversation_id": "1949313291479622120",
+        "created_at": "2025-07-27T03:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T04:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949313291479622120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949313291479622120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 440,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家怎么都在玩这个\n网友名叫xx，取什么网名可以压他一头\n呀\n那咱也要玩\n网友名叫早露泡泡兔，取什么网名可以压他一头网友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 309,
+          "like_count": 11888,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 3867
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4884,
+          "following_count": 4992,
+          "like_count": 17163,
+          "listed_count": 8,
+          "media_count": 3237,
+          "tweet_count": 24348
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

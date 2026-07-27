@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1945426456731062411",
+    "created_at": "2025-07-16T21:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T22:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945590280721174671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1768487038645678080",
+          "start": 0,
+          "username": "Yamada_Ryo4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945590280721174671",
+    "in_reply_to_user_id": "1768487038645678080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945426456731062411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yamada_Ryo4 山田涼，記得還錢😘"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1548,
+        "media_key": "3_1945426452603674624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv-LDSQXIAArDMI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1926,
+        "media_key": "3_1945426452972716032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv-LDToWQAA9kRQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1945426456731062411",
+        "created_at": "2025-07-16T21:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T22:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945590280721174671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945590280721174671",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945426456731062411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryo4 山田涼，記得還錢😘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945426452603674624",
+            "3_1945426452972716032"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1945426456731062411",
+        "created_at": "2025-07-16T10:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T11:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945426456731062411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AtRluJiIxP",
+              "end": 122,
+              "expanded_url": "https://x.com/Yamada_Ryo4/status/1945426456731062411/photo/1",
+              "media_key": "3_1945426452603674624",
+              "start": 99,
+              "url": "https://t.co/AtRluJiIxP"
+            },
+            {
+              "display_url": "pic.x.com/AtRluJiIxP",
+              "end": 122,
+              "expanded_url": "https://x.com/Yamada_Ryo4/status/1945426456731062411/photo/1",
+              "media_key": "3_1945426452972716032",
+              "start": 99,
+              "url": "https://t.co/AtRluJiIxP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945426456731062411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3406,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "终于到4000fo啦！接下来是4000fo抽奖：喜多、波奇、虹夏的塑胶杯垫各1，喜多冰箱贴*1（均为仅拆袋确定人物）\n开奖时间：8月1号，采用随机数抽奖\n参与条件：关注+点赞+转发+评论\n🥰🥰🥰🥰 https://t.co/AtRluJiIxP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 233,
+          "like_count": 4779,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 3803
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜逃生艙 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY｜🚪：1 ₿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 106,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 83,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yamadaryo.me",
+                "end": 23,
+                "expanded_url": "https://yamadaryo.me",
+                "start": 0,
+                "url": "https://t.co/czFMqdFO4N"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4007,
+          "following_count": 677,
+          "like_count": 12245,
+          "listed_count": 18,
+          "media_count": 1290,
+          "tweet_count": 7269
+        },
+        "url": "https://t.co/czFMqdFO4N",
+        "username": "Yamada_Ryo4",
+        "verified": true
+      }
+    ]
+  }
+}

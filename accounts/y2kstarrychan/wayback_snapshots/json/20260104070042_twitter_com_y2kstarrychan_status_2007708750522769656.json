@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2007688003037360583",
+    "created_at": "2026-01-04T07:00:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T08:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007708750522769656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1253165636210978817",
+          "start": 0,
+          "username": "Exusiai159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007708750522769656",
+    "in_reply_to_user_id": "1253165636210978817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007688003037360583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Exusiai159 你牛大了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_2007687999077965825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9y9mRTbYAEhQRf.jpg",
+        "width": 1440
+      },
+      {
+        "height": 809,
+        "media_key": "3_2007688000168402944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9y9mVXaIAAd8Xo.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1895,
+        "media_key": "3_2007688000415911936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9y9mWSa0AAibvw.jpg",
+        "width": 948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2007688003037360583",
+        "created_at": "2026-01-04T07:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T08:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007708750522769656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1253165636210978817",
+              "start": 0,
+              "username": "Exusiai159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007708750522769656",
+        "in_reply_to_user_id": "1253165636210978817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007688003037360583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Exusiai159 你牛大了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007687999077965825",
+            "3_2007688000168402944",
+            "3_2007688000415911936"
+          ]
+        },
+        "author_id": "1253165636210978817",
+        "conversation_id": "2007688003037360583",
+        "created_at": "2026-01-04T05:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T06:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007688003037360583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0HnJG0yzJa",
+              "end": 82,
+              "expanded_url": "https://x.com/Exusiai159/status/2007688003037360583/photo/1",
+              "media_key": "3_2007687999077965825",
+              "start": 59,
+              "url": "https://t.co/0HnJG0yzJa"
+            },
+            {
+              "display_url": "pic.x.com/0HnJG0yzJa",
+              "end": 82,
+              "expanded_url": "https://x.com/Exusiai159/status/2007688003037360583/photo/1",
+              "media_key": "3_2007688000168402944",
+              "start": 59,
+              "url": "https://t.co/0HnJG0yzJa"
+            },
+            {
+              "display_url": "pic.x.com/0HnJG0yzJa",
+              "end": 82,
+              "expanded_url": "https://x.com/Exusiai159/status/2007688003037360583/photo/1",
+              "media_key": "3_2007688000415911936",
+              "start": 59,
+              "url": "https://t.co/0HnJG0yzJa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007688003037360583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 88,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我确实会经常转发一些男同R18内容\n如果接受不了这些可以点进我的主页，右上角三个点，关闭转帖\n给大家造成不便十分抱歉 https://t.co/0HnJG0yzJa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997887294787796992/LkclvzQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2986,
+          "following_count": 673,
+          "like_count": 46688,
+          "listed_count": 5,
+          "media_count": 153,
+          "tweet_count": 4198
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "粥批，正太控，中推鹿野灸和能天使粉丝头子｜会转发正太黄推🔞，如有介意请不要关注｜推特用来当日记本记录碎碎念｜数码产品迷，Windows平板爱好者，半个车迷｜编程一生黑｜禁极端歧视仇恨言论｜包含微量政治元素｜有大量政治内容的账号恕不回fo｜避难所@Exusiai159_2｜扩列可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "Exusiai159_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Exusiai159",
+                "end": 23,
+                "expanded_url": "http://t.me/Exusiai159",
+                "start": 0,
+                "url": "https://t.co/z598x1sxus"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎国 姜齐",
+        "name": "一只能天使",
+        "pinned_tweet_id": "1925197266241077292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202665618526208/AijwsiNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4989,
+          "following_count": 6368,
+          "like_count": 157262,
+          "listed_count": 12,
+          "media_count": 4746,
+          "tweet_count": 47303
+        },
+        "url": "https://t.co/z598x1sxus",
+        "username": "Exusiai159",
+        "verified": false
+      }
+    ]
+  }
+}

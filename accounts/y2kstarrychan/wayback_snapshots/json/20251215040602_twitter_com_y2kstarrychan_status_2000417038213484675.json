@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2000194024288973209",
+    "created_at": "2025-12-15T04:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T05:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000417038213484675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1963088360110530560",
+          "start": 0,
+          "username": "charlotte1020W"
+        },
+        {
+          "end": 26,
+          "id": "1639816523190763521",
+          "start": 16,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000417038213484675",
+    "in_reply_to_user_id": "1963088360110530560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000409338427457543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@charlotte1020W @ggdxfulan 翻車👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2000194024288973209",
+        "created_at": "2025-12-15T04:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T05:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000417038213484675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1963088360110530560",
+              "start": 0,
+              "username": "charlotte1020W"
+            },
+            {
+              "end": 26,
+              "id": "1639816523190763521",
+              "start": 16,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000417038213484675",
+        "in_reply_to_user_id": "1963088360110530560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000409338427457543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@charlotte1020W @ggdxfulan 翻車👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963088360110530560",
+        "conversation_id": "2000194024288973209",
+        "created_at": "2025-12-15T03:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T04:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000409338427457543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639816523190763521",
+              "start": 0,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000409338427457543",
+        "in_reply_to_user_id": "1639816523190763521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000194024288973209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdxfulan 哇这是什么呀我也试试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997887294787796992/LkclvzQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2917,
+          "following_count": 572,
+          "like_count": 44250,
+          "listed_count": 5,
+          "media_count": 145,
+          "tweet_count": 4074
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-03T03:55:23.000Z",
+        "description": "18/流淌漢血和鮮卑血的荊楚人/intj/思維絕對理性/對本國歸屬感跌破冰點/精神狀態混沌/歡迎向制度開砲/極度反感扭曲事實者/平等痛恨憎惡國內亂象/擊碎形式主義，踏破官僚主義",
+        "id": "1963088360110530560",
+        "location": "奣曟天穹聯盟國",
+        "name": "豐川卍元胤希（源自🇨🇳暫居🇺🇸）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995624514248404992/JfodYreH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 52,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1390
+        },
+        "username": "charlotte1020W",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "二次翻车的小芙兰",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐",
+        "pinned_tweet_id": "1972915977861177561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996216687008620544/-n5AXz5l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13686,
+          "following_count": 474,
+          "like_count": 31592,
+          "listed_count": 24,
+          "media_count": 3274,
+          "tweet_count": 10790
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

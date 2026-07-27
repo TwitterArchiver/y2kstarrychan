@@ -1,0 +1,529 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2069628832605450465",
+    "created_at": "2026-06-24T08:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T09:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069694406827839619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763034943599607808",
+          "start": 0,
+          "username": "moonlight_ruri"
+        },
+        {
+          "end": 31,
+          "id": "1918274202580467713",
+          "start": 16,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 44,
+          "id": "1752538285459795968",
+          "start": 32,
+          "username": "tadatsukiei"
+        },
+        {
+          "end": 59,
+          "id": "1931285197422792704",
+          "start": 45,
+          "username": "Unstable46599"
+        },
+        {
+          "end": 69,
+          "id": "1545277694325116928",
+          "start": 60,
+          "username": "YongQuan"
+        },
+        {
+          "end": 85,
+          "id": "1810873766119100416",
+          "start": 70,
+          "username": "RainEngine2024"
+        },
+        {
+          "end": 99,
+          "id": "1769078117052854272",
+          "start": 86,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069694406827839619",
+    "in_reply_to_user_id": "1763034943599607808",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069628832605450465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonlight_ruri @CyberKanjousen @tadatsukiei @Unstable46599 @YongQuan @RainEngine2024 @huahuojiang_"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2068198349279580161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLO3cN3b0AEHaib.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2069628832605450465",
+        "created_at": "2026-06-24T08:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069694406827839619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763034943599607808",
+              "start": 0,
+              "username": "moonlight_ruri"
+            },
+            {
+              "end": 31,
+              "id": "1918274202580467713",
+              "start": 16,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 44,
+              "id": "1752538285459795968",
+              "start": 32,
+              "username": "tadatsukiei"
+            },
+            {
+              "end": 59,
+              "id": "1931285197422792704",
+              "start": 45,
+              "username": "Unstable46599"
+            },
+            {
+              "end": 69,
+              "id": "1545277694325116928",
+              "start": 60,
+              "username": "YongQuan"
+            },
+            {
+              "end": 85,
+              "id": "1810873766119100416",
+              "start": 70,
+              "username": "RainEngine2024"
+            },
+            {
+              "end": 99,
+              "id": "1769078117052854272",
+              "start": 86,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069694406827839619",
+        "in_reply_to_user_id": "1763034943599607808",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069628832605450465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonlight_ruri @CyberKanjousen @tadatsukiei @Unstable46599 @YongQuan @RainEngine2024 @huahuojiang_"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068198349279580161"
+          ]
+        },
+        "author_id": "1763034943599607808",
+        "conversation_id": "2069628832605450465",
+        "created_at": "2026-06-24T03:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069628832605450465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dUHwi7gEDX",
+              "end": 35,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2069628832605450465/photo/1",
+              "media_key": "3_2068198349279580161",
+              "start": 12,
+              "url": "https://t.co/dUHwi7gEDX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069628832605450465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 8647,
+          "like_count": 439,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "艾特你最想让ta穿的人 https://t.co/dUHwi7gEDX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2932,
+          "following_count": 868,
+          "like_count": 56249,
+          "listed_count": 6,
+          "media_count": 156,
+          "tweet_count": 4434
+        },
+        "url": "",
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "小天使｜蓝v必回｜femboy｜ENname：LunaRuri｜EN CN JP｜little angel｜Random thoughts｜Humor｜Entertainment｜beauty share｜Verified users follow back｜Submissions welcome｜Thanks",
+        "id": "1763034943599607808",
+        "location": "千葉縣｜蓝v必回请私信｜x telegram同id",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2064979619095392478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064945472159272961/vaDy2Hdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10729,
+          "following_count": 647,
+          "like_count": 1187,
+          "listed_count": 26,
+          "media_count": 338,
+          "tweet_count": 2324
+        },
+        "url": "",
+        "username": "moonlight_ruri",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7824,
+          "following_count": 870,
+          "like_count": 27912,
+          "listed_count": 11,
+          "media_count": 1672,
+          "tweet_count": 8817
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 642,
+          "like_count": 106295,
+          "listed_count": 10,
+          "media_count": 621,
+          "tweet_count": 7662
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-07T09:41:01.000Z",
+        "description": "｜推友寻回ing｜08年高中在读｜对啥都感兴趣😵‍💫｜诱捕器是烤韭菜（韭黄也行｜照片纯享@452Yc｜🚪68｜发牢骚\n私信！私信！私信！｜愛してる Game 世界のDay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 44,
+                "username": "452Yc"
+              }
+            ]
+          }
+        },
+        "id": "1931285197422792704",
+        "location": "mc末地",
+        "name": "❄️熙野不会取名字但是会…….❄️",
+        "pinned_tweet_id": "2050885763299201175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066704525524938752/I__ncVIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1472,
+          "following_count": 77,
+          "like_count": 2077,
+          "listed_count": 5,
+          "media_count": 366,
+          "tweet_count": 1652
+        },
+        "url": "",
+        "username": "Unstable46599",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n梗图meme｜赛事评论员｜日常\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨铨起床🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10781,
+          "following_count": 4623,
+          "like_count": 51289,
+          "listed_count": 34,
+          "media_count": 4544,
+          "tweet_count": 14954
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/现移动合作伙伴/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2024",
+                "end": 23,
+                "expanded_url": "https://t.me/RainEngine2024",
+                "start": 0,
+                "url": "https://t.co/9PQn0qPrWk"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2038233746755948881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060444078790348800/OZRYk2nj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10579,
+          "following_count": 971,
+          "like_count": 95439,
+          "listed_count": 25,
+          "media_count": 1945,
+          "tweet_count": 13361
+        },
+        "url": "https://t.co/9PQn0qPrWk",
+        "username": "RainEngine2024",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "2069425145769509097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039013777560227840/6M7222YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7067,
+          "following_count": 3584,
+          "like_count": 102922,
+          "listed_count": 15,
+          "media_count": 8530,
+          "tweet_count": 98940
+        },
+        "url": "",
+        "username": "huahuojiang_",
+        "verified": false
+      }
+    ]
+  }
+}

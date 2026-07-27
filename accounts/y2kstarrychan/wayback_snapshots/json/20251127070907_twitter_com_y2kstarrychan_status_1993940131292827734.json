@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1993448431495659796",
+    "created_at": "2025-11-27T07:09:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T08:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993940131292827734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        },
+        {
+          "end": 25,
+          "id": "1271652280438308864",
+          "start": 16,
+          "username": "Jaciezyt"
+        },
+        {
+          "end": 34,
+          "id": "1433678976564662273",
+          "start": 26,
+          "username": "hsn8086"
+        },
+        {
+          "end": 50,
+          "id": "1845454917236031495",
+          "start": 35,
+          "username": "Dontbesadforit"
+        },
+        {
+          "end": 61,
+          "id": "1863439189909618688",
+          "start": 51,
+          "username": "hsn8086xe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993940131292827734",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993940010362716379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 @Jaciezyt @hsn8086 @Dontbesadforit @hsn8086xe 和味道这招太狠了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1993448431495659796",
+        "created_at": "2025-11-27T07:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993940131292827734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            },
+            {
+              "end": 25,
+              "id": "1271652280438308864",
+              "start": 16,
+              "username": "Jaciezyt"
+            },
+            {
+              "end": 34,
+              "id": "1433678976564662273",
+              "start": 26,
+              "username": "hsn8086"
+            },
+            {
+              "end": 50,
+              "id": "1845454917236031495",
+              "start": 35,
+              "username": "Dontbesadforit"
+            },
+            {
+              "end": 61,
+              "id": "1863439189909618688",
+              "start": 51,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993940131292827734",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993940010362716379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 @Jaciezyt @hsn8086 @Dontbesadforit @hsn8086xe 和味道这招太狠了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "1993448431495659796",
+        "created_at": "2025-11-27T07:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993940010362716379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3244048580",
+              "start": 0,
+              "username": "y2kstarrychan"
+            },
+            {
+              "end": 24,
+              "id": "1271652280438308864",
+              "start": 15,
+              "username": "Jaciezyt"
+            },
+            {
+              "end": 33,
+              "id": "1433678976564662273",
+              "start": 25,
+              "username": "hsn8086"
+            },
+            {
+              "end": 49,
+              "id": "1845454917236031495",
+              "start": 34,
+              "username": "Dontbesadforit"
+            },
+            {
+              "end": 60,
+              "id": "1863439189909618688",
+              "start": 50,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993940010362716379",
+        "in_reply_to_user_id": "3244048580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993938873542668785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y2kstarrychan @Jaciezyt @hsn8086 @Dontbesadforit @hsn8086xe 何意味？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2888,
+          "following_count": 549,
+          "like_count": 42199,
+          "listed_count": 5,
+          "media_count": 139,
+          "tweet_count": 4044
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "小米合作伙伴/互联网小透明/非二元/喜欢拍照记录生活/爱好折腾数码产品/PM前请征得同意否则Ban/回复消息可能不及时还请谅解/GMT+8/ZH-CN/EN-US is OK",
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "1991434977301672122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991776429114290176/1qedHbna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3483,
+          "following_count": 600,
+          "like_count": 30668,
+          "listed_count": 4,
+          "media_count": 709,
+          "tweet_count": 4674
+        },
+        "username": "RainEngine2024",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 事电波系少女 | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 曾经的蒟蒻 OIer | 📷 业余摄影 | 📡 Radio DE BH6SLW | 交通迷 ✈🚅🚢 | Formerly at @levimc_org | 愿望是大家都能天天开心 以自己想要的方式生活 ❤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 107,
+                "username": "levimc_org"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "🐱ZYT🏳️⭐️ w (๑╹◡╹๑) w",
+        "pinned_tweet_id": "1957296402964570559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953728269284782080/GDrgKAQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2988,
+          "following_count": 749,
+          "like_count": 51215,
+          "listed_count": 7,
+          "media_count": 1041,
+          "tweet_count": 12768
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jaciezyt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967874771443650562/Dp0kz42r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110173,
+          "following_count": 1001,
+          "like_count": 47512,
+          "listed_count": 243,
+          "media_count": 17567,
+          "tweet_count": 26229
+        },
+        "username": "hsn8086",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "大白是我的狗，猫卷也是 MtF/无证含糖/🏳️‍⚧️HRT 2025.11.26 猫卷你他妈别改我bio了 我是纯顺直男",
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "中",
+        "pinned_tweet_id": "1973013751294218308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973986798926782464/9gpwUZZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 937,
+          "like_count": 57376,
+          "listed_count": 6,
+          "media_count": 332,
+          "tweet_count": 7625
+        },
+        "username": "Dontbesadforit",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "pinned_tweet_id": "1946867029245624703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28559,
+          "following_count": 362,
+          "like_count": 61,
+          "listed_count": 82,
+          "media_count": 8383,
+          "tweet_count": 8412
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2007067452719640846",
+    "created_at": "2026-01-02T19:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T20:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007178113856483394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1792463719563419648",
+          "start": 0,
+          "username": "hyouhakusha8964"
+        },
+        {
+          "end": 27,
+          "id": "1507723638249713664",
+          "start": 17,
+          "username": "yuebanzhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007178113856483394",
+    "in_reply_to_user_id": "1792463719563419648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007147480891445527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyouhakusha8964 @yuebanzhu m14，50發m61"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2007067452719640846",
+        "created_at": "2026-01-02T19:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T20:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007178113856483394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792463719563419648",
+              "start": 0,
+              "username": "hyouhakusha8964"
+            },
+            {
+              "end": 27,
+              "id": "1507723638249713664",
+              "start": 17,
+              "username": "yuebanzhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007178113856483394",
+        "in_reply_to_user_id": "1792463719563419648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007147480891445527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyouhakusha8964 @yuebanzhu m14，50發m61"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792463719563419648",
+        "conversation_id": "2007067452719640846",
+        "created_at": "2026-01-02T17:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T18:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007147480891445527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1507723638249713664",
+              "start": 0,
+              "username": "yuebanzhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007147480891445527",
+        "in_reply_to_user_id": "1507723638249713664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007067452719640846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuebanzhu PKM，125发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 对象: @charlotte1020W, 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "charlotte1020W"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997887294787796992/LkclvzQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2902,
+          "following_count": 629,
+          "like_count": 46389,
+          "listed_count": 5,
+          "media_count": 150,
+          "tweet_count": 4165
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-20T07:54:17.000Z",
+        "description": "一花盛开一世界，一生相思为一人。\n撑，一把青竹伞，赴，一场旧时约。",
+        "id": "1792463719563419648",
+        "location": "你的肩旁",
+        "name": "爱大家的阿漂吖",
+        "pinned_tweet_id": "1857931783498834135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000280345787400193/uFK8TtVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 700,
+          "like_count": 26988,
+          "listed_count": 4,
+          "media_count": 459,
+          "tweet_count": 11242
+        },
+        "username": "hyouhakusha8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T14:18:40.000Z",
+        "description": "一直在日本。似乎是一名法律工作者。右翼，非典型自由主义。政治面貌境外势力汉奸叛徒反革命分子。荒川商学院🥱创始人。https://t.co/zwDurJQwha宫司🥳私信回复较慢（一般周三周六晚上回复）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "runjinja.jp",
+                "end": 79,
+                "expanded_url": "http://runjinja.jp",
+                "start": 56,
+                "url": "https://t.co/zwDurJQwha"
+              }
+            ]
+          }
+        },
+        "id": "1507723638249713664",
+        "location": "日本东京",
+        "name": "月半",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529606141545545728/ufDWA7bY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14024,
+          "following_count": 5338,
+          "like_count": 294859,
+          "listed_count": 86,
+          "media_count": 3649,
+          "tweet_count": 45654
+        },
+        "username": "yuebanzhu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960575562595860482"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1960535568636633113",
+    "created_at": "2025-08-27T05:30:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T06:30:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960575564714004930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1891810325512806400",
+          "start": 0,
+          "username": "Jiepaiki_meow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1KftCfnRSr",
+          "end": 48,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1960575564714004930/photo/1",
+          "media_key": "3_1960575562595860482",
+          "start": 25,
+          "url": "https://t.co/1KftCfnRSr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960575564714004930",
+    "in_reply_to_user_id": "1891810325512806400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960535568636633113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiepaiki_meow 三星机主前来恭喜（ https://t.co/1KftCfnRSr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 997,
+        "media_key": "3_1960575562595860482",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzVdFivWgAI03bh.jpg",
+        "width": 1273
+      },
+      {
+        "height": 2457,
+        "media_key": "3_1960535545622441984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzU4sP5aMAA2I-S.jpg",
+        "width": 3276
+      },
+      {
+        "height": 4032,
+        "media_key": "3_1960535511724122112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzU4qRna4AAbIG1.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960575562595860482"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1960535568636633113",
+        "created_at": "2025-08-27T05:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T06:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960575564714004930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891810325512806400",
+              "start": 0,
+              "username": "Jiepaiki_meow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1KftCfnRSr",
+              "end": 48,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1960575564714004930/photo/1",
+              "media_key": "3_1960575562595860482",
+              "start": 25,
+              "url": "https://t.co/1KftCfnRSr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960575564714004930",
+        "in_reply_to_user_id": "1891810325512806400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960535568636633113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiepaiki_meow 三星机主前来恭喜（ https://t.co/1KftCfnRSr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960535545622441984",
+            "3_1960535511724122112"
+          ]
+        },
+        "author_id": "1891810325512806400",
+        "conversation_id": "1960535568636633113",
+        "created_at": "2025-08-27T02:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T03:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960535568636633113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/836osNYpGM",
+              "end": 36,
+              "expanded_url": "https://x.com/Jiepaiki_meow/status/1960535568636633113/photo/1",
+              "media_key": "3_1960535545622441984",
+              "start": 13,
+              "url": "https://t.co/836osNYpGM"
+            },
+            {
+              "display_url": "pic.x.com/836osNYpGM",
+              "end": 36,
+              "expanded_url": "https://x.com/Jiepaiki_meow/status/1960535568636633113/photo/1",
+              "media_key": "3_1960535511724122112",
+              "start": 13,
+              "url": "https://t.co/836osNYpGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960535568636633113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 100,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥵（突然发现还没发过（） https://t.co/836osNYpGM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2241,
+          "following_count": 392,
+          "like_count": 27736,
+          "listed_count": 5,
+          "media_count": 121,
+          "tweet_count": 3962
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-18T11:21:56.000Z",
+        "description": "/",
+        "id": "1891810325512806400",
+        "location": "幻想鄉紅魔館兼幻想鄉核爆試驗場所內蕾米莉亞斯卡蕾特臥室的床上",
+        "name": "新•截拍器🏳️‍⚧️",
+        "pinned_tweet_id": "1947833847095431494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944543738724073473/e7LDs2Qc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 1689,
+          "like_count": 23228,
+          "listed_count": 3,
+          "media_count": 176,
+          "tweet_count": 2037
+        },
+        "username": "Jiepaiki_meow",
+        "verified": false
+      }
+    ]
+  }
+}

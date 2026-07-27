@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2062950165363990834",
+    "created_at": "2026-06-06T13:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T14:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063254053925081111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063254053925081111",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062950165363990834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 媽媽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2062950154081292288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKESPDNaUAARv9S.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2062950153980674048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKESPC1bAAAC4aa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2062950165363990834",
+        "created_at": "2026-06-06T13:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063254053925081111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063254053925081111",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062950165363990834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 媽媽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062950154081292288",
+            "3_2062950153980674048"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2062950165363990834",
+        "created_at": "2026-06-05T17:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062950165363990834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VkT2fwIuAb",
+              "end": 30,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2062950165363990834/photo/1",
+              "media_key": "3_2062950154081292288",
+              "start": 7,
+              "url": "https://t.co/VkT2fwIuAb"
+            },
+            {
+              "display_url": "pic.x.com/VkT2fwIuAb",
+              "end": 30,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2062950165363990834/photo/1",
+              "media_key": "3_2062950153980674048",
+              "start": 7,
+              "url": "https://t.co/VkT2fwIuAb"
+            },
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2062939493184024657",
+              "start": 31,
+              "url": "https://t.co/9QPpRQRVme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062950165363990834",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 14963,
+          "like_count": 288,
+          "quote_count": 1,
+          "reply_count": 49,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062939493184024657",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依然是……🥵 https://t.co/VkT2fwIuAb https://t.co/9QPpRQRVme"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2935,
+          "following_count": 855,
+          "like_count": 55003,
+          "listed_count": 6,
+          "media_count": 155,
+          "tweet_count": 4423
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5021,
+          "following_count": 870,
+          "like_count": 24581,
+          "listed_count": 10,
+          "media_count": 1339,
+          "tweet_count": 7418
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

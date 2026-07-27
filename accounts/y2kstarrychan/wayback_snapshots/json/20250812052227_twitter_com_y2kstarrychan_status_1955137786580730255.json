@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1955118587552682291",
+    "created_at": "2025-08-12T05:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T06:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955137786580730255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1478042617958912005",
+          "start": 0,
+          "username": "knowledgefxg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955137786580730255",
+    "in_reply_to_user_id": "1478042617958912005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955137710743543989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@knowledgefxg 谢谢！( ^ω^ )"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_1955137698974552064",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GyILYOJaUAAD8gC.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GyILYOJaUAAD8gC.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1955118587552682291",
+        "created_at": "2025-08-12T05:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T06:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955137786580730255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1478042617958912005",
+              "start": 0,
+              "username": "knowledgefxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955137786580730255",
+        "in_reply_to_user_id": "1478042617958912005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955137710743543989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@knowledgefxg 谢谢！( ^ω^ )"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1955137698974552064"
+          ]
+        },
+        "author_id": "1478042617958912005",
+        "conversation_id": "1955118587552682291",
+        "created_at": "2025-08-12T05:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T06:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955137710743543989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3244048580",
+              "start": 0,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GQJfdB5ueO",
+              "end": 44,
+              "expanded_url": "https://x.com/knowledgefxg/status/1955137710743543989/photo/1",
+              "media_key": "16_1955137698974552064",
+              "start": 21,
+              "url": "https://t.co/GQJfdB5ueO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955137710743543989",
+        "in_reply_to_user_id": "3244048580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955118587552682291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y2kstarrychan 生日快乐！ https://t.co/GQJfdB5ueO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1897,
+          "following_count": 351,
+          "like_count": 20402,
+          "listed_count": 3,
+          "media_count": 114,
+          "tweet_count": 3917
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-03T16:39:09.000Z",
+        "description": "热爱知识，没事分享点有趣硬核的东西,包含英语学习，AI编程，科技软件，资源网站等等。来都来了，点点关注😘。 合作请DM私信，本人一直在用的vps推荐：https://t.co/84rULlj6Hv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bandwagonhost.com/aff.php?aff=77…",
+                "end": 98,
+                "expanded_url": "https://bandwagonhost.com/aff.php?aff=77675",
+                "start": 75,
+                "url": "https://t.co/84rULlj6Hv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.knowledgefxg.com",
+                "end": 23,
+                "expanded_url": "https://en.knowledgefxg.com/",
+                "start": 0,
+                "url": "https://t.co/UqzCEN6qAY"
+              }
+            ]
+          }
+        },
+        "id": "1478042617958912005",
+        "name": "知识分享官",
+        "pinned_tweet_id": "1915774820052017566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1485604570898526208/Bfi12r9h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189676,
+          "following_count": 1513,
+          "like_count": 35441,
+          "listed_count": 1130,
+          "media_count": 2550,
+          "tweet_count": 7539
+        },
+        "url": "https://t.co/UqzCEN6qAY",
+        "username": "knowledgefxg",
+        "verified": true
+      }
+    ]
+  }
+}

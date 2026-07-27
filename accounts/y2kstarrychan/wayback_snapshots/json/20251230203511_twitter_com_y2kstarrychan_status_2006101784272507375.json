@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2005853385178948088",
+    "created_at": "2025-12-30T20:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T21:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006101784272507375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999034817514807296",
+          "start": 0,
+          "username": "Kirara_Kazari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006101784272507375",
+    "in_reply_to_user_id": "1999034817514807296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005853385178948088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirara_Kazari 我也不看抖音"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2005853385178948088",
+        "created_at": "2025-12-30T20:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T21:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006101784272507375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999034817514807296",
+              "start": 0,
+              "username": "Kirara_Kazari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006101784272507375",
+        "in_reply_to_user_id": "1999034817514807296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005853385178948088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirara_Kazari 我也不看抖音"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999034817514807296",
+        "conversation_id": "2005853385178948088",
+        "created_at": "2025-12-30T04:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T05:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005853385178948088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005853385178948088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天和女朋友聊天，感觉她对我不刷抖音有些惊讶。\n\n我反思了一下，我确实对视频和语音这种“强加给我的时间流”感到不太和谐，相比之下我偏爱文字性的内容。我现在感觉那是因为我控制欲强，毕竟我可算不上什么文艺青年。\n\n视频是把饭喂到你嘴里，你只需要吞。 文字是给你食材，你得自己做。 \n\n而且，文字的“失真”恰恰是思考的温床。 很简单，一篇文章可以有多重解读，你要去揣摩作者的意图，而且正是因为信息不完整，你就必须去把那些空出来的东西补齐。\n\n这种思维的主动介入，才是阅读的快感来源。\n\n当然，我也不是圣人。脑子动累了，我偶尔也会刷x的视频和youtube shorts，也就是图个“脑死亡”般的放松。\n\n但是，很多人其实搞不清楚这种主动摄入的区别。\n\n我知道我在吸电子鸦片，而很多人以为自己在看世界。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2284,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天和女朋友聊天，感觉她对我不刷抖音有些惊讶。\n\n我反思了一下，我确实对视频和语音这种“强加给我的时间流”感到不太和谐，相比之下我偏爱文字性的内容。我现在感觉那是因为我控制欲强，毕竟我可算不上什么文艺青年。\n\n视频是把饭喂到你嘴里，你只需要吞。 文字是给你食材，你得自己做。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 对象: @charlotte1020W, 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "charlotte1020W"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997887294787796992/LkclvzQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2905,
+          "following_count": 622,
+          "like_count": 46043,
+          "listed_count": 5,
+          "media_count": 150,
+          "tweet_count": 4143
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T08:33:47.000Z",
+        "description": "愿我们重新起航。 osu 5 digit player  前端小趴菜\nopen to everything. 一代目:@Kirara_Miku 寻回中 欢迎新朋友老朋友互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "Kirara_Miku"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/13928307",
+                "end": 23,
+                "expanded_url": "https://osu.ppy.sh/users/13928307",
+                "start": 0,
+                "url": "https://t.co/TzQPM7aR5o"
+              }
+            ]
+          }
+        },
+        "id": "1999034817514807296",
+        "location": "風莉の星",
+        "name": "雲母風莉",
+        "pinned_tweet_id": "1999050355527839797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999034960959963137/ClOIp2wD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 247,
+          "like_count": 3790,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 438
+        },
+        "url": "https://t.co/TzQPM7aR5o",
+        "username": "Kirara_Kazari",
+        "verified": true
+      }
+    ]
+  }
+}

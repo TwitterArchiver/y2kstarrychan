@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037736801725816832"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "2037528099454390427",
+    "created_at": "2026-03-28T03:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T04:41:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037736803344499032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1279242635341729792",
+          "start": 0,
+          "username": "maigomaigoHH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JrpeErsq4J",
+          "end": 37,
+          "expanded_url": "https://x.com/y2kstarrychan/status/2037736803344499032/photo/1",
+          "media_key": "3_2037736801725816832",
+          "start": 14,
+          "url": "https://t.co/JrpeErsq4J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037736803344499032",
+    "in_reply_to_user_id": "1279242635341729792",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037528099454390427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maigomaigoHH https://t.co/JrpeErsq4J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 429,
+        "media_key": "3_2037736801725816832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEd-0ySboAAW8xx.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037736801725816832"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "2037528099454390427",
+        "created_at": "2026-03-28T03:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T04:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037736803344499032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1279242635341729792",
+              "start": 0,
+              "username": "maigomaigoHH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JrpeErsq4J",
+              "end": 37,
+              "expanded_url": "https://x.com/y2kstarrychan/status/2037736803344499032/photo/1",
+              "media_key": "3_2037736801725816832",
+              "start": 14,
+              "url": "https://t.co/JrpeErsq4J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037736803344499032",
+        "in_reply_to_user_id": "1279242635341729792",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037528099454390427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maigomaigoHH https://t.co/JrpeErsq4J"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279242635341729792",
+        "conversation_id": "2037528099454390427",
+        "created_at": "2026-03-27T13:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037528099454390427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037528099454390427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 75086,
+          "like_count": 222,
+          "quote_count": 2,
+          "reply_count": 134,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🫪🫪🫪🫪🫪🫪🫪🫪🫪🫪🫪🫪\n没升级26.4的人看到的这个emoji是什么样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2954,
+          "following_count": 778,
+          "like_count": 50979,
+          "listed_count": 5,
+          "media_count": 149,
+          "tweet_count": 4289
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-04T02:36:35.000Z",
+        "description": "倒霉蛋",
+        "id": "1279242635341729792",
+        "location": "你身后",
+        "name": "コガ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730168178297417728/0GKje4hv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6170,
+          "following_count": 896,
+          "like_count": 24583,
+          "listed_count": 31,
+          "media_count": 1500,
+          "tweet_count": 20276
+        },
+        "username": "maigomaigoHH",
+        "verified": true
+      }
+    ]
+  }
+}

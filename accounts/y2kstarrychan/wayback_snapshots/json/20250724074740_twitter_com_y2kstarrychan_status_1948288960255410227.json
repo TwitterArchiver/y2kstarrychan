@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1948275851516359106",
+    "created_at": "2025-07-24T07:47:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T08:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948288960255410227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1278831792540139523",
+          "start": 0,
+          "username": "miike_hrk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948288960255410227",
+    "in_reply_to_user_id": "1278831792540139523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948275851516359106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miike_hrk 这是谁？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2007,
+        "media_key": "3_1948275847934386176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwmqj7CaIAA9FWk.jpg",
+        "width": 1344
+      },
+      {
+        "height": 894,
+        "media_key": "3_1948275846919380992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwmqj3QaYAAPgGk.jpg",
+        "width": 1344
+      },
+      {
+        "height": 2053,
+        "media_key": "3_1948275848186089472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwmqj7-a0AAoCmE.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1948275851516359106",
+        "created_at": "2025-07-24T07:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T08:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948288960255410227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1278831792540139523",
+              "start": 0,
+              "username": "miike_hrk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948288960255410227",
+        "in_reply_to_user_id": "1278831792540139523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948275851516359106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miike_hrk 这是谁？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948275847934386176",
+            "3_1948275846919380992",
+            "3_1948275848186089472"
+          ]
+        },
+        "author_id": "1278831792540139523",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1948275851516359106",
+        "created_at": "2025-07-24T06:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T07:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948275851516359106"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "申鹤"
+            },
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "原神"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HwaBTgetrR",
+              "end": 37,
+              "expanded_url": "https://x.com/miike_hrk/status/1948275851516359106/photo/1",
+              "media_key": "3_1948275847934386176",
+              "start": 14,
+              "url": "https://t.co/HwaBTgetrR"
+            },
+            {
+              "display_url": "pic.x.com/HwaBTgetrR",
+              "end": 37,
+              "expanded_url": "https://x.com/miike_hrk/status/1948275851516359106/photo/1",
+              "media_key": "3_1948275846919380992",
+              "start": 14,
+              "url": "https://t.co/HwaBTgetrR"
+            },
+            {
+              "display_url": "pic.x.com/HwaBTgetrR",
+              "end": 37,
+              "expanded_url": "https://x.com/miike_hrk/status/1948275851516359106/photo/1",
+              "media_key": "3_1948275848186089472",
+              "start": 14,
+              "url": "https://t.co/HwaBTgetrR"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "1948275851516359106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "申鹤cos #申鹤 #原神 https://t.co/HwaBTgetrR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 274,
+          "like_count": 9681,
+          "listed_count": 3,
+          "media_count": 104,
+          "tweet_count": 3848
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-02T23:24:04.000Z",
+        "description": "Capital Institute of Pediatric｜Cosplayer｜Tourette's Syndrome｜CFA＆MD｜SP500 ETF Trading Analyst",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@MiikeHaruka",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@MiikeHaruka",
+                "start": 0,
+                "url": "https://t.co/11RmQkG0FP"
+              }
+            ]
+          }
+        },
+        "id": "1278831792540139523",
+        "location": "Yabao Road, Beijing, China",
+        "name": "❀雲堇はるか❀",
+        "pinned_tweet_id": "1918768838596055278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923486647221616646/jewlxugo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3229,
+          "following_count": 377,
+          "like_count": 27898,
+          "listed_count": 8,
+          "media_count": 9077,
+          "tweet_count": 39655
+        },
+        "url": "https://t.co/11RmQkG0FP",
+        "username": "miike_hrk",
+        "verified": false
+      }
+    ]
+  }
+}

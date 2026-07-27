@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2043279336124653945",
+    "created_at": "2026-04-12T20:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T21:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043433861925704057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043433861925704057",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043279336124653945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 这是什么😵‍💫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2043279336124653945",
+        "created_at": "2026-04-12T20:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T21:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043433861925704057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043433861925704057",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043279336124653945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 这是什么😵‍💫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2043279336124653945",
+        "created_at": "2026-04-12T10:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043279336124653945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xkajon/status/…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/xkajon/status/2043266195391139937",
+              "start": 145,
+              "url": "https://t.co/pcpLNVq2UX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043279336124653945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "好吧好吧，那環状線就不论「在美国开怀俄明州开空壳公司」一事了。\n那么，既然「在美国开怀俄明州开空壳公司」的最终目的是订阅 Claude ，那環状線且问您：\n「其他条件相同，美区 Apple 账户订阅 Claude 服务被封的概率大还是用一个美国怀俄明州空壳公司的银行卡支付被封的概率大？」\n（叠甲：您在您这条推文末明确提到「那就继续窝在墙里用那随时被封的外区Apple ID提心吊胆去吧」，在文章开头也提到「我身边用 Claude 最稳的那批人……」，所以環状線问您这个问题并不算「转移话题」）\n很显然，是「一个美国怀俄明州空壳公司的银行卡支付被封的概率大」。原因如下：\nClaude 的直接订阅走的是 Stripe，对支付细节、账单地址、卡片类型和地理信号检查非常严格。空壳公司（尤其是「Wyoming LLC」，既然您都知道可以低成本在怀俄明州开空壳公司非常容易，Stripe 和 Anthropic 能不知道这一点？）容易触发「高风险支付」或「实体不一致」的 flag。更何况 Anthropic 于 2025 年加强了对「中国通过在其他国家注册公司以访问 Anthropic 服务」的打击，即使 Wyoming LLC 合法，如果检测到所有权或使用模式异常，也可能被视为违反条例而遭到封禁。\nAnthropic 虽然不知道您的公司叫什么名称，但知道您公司的 billing address ，知道您用的这张卡是「business card」，知道您大致的历史支付行为。如果您的 IP 和 billing address 严重不匹配，或者怀疑您的支付行为根本不像一个真实公司，那 Anthropic 会不会封禁您的账号呢？好难猜啊。\nApp Store 内购则由 Apple 处理，Apple 不直接暴露您的真实银行信息给 Anthropic ，也就是说 Anthropic 不会知道您的 Apple 账户绑定的是什么银行卡，不会知道您到底用的是绑定 Apple 账户的银行卡支付还是用的礼品卡余额，Anthropic 只收到 Apple 发送的“订阅已激活/续订成功”的通知（receipt），以及必要的订阅状态信息（如计划类型、到期时间、billingType 显示为 \"apple_subscription\"）。除非您用的 Apple 账户是新注册的或者 IP 有问题，否则 Anthropic 不会因为您用美区 Apple 账户订阅就封禁您的帐号。\n所以如果只是为了订阅 Claude ，真没必要花 85 USD 开空壳公司再通过这个公司开的卡订阅 Claude ，风险反而比美区 Apple 账户高。\n另外您似乎完全没有提到您开的公司是「空壳公司」呢，但是，「没有或只有名义上的业务运营、没有或极少资产、没有或极少员工、没有实际收入或流水的公司」就是「空壳公司」。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4221,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043266195391139937",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好吧好吧，那環状線就不论「在美国开怀俄明州开空壳公司」一事了。\n那么，既然「在美国开怀俄明州开空壳公司」的最终目的是订阅 Claude ，那環状線且问您：\n「其他条件相同，美区 Apple 账户订阅 Claude 服务被封的概率大还是用一个美国怀俄明州空壳公司的银行卡支付被封的概率大？」 https://t.co/pcpLNVq2UX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2875,
+          "following_count": 795,
+          "like_count": 51956,
+          "listed_count": 5,
+          "media_count": 151,
+          "tweet_count": 4333
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 和宝宝@HoroyoiBerry 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n详细简介：https://t.co/Pn7jwkMBvH\n回fo标准：https://t.co/em6r0Bcd7P\n里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "HoroyoiBerry"
+              },
+              {
+                "end": 162,
+                "start": 148,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 114,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 91,
+                "url": "https://t.co/Pn7jwkMBvH"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 144,
+                "expanded_url": "http://kanjousen.com/fo-block",
+                "start": 121,
+                "url": "https://t.co/em6r0Bcd7P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2043213232698196203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 421,
+          "like_count": 12422,
+          "listed_count": 4,
+          "media_count": 820,
+          "tweet_count": 4316
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

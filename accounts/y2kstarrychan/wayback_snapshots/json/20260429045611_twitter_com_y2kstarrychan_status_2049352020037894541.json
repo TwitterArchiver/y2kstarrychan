@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2049066657268502799",
+    "created_at": "2026-04-29T04:56:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T05:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049352020037894541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1993455710274043905",
+          "start": 0,
+          "username": "satireorcry1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049352020037894541",
+    "in_reply_to_user_id": "1993455710274043905",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049066657268502799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@satireorcry1 （吸铁石"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2049066640579706880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-_QNDbQAAG-8R.jpg",
+        "width": 928
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2049066640588046338",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-_QNFagAISuid.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2049066657268502799",
+        "created_at": "2026-04-29T04:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T05:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049352020037894541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1993455710274043905",
+              "start": 0,
+              "username": "satireorcry1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049352020037894541",
+        "in_reply_to_user_id": "1993455710274043905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049066657268502799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satireorcry1 （吸铁石"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049066640579706880",
+            "3_2049066640588046338"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "conversation_id": "2049066657268502799",
+        "created_at": "2026-04-28T10:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049066657268502799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kJ4MPAjbd1",
+              "end": 54,
+              "expanded_url": "https://x.com/satireorcry1/status/2049066657268502799/photo/1",
+              "media_key": "3_2049066640579706880",
+              "start": 31,
+              "url": "https://t.co/kJ4MPAjbd1"
+            },
+            {
+              "display_url": "pic.x.com/kJ4MPAjbd1",
+              "end": 54,
+              "expanded_url": "https://x.com/satireorcry1/status/2049066657268502799/photo/1",
+              "media_key": "3_2049066640588046338",
+              "start": 31,
+              "url": "https://t.co/kJ4MPAjbd1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049066657268502799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 764201,
+          "like_count": 448,
+          "quote_count": 0,
+          "reply_count": 232,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "这是谁的猛将？\n看上去最少带了 4 个妹\n来了一次世界大战￼ https://t.co/kJ4MPAjbd1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2963,
+          "following_count": 819,
+          "like_count": 53442,
+          "listed_count": 5,
+          "media_count": 155,
+          "tweet_count": 4397
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvofvi1"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23821,
+          "following_count": 1563,
+          "like_count": 14207,
+          "listed_count": 54,
+          "media_count": 2854,
+          "tweet_count": 4242
+        },
+        "url": "https://t.co/EYxWvofvi1",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

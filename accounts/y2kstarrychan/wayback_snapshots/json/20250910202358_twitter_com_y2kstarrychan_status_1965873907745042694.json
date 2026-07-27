@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965873901369524225"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1965873907745042694",
+    "created_at": "2025-09-10T20:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T21:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965873907745042694"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S8SCPisABp",
+          "end": 34,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1965873907745042694/photo/1",
+          "media_key": "3_1965873901369524225",
+          "start": 11,
+          "url": "https://t.co/S8SCPisABp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965873907745042694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "reply_settings": "everyone",
+    "text": "请问这是白色恐怖吗？ https://t.co/S8SCPisABp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1820,
+        "media_key": "3_1965873901369524225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0gv5cxXgAEihiN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965873901369524225"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1965873907745042694",
+        "created_at": "2025-09-10T20:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T21:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965873907745042694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S8SCPisABp",
+              "end": 34,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1965873907745042694/photo/1",
+              "media_key": "3_1965873901369524225",
+              "start": 11,
+              "url": "https://t.co/S8SCPisABp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965873907745042694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "请问这是白色恐怖吗？ https://t.co/S8SCPisABp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2775,
+          "following_count": 432,
+          "like_count": 33948,
+          "listed_count": 5,
+          "media_count": 126,
+          "tweet_count": 3986
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

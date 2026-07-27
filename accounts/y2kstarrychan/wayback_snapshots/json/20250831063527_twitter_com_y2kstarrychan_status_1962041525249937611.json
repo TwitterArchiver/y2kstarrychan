@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962009867301826560"
+      ],
+      "media_source_tweet_id": [
+        "1962009872649671063"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1962041525249937611",
+    "created_at": "2025-08-31T06:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T07:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962041525249937611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3244048580",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V0DSOkQoqA",
+          "end": 56,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1962009872649671063/photo/1",
+          "media_key": "3_1962009867301826560",
+          "start": 33,
+          "url": "https://t.co/V0DSOkQoqA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962041525249937611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962009872649671063",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: 不要害我们看不了MYGO😨 https://t.co/V0DSOkQoqA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3592,
+        "media_key": "3_1962009867301826560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzp1lEJWMAA9cNT.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962009867301826560"
+          ],
+          "media_source_tweet_id": [
+            "1962009872649671063"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1962041525249937611",
+        "created_at": "2025-08-31T06:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T07:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962041525249937611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3244048580",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V0DSOkQoqA",
+              "end": 56,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1962009872649671063/photo/1",
+              "media_key": "3_1962009867301826560",
+              "start": 33,
+              "url": "https://t.co/V0DSOkQoqA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962041525249937611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962009872649671063",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: 不要害我们看不了MYGO😨 https://t.co/V0DSOkQoqA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962009867301826560"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1962009872649671063",
+        "created_at": "2025-08-31T04:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T05:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962009872649671063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V0DSOkQoqA",
+              "end": 37,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1962009872649671063/photo/1",
+              "media_key": "3_1962009867301826560",
+              "start": 14,
+              "url": "https://t.co/V0DSOkQoqA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962009872649671063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 169,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不要害我们看不了MYGO😨 https://t.co/V0DSOkQoqA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星老师不是你老师",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2288,
+          "following_count": 414,
+          "like_count": 29933,
+          "listed_count": 5,
+          "media_count": 123,
+          "tweet_count": 3970
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

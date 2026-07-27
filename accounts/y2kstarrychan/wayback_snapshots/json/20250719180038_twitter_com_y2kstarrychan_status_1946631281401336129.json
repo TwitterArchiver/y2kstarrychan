@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943150827704582147"
+      ],
+      "media_source_tweet_id": [
+        "1943150832322572395"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1946631281401336129",
+    "created_at": "2025-07-19T18:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T19:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946631281401336129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3244048580",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zvoy9C0Obr",
+          "end": 57,
+          "expanded_url": "https://x.com/xinglijiang_/status/1943150832322572395/photo/1",
+          "media_key": "3_1943150827704582147",
+          "start": 34,
+          "url": "https://t.co/zvoy9C0Obr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946631281401336129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943150832322572395",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: 我穿这条裙子需要注意什么吗？ https://t.co/zvoy9C0Obr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1943150827704582147",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvd1Ye5WgAMGldX.jpg",
+        "width": 4082
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943150827704582147"
+          ],
+          "media_source_tweet_id": [
+            "1943150832322572395"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1946631281401336129",
+        "created_at": "2025-07-19T18:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T19:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946631281401336129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3244048580",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zvoy9C0Obr",
+              "end": 57,
+              "expanded_url": "https://x.com/xinglijiang_/status/1943150832322572395/photo/1",
+              "media_key": "3_1943150827704582147",
+              "start": 34,
+              "url": "https://t.co/zvoy9C0Obr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946631281401336129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943150832322572395",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: 我穿这条裙子需要注意什么吗？ https://t.co/zvoy9C0Obr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943150827704582147"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1943150832322572395",
+        "created_at": "2025-07-10T03:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T04:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943150832322572395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zvoy9C0Obr",
+              "end": 38,
+              "expanded_url": "https://x.com/xinglijiang_/status/1943150832322572395/photo/1",
+              "media_key": "3_1943150827704582147",
+              "start": 15,
+              "url": "https://t.co/zvoy9C0Obr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943150832322572395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 228829,
+          "like_count": 2013,
+          "quote_count": 5,
+          "reply_count": 252,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "我穿这条裙子需要注意什么吗？ https://t.co/zvoy9C0Obr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1346,
+          "following_count": 246,
+          "like_count": 6998,
+          "listed_count": 3,
+          "media_count": 100,
+          "tweet_count": 3822
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

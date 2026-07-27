@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2007532413761781769",
+    "created_at": "2026-01-04T07:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T08:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007711009201631568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "884761413725630465",
+          "start": 0,
+          "username": "cometwtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007711009201631568",
+    "in_reply_to_user_id": "884761413725630465",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007532413761781769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cometwtf 👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 232,
+        "media_key": "3_2007314040272392192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9tpfAMXEAAwAqc.png",
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2007532413761781769",
+        "created_at": "2026-01-04T07:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T08:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007711009201631568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "884761413725630465",
+              "start": 0,
+              "username": "cometwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007711009201631568",
+        "in_reply_to_user_id": "884761413725630465",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007532413761781769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cometwtf 👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007314040272392192"
+          ]
+        },
+        "author_id": "884761413725630465",
+        "conversation_id": "2007532413761781769",
+        "created_at": "2026-01-03T19:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T20:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007532413761781769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5wBShgJriS",
+              "end": 76,
+              "expanded_url": "https://x.com/cometwtf/status/2007532413761781769/photo/1",
+              "media_key": "3_2007314040272392192",
+              "start": 53,
+              "url": "https://t.co/5wBShgJriS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007532413761781769",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 91112,
+          "like_count": 1852,
+          "quote_count": 9,
+          "reply_count": 2311,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "I'm a man of my word\n\nIf you reply, I'll follow you. https://t.co/5wBShgJriS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997887294787796992/LkclvzQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2986,
+          "following_count": 673,
+          "like_count": 46696,
+          "listed_count": 5,
+          "media_count": 152,
+          "tweet_count": 4198
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-11T13:08:53.000Z",
+        "description": "Built 1M+ Follower TikTok Brand | Digital Asset Markets & Research | @UNC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 69,
+                "username": "UNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/cometwtf",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/cometwtf",
+                "start": 0,
+                "url": "https://t.co/d5bVNMm5cN"
+              }
+            ]
+          }
+        },
+        "id": "884761413725630465",
+        "location": "let's talk ➔",
+        "name": "Comet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962736868602130433/ofZW5i01_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156355,
+          "following_count": 11759,
+          "like_count": 3374996,
+          "listed_count": 490,
+          "media_count": 1621,
+          "tweet_count": 101720
+        },
+        "url": "https://t.co/d5bVNMm5cN",
+        "username": "cometwtf",
+        "verified": true
+      }
+    ]
+  }
+}

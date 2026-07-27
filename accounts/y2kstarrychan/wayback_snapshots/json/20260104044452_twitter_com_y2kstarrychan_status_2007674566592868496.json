@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2007634124677496888",
+    "created_at": "2026-01-04T04:44:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T05:44:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007674566592868496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1680179140065112069",
+          "start": 0,
+          "username": "Aifa_agent"
+        },
+        {
+          "end": 25,
+          "id": "1800012395454341120",
+          "start": 12,
+          "username": "VLiXiang5699"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007674566592868496",
+    "in_reply_to_user_id": "1680179140065112069",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007646376088494249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aifa_agent @VLiXiang5699 求回关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2007634124677496888",
+        "created_at": "2026-01-04T04:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T05:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007674566592868496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1680179140065112069",
+              "start": 0,
+              "username": "Aifa_agent"
+            },
+            {
+              "end": 25,
+              "id": "1800012395454341120",
+              "start": 12,
+              "username": "VLiXiang5699"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007674566592868496",
+        "in_reply_to_user_id": "1680179140065112069",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007646376088494249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aifa_agent @VLiXiang5699 求回关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680179140065112069",
+        "conversation_id": "2007634124677496888",
+        "created_at": "2026-01-04T02:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T03:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007646376088494249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1800012395454341120",
+              "start": 0,
+              "username": "VLiXiang5699"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007646376088494249",
+        "in_reply_to_user_id": "1800012395454341120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007634124677496888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VLiXiang5699 同样是新人，求回关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997887294787796992/LkclvzQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2966,
+          "following_count": 657,
+          "like_count": 46645,
+          "listed_count": 5,
+          "media_count": 153,
+          "tweet_count": 4192
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T11:35:33.000Z",
+        "description": "分享更多的金狗信息！ GMGN:https://t.co/TBVdkj4LgD\nASTRE:https://t.co/LSfEVxK2Xz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gmgn.ai/r/ED25flE8?cha…",
+                "end": 39,
+                "expanded_url": "https://gmgn.ai/r/ED25flE8?chain=bsc",
+                "start": 16,
+                "url": "https://t.co/TBVdkj4LgD"
+              },
+              {
+                "display_url": "asterdex.com/zh-CN/referral…",
+                "end": 69,
+                "expanded_url": "https://www.asterdex.com/zh-CN/referral/812811",
+                "start": 46,
+                "url": "https://t.co/LSfEVxK2Xz"
+              }
+            ]
+          }
+        },
+        "id": "1680179140065112069",
+        "location": "Mars, PA",
+        "name": "奥特慢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989602288957362179/K70lyx7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 415,
+          "like_count": 418,
+          "listed_count": 1,
+          "media_count": 354,
+          "tweet_count": 2136
+        },
+        "username": "Aifa_agent",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-10T03:49:49.000Z",
+        "description": "1️⃣22年大一做抖音带货跟抖音Ip，账号5个月涨粉二十万 2️⃣23大二做校园撸货，年流水500万 3️⃣24年大三做打粉，单日最高引流1000+ 4️⃣25年大四做web3空投，创办了web3空投社群，带领100+大学生月入5000-10000      now正在寻找2026风口，并且想做一个有灵魂的创业者 ！",
+        "id": "1800012395454341120",
+        "location": "广州",
+        "name": "爱理财的小梁",
+        "pinned_tweet_id": "2006639431474880656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006279253667766275/3dKecmTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 446,
+          "like_count": 328,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 448
+        },
+        "username": "VLiXiang5699",
+        "verified": true
+      }
+    ]
+  }
+}

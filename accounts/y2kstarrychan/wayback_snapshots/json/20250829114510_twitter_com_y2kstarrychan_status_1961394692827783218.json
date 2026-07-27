@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1961383664165749137",
+    "created_at": "2025-08-29T11:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T12:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961394692827783218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1304953938320306176",
+          "start": 0,
+          "username": "hry_xsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961394692827783218",
+    "in_reply_to_user_id": "1304953938320306176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961383664165749137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hry_xsu 美国大趋势（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1961383660961382400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzg8DDvbwAAU6n6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1961383664165749137",
+        "created_at": "2025-08-29T11:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T12:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961394692827783218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1304953938320306176",
+              "start": 0,
+              "username": "hry_xsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961394692827783218",
+        "in_reply_to_user_id": "1304953938320306176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961383664165749137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hry_xsu 美国大趋势（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961383660961382400"
+          ]
+        },
+        "author_id": "1304953938320306176",
+        "conversation_id": "1961383664165749137",
+        "created_at": "2025-08-29T11:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T12:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961383664165749137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l9iug7IhLh",
+              "end": 55,
+              "expanded_url": "https://x.com/hry_xsu/status/1961383664165749137/photo/1",
+              "media_key": "3_1961383660961382400",
+              "start": 32,
+              "url": "https://t.co/l9iug7IhLh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961383664165749137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我亲爱的asus工程师们，\n你们的bios没有验收检查环节吗？ https://t.co/l9iug7IhLh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2268,
+          "following_count": 403,
+          "like_count": 29040,
+          "listed_count": 5,
+          "media_count": 121,
+          "tweet_count": 3968
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-13T01:24:17.000Z",
+        "description": "That's ra or Harry (not xsu!)\nen&zh | 笔电爱好者💻 | 不含糖 | 女装 | 情绪周期性生物 | 随机发疯（我尽量克制…\nrbq:@y2kstarrychan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 84,
+                "username": "y2kstarrychan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mars.galaxy.gov",
+                "end": 23,
+                "expanded_url": "https://www.mars.galaxy.gov",
+                "start": 0,
+                "url": "https://t.co/8Lai8y8dCE"
+              }
+            ]
+          }
+        },
+        "id": "1304953938320306176",
+        "location": "Mars,Galaxy,Universe",
+        "name": "xsu_Harryyy",
+        "pinned_tweet_id": "1932047209467421162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930993557583601664/LRhgXbng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 220,
+          "like_count": 41835,
+          "listed_count": 5,
+          "media_count": 140,
+          "tweet_count": 2575
+        },
+        "url": "https://t.co/8Lai8y8dCE",
+        "username": "hry_xsu",
+        "verified": false
+      }
+    ]
+  }
+}

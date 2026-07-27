@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1993807125580283964",
+    "created_at": "2025-11-27T07:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T08:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993939675245863326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "800066622",
+          "start": 0,
+          "username": "anngurich"
+        },
+        {
+          "end": 20,
+          "id": "1790370144755351552",
+          "start": 11,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993939675245863326",
+    "in_reply_to_user_id": "800066622",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993807125580283964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anngurich @FurinaDF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1993807117501784064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ttAn1W4AA8I3M.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1993807117501763584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ttAn1WkAAX71K.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1993807117506035712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ttAn2XwAALEwt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1993807117501751296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ttAn1WYAA4RMd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1993807125580283964",
+        "created_at": "2025-11-27T07:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993939675245863326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "800066622",
+              "start": 0,
+              "username": "anngurich"
+            },
+            {
+              "end": 20,
+              "id": "1790370144755351552",
+              "start": 11,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993939675245863326",
+        "in_reply_to_user_id": "800066622",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993807125580283964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anngurich @FurinaDF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993807117501784064",
+            "3_1993807117501763584",
+            "3_1993807117506035712",
+            "3_1993807117501751296"
+          ]
+        },
+        "author_id": "800066622",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993807125580283964",
+        "created_at": "2025-11-26T22:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T23:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993807125580283964"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "Furina",
+              "probability": 0.641,
+              "start": 10,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T0VKIrZscR",
+              "end": 40,
+              "expanded_url": "https://x.com/anngurich/status/1993807125580283964/photo/1",
+              "media_key": "3_1993807117501784064",
+              "start": 17,
+              "url": "https://t.co/T0VKIrZscR"
+            },
+            {
+              "display_url": "pic.x.com/T0VKIrZscR",
+              "end": 40,
+              "expanded_url": "https://x.com/anngurich/status/1993807125580283964/photo/1",
+              "media_key": "3_1993807117501763584",
+              "start": 17,
+              "url": "https://t.co/T0VKIrZscR"
+            },
+            {
+              "display_url": "pic.x.com/T0VKIrZscR",
+              "end": 40,
+              "expanded_url": "https://x.com/anngurich/status/1993807125580283964/photo/1",
+              "media_key": "3_1993807117506035712",
+              "start": 17,
+              "url": "https://t.co/T0VKIrZscR"
+            },
+            {
+              "display_url": "pic.x.com/T0VKIrZscR",
+              "end": 40,
+              "expanded_url": "https://x.com/anngurich/status/1993807125580283964/photo/1",
+              "media_key": "3_1993807117501751296",
+              "start": 17,
+              "url": "https://t.co/T0VKIrZscR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993807125580283964",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 14374,
+          "like_count": 734,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "Different Furina https://t.co/T0VKIrZscR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2888,
+          "following_count": 548,
+          "like_count": 42190,
+          "listed_count": 5,
+          "media_count": 139,
+          "tweet_count": 4043
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2012-09-03T09:56:18.000Z",
+        "description": "🔞 on https://t.co/2QThrZUqgf • Pixiv: https://t.co/jeDVD80bVj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/Gayuchi",
+                "end": 28,
+                "expanded_url": "https://www.patreon.com/Gayuchi",
+                "start": 5,
+                "url": "https://t.co/2QThrZUqgf"
+              },
+              {
+                "display_url": "pixiv.net/users/98732986",
+                "end": 61,
+                "expanded_url": "https://www.pixiv.net/users/98732986",
+                "start": 38,
+                "url": "https://t.co/jeDVD80bVj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/yQ4DhFaqkp",
+                "end": 23,
+                "expanded_url": "https://discord.gg/yQ4DhFaqkp",
+                "start": 0,
+                "url": "https://t.co/kNn6JkGO9k"
+              }
+            ]
+          }
+        },
+        "id": "800066622",
+        "name": "Gayuchi",
+        "pinned_tweet_id": "1993807125580283964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986904276375851008/X3b38nog_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154089,
+          "following_count": 79,
+          "like_count": 3664,
+          "listed_count": 446,
+          "media_count": 400,
+          "tweet_count": 1532
+        },
+        "url": "https://t.co/kNn6JkGO9k",
+        "username": "anngurich",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "你好呀@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLjhg"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "Oregon",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62996,
+          "following_count": 2369,
+          "like_count": 29952,
+          "listed_count": 177,
+          "media_count": 7774,
+          "tweet_count": 12401
+        },
+        "url": "https://t.co/69nE3RLjhg",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

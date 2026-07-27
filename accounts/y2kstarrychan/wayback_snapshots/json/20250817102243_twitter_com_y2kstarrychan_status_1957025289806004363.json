@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957025286781882369"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1957025289806004363",
+    "created_at": "2025-08-17T10:22:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T11:22:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957025289806004363"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CMyCsbX8MF",
+          "end": 31,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1957025289806004363/photo/1",
+          "media_key": "3_1957025286781882369",
+          "start": 8,
+          "url": "https://t.co/CMyCsbX8MF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957025289806004363",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "reply_settings": "everyone",
+    "text": "小男娘听话胶囊 https://t.co/CMyCsbX8MF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2980,
+        "media_key": "3_1957025286781882369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyjAISsXUAEgXzh.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957025286781882369"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1957025289806004363",
+        "created_at": "2025-08-17T10:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T11:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957025289806004363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CMyCsbX8MF",
+              "end": 31,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1957025289806004363/photo/1",
+              "media_key": "3_1957025286781882369",
+              "start": 8,
+              "url": "https://t.co/CMyCsbX8MF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957025289806004363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小男娘听话胶囊 https://t.co/CMyCsbX8MF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 353,
+          "like_count": 23062,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 3934
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1982598941339476171",
+    "created_at": "2025-10-27T02:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T03:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982635876606984500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1278831792540139523",
+          "start": 0,
+          "username": "miike_hrk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982635876606984500",
+    "in_reply_to_user_id": "1278831792540139523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982598941339476171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miike_hrk 好奇這是誰（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982598916399824896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ObNdAWAAAO4Wc.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1982598916102033408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ObNb5WEAAzAQ9.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1982598916555046912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ObNdlWgAA0oWw.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1982598916768940032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ObNeYWQAADMyO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1982598941339476171",
+        "created_at": "2025-10-27T02:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T03:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982635876606984500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1278831792540139523",
+              "start": 0,
+              "username": "miike_hrk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982635876606984500",
+        "in_reply_to_user_id": "1278831792540139523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982598941339476171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miike_hrk 好奇這是誰（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982598916399824896",
+            "3_1982598916102033408",
+            "3_1982598916555046912",
+            "3_1982598916768940032"
+          ]
+        },
+        "author_id": "1278831792540139523",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1982598941339476171",
+        "created_at": "2025-10-27T00:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T01:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982598941339476171"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "神里綾華"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "原神"
+            },
+            {
+              "end": 36,
+              "start": 22,
+              "tag": "GenshinImpact"
+            },
+            {
+              "end": 51,
+              "start": 37,
+              "tag": "kamisatoayaka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MY2EUxtOow",
+              "end": 75,
+              "expanded_url": "https://x.com/miike_hrk/status/1982598941339476171/photo/1",
+              "media_key": "3_1982598916399824896",
+              "start": 52,
+              "url": "https://t.co/MY2EUxtOow"
+            },
+            {
+              "display_url": "pic.x.com/MY2EUxtOow",
+              "end": 75,
+              "expanded_url": "https://x.com/miike_hrk/status/1982598941339476171/photo/1",
+              "media_key": "3_1982598916102033408",
+              "start": 52,
+              "url": "https://t.co/MY2EUxtOow"
+            },
+            {
+              "display_url": "pic.x.com/MY2EUxtOow",
+              "end": 75,
+              "expanded_url": "https://x.com/miike_hrk/status/1982598941339476171/photo/1",
+              "media_key": "3_1982598916555046912",
+              "start": 52,
+              "url": "https://t.co/MY2EUxtOow"
+            },
+            {
+              "display_url": "pic.x.com/MY2EUxtOow",
+              "end": 75,
+              "expanded_url": "https://x.com/miike_hrk/status/1982598941339476171/photo/1",
+              "media_key": "3_1982598916768940032",
+              "start": 52,
+              "url": "https://t.co/MY2EUxtOow"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "1982598941339476171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 115,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "2025神里绫华😻👌🏻\n#神里綾華 #原神 #GenshinImpact #kamisatoayaka https://t.co/MY2EUxtOow"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2867,
+          "following_count": 476,
+          "like_count": 39219,
+          "listed_count": 5,
+          "media_count": 134,
+          "tweet_count": 4009
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-02T23:24:04.000Z",
+        "description": "Security & Banking (China Everbright)｜Cosplayer｜Tourette's Syndrome｜CFA & FRM｜SP500 ETF Trading Analyst",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@MiikeHaruka",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@MiikeHaruka",
+                "start": 0,
+                "url": "https://t.co/11RmQkFsQh"
+              }
+            ]
+          }
+        },
+        "id": "1278831792540139523",
+        "location": "Yabao Road, Beijing, China",
+        "name": "❀雲堇はるか❀",
+        "pinned_tweet_id": "1925877147723333736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923486647221616646/jewlxugo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3269,
+          "following_count": 378,
+          "like_count": 29465,
+          "listed_count": 9,
+          "media_count": 10033,
+          "tweet_count": 41937
+        },
+        "url": "https://t.co/11RmQkFsQh",
+        "username": "miike_hrk",
+        "verified": false
+      }
+    ]
+  }
+}

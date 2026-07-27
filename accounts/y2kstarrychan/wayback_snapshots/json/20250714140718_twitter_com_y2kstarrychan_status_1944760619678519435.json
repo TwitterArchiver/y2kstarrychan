@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1944704045274276091",
+    "created_at": "2025-07-14T14:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T15:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944760619678519435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1557541453253038080",
+          "start": 0,
+          "username": "KawawaDiana8964"
+        },
+        {
+          "end": 33,
+          "id": "1807107145756008448",
+          "start": 17,
+          "username": "KagurazakaAzure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944760619678519435",
+    "in_reply_to_user_id": "1557541453253038080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944704045274276091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawawaDiana8964 @KagurazakaAzure 100分"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2190,
+        "media_key": "3_1944704041944010752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvz6Bc1W0AA50KS.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1944704045274276091",
+        "created_at": "2025-07-14T14:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T15:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944760619678519435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557541453253038080",
+              "start": 0,
+              "username": "KawawaDiana8964"
+            },
+            {
+              "end": 33,
+              "id": "1807107145756008448",
+              "start": 17,
+              "username": "KagurazakaAzure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944760619678519435",
+        "in_reply_to_user_id": "1557541453253038080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944704045274276091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawawaDiana8964 @KagurazakaAzure 100分"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944704041944010752"
+          ]
+        },
+        "author_id": "1557541453253038080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Painting",
+              "id": "847869659957182464",
+              "name": "Painting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Painting",
+              "id": "847869659957182464",
+              "name": "Painting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1944704045274276091",
+        "created_at": "2025-07-14T10:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T11:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944704045274276091"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 44,
+              "tag": "中推名人评分"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 103,
+              "id": "1807107145756008448",
+              "start": 87,
+              "username": "KagurazakaAzure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nvdWsEy6tB",
+              "end": 188,
+              "expanded_url": "https://x.com/KawawaDiana8964/status/1944704045274276091/photo/1",
+              "media_key": "3_1944704041944010752",
+              "start": 165,
+              "url": "https://t.co/nvdWsEy6tB"
+            },
+            {
+              "display_url": "x.com/KawawaDiana896…",
+              "end": 212,
+              "expanded_url": "https://twitter.com/KawawaDiana8964/status/1941034233453334766",
+              "start": 189,
+              "url": "https://t.co/4XvFxeGexj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944704045274276091",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 877,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941034233453334766",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "非常抱歉小蓝来晚了(∩︵∩)，我们继续评分吧\n长话短说，让我们欢迎推评分第一位跨友小翎\n#中推名人评分\n第十八期\nInSightの⛩️まや_翎(。Azure色號の水彩翎.)\n@KagurazakaAzure \n(0-100分)\n欢迎各路推友在评论区打分，并打出打份原因，请尽量避免极端分数，三天后见各位(⭐️ᴗ͈ˬᴗ͈)ꕤ*.ﾟ https://t.co/nvdWsEy6tB https://t.co/4XvFxeGexj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” 及时行乐，享受当下。",
+        "id": "3244048580",
+        "location": "电子设备",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1943846362149531979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 198,
+          "like_count": 3742,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 3814
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-11T01:36:58.000Z",
+        "description": "Name:小蓝/Alan\n简中/English/Español/C/Python\nFriendly except with SB, rac!st,支黑,谣棍\nSUPPORT✊🏻🌹🇵🇸🇺🇦🇨🇳🇺🇸☮️毛 #中推名人评分\n欢迎友好交流(8964=no repost on🇨🇳social media)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 108,
+                "start": 101,
+                "tag": "中推名人评分"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/672328094",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/672328094",
+                "start": 0,
+                "url": "https://t.co/wy2TJmPIIJ"
+              }
+            ]
+          }
+        },
+        "id": "1557541453253038080",
+        "location": "枝江国际-福州分区",
+        "name": "枫糖小蓝🫐 (Di Alan Chan 🌊🐻👊🏻）",
+        "pinned_tweet_id": "1938925243097325889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941423260811603968/BG4MVxMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 429,
+          "like_count": 3362,
+          "listed_count": 2,
+          "media_count": 474,
+          "tweet_count": 1736
+        },
+        "url": "https://t.co/wy2TJmPIIJ",
+        "username": "KawawaDiana8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "⛩️🌊⁉️“洞烛の摩耶” | 避雷概率掉落R18🔞｜líng ｜MtX｜🍥hrt24.4.20｜持证ADHD&ASD｜179cm55kg｜🇬🇧英区留子｜08｜重庆｜入坑半年音游 ｜Arcaea&maimaiでらっくす｜曾列席特朗普马斯克对谈会 ｜买雌二醇找@minokakay｜洞烛@juhao0721❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "minokakay"
+              },
+              {
+                "end": 151,
+                "start": 141,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "「查看更多」里面有自我介绍⬇️",
+        "name": "。InSightの⛩️まや_翎",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941707843977261056/0OzLQ_0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7274,
+          "following_count": 1053,
+          "like_count": 35379,
+          "listed_count": 9,
+          "media_count": 2483,
+          "tweet_count": 19954
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": true
+      }
+    ]
+  }
+}

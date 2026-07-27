@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1966547355873767900",
+    "created_at": "2025-09-14T11:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T12:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967193593581564262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2828212668",
+          "start": 0,
+          "username": "AMAZlNGNATURE"
+        },
+        {
+          "end": 30,
+          "id": "408702956",
+          "start": 15,
+          "username": "niceball_wuwaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967193593581564262",
+    "in_reply_to_user_id": "2828212668",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966547355873767900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AMAZlNGNATURE @niceball_wuwaa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13812,
+        "height": 1024,
+        "media_key": "7_1966547333404827649",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1966547333404827649/pu/img/8nofi6ogyofFYBDN.jpg",
+        "public_metrics": {
+          "view_count": 2953810
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1966547333404827649/pu/vid/avc1/320x568/2BwVIu_IKKYtynYi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1966547333404827649/pu/vid/avc1/480x852/WWG1E8AhDeqPhRaS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1966547333404827649/pu/vid/avc1/576x1024/JB_gEeXslZ1PKmcd.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1966547333404827649/pu/pl/KkWBoEBbUWZHSkqu.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1966547355873767900",
+        "created_at": "2025-09-14T11:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T12:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967193593581564262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2828212668",
+              "start": 0,
+              "username": "AMAZlNGNATURE"
+            },
+            {
+              "end": 30,
+              "id": "408702956",
+              "start": 15,
+              "username": "niceball_wuwaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967193593581564262",
+        "in_reply_to_user_id": "2828212668",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966547355873767900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AMAZlNGNATURE @niceball_wuwaa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1966547333404827649"
+          ]
+        },
+        "author_id": "2828212668",
+        "conversation_id": "1966547355873767900",
+        "created_at": "2025-09-12T17:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T18:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966547355873767900"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "Capybara",
+              "probability": 0.4554,
+              "start": 37,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R1HqykRzXh",
+              "end": 69,
+              "expanded_url": "https://x.com/AMAZlNGNATURE/status/1966547355873767900/video/1",
+              "media_key": "7_1966547333404827649",
+              "start": 46,
+              "url": "https://t.co/R1HqykRzXh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966547355873767900",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23269,
+          "impression_count": 5866938,
+          "like_count": 272836,
+          "quote_count": 2350,
+          "reply_count": 1594,
+          "retweet_count": 37251
+        },
+        "reply_settings": "everyone",
+        "text": "I just want everyone to look at this Capybara https://t.co/R1HqykRzXh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2769,
+          "following_count": 442,
+          "like_count": 34836,
+          "listed_count": 5,
+          "media_count": 127,
+          "tweet_count": 3987
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2014-09-23T15:27:26.000Z",
+        "description": "Animals 🐿️ Nature 🦋 Discovery 🦖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/amazlng.nature",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/amazlng.nature",
+                "start": 0,
+                "url": "https://t.co/eLQP37nHde"
+              }
+            ]
+          }
+        },
+        "id": "2828212668",
+        "location": "🌍",
+        "name": "Nature is Amazing ☘️",
+        "pinned_tweet_id": "1917939518000210352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/992795937574604802/FMGk7GZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6197213,
+          "following_count": 48,
+          "like_count": 1367,
+          "listed_count": 11482,
+          "media_count": 22160,
+          "tweet_count": 23734
+        },
+        "url": "https://t.co/eLQP37nHde",
+        "username": "AMAZlNGNATURE",
+        "verified": true
+      },
+      {
+        "created_at": "2011-11-09T19:40:59.000Z",
+        "description": "间歇存在 持续虚无 雄性萌豚 术力口厨 车万小鬼 舞萌废人 主动离职 收入为零 微博难民 点赞狂魔 菜逼码农 本科废物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vicooci.com",
+                "end": 23,
+                "expanded_url": "https://www.vicooci.com/",
+                "start": 0,
+                "url": "https://t.co/bgFcMSlPUn"
+              }
+            ]
+          }
+        },
+        "id": "408702956",
+        "location": "Toronto, Ontario",
+        "name": "王萌豚",
+        "pinned_tweet_id": "1960881970935947554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888338555484684288/8oc2KYdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7710,
+          "following_count": 1779,
+          "like_count": 380179,
+          "listed_count": 37,
+          "media_count": 5066,
+          "tweet_count": 64124
+        },
+        "url": "https://t.co/bgFcMSlPUn",
+        "username": "niceball_wuwaa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953626214238949376",
+        "3_1953626214062862336",
+        "3_1953626214146748416"
+      ],
+      "media_source_tweet_id": [
+        "1953626222275252466",
+        "1953626222275252466",
+        "1953626222275252466"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1953627065875415449",
+    "created_at": "2025-08-08T01:19:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T02:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953627065875415449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1908668668919398400",
+          "start": 3,
+          "username": "Kazumasski"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VjGD7Eyo2B",
+          "end": 99,
+          "expanded_url": "https://x.com/Kazumasski/status/1953626222275252466/photo/1",
+          "media_key": "3_1953626214238949376",
+          "start": 76,
+          "url": "https://t.co/VjGD7Eyo2B"
+        },
+        {
+          "display_url": "pic.x.com/VjGD7Eyo2B",
+          "end": 99,
+          "expanded_url": "https://x.com/Kazumasski/status/1953626222275252466/photo/1",
+          "media_key": "3_1953626214062862336",
+          "start": 76,
+          "url": "https://t.co/VjGD7Eyo2B"
+        },
+        {
+          "display_url": "pic.x.com/VjGD7Eyo2B",
+          "end": 99,
+          "expanded_url": "https://x.com/Kazumasski/status/1953626222275252466/photo/1",
+          "media_key": "3_1953626214146748416",
+          "start": 76,
+          "url": "https://t.co/VjGD7Eyo2B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953627065875415449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953626222275252466",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Kazumasski: ［請轉發］\n各位、早上好。\n最近，已在之前幾個月中被瘋狂傳播的「Instagram鏈接病毒」最近又開始「死而復生」。… https://t.co/VjGD7Eyo2B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1299,
+        "media_key": "3_1953626214238949376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxyssOuakAACy9v.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1336,
+        "media_key": "3_1953626214062862336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxyssOEbsAAcFNd.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2051,
+        "media_key": "3_1953626214146748416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxyssOYbsAAJWZw.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953626214238949376",
+            "3_1953626214062862336",
+            "3_1953626214146748416"
+          ],
+          "media_source_tweet_id": [
+            "1953626222275252466",
+            "1953626222275252466",
+            "1953626222275252466"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1953627065875415449",
+        "created_at": "2025-08-08T01:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T02:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953627065875415449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1908668668919398400",
+              "start": 3,
+              "username": "Kazumasski"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VjGD7Eyo2B",
+              "end": 99,
+              "expanded_url": "https://x.com/Kazumasski/status/1953626222275252466/photo/1",
+              "media_key": "3_1953626214238949376",
+              "start": 76,
+              "url": "https://t.co/VjGD7Eyo2B"
+            },
+            {
+              "display_url": "pic.x.com/VjGD7Eyo2B",
+              "end": 99,
+              "expanded_url": "https://x.com/Kazumasski/status/1953626222275252466/photo/1",
+              "media_key": "3_1953626214062862336",
+              "start": 76,
+              "url": "https://t.co/VjGD7Eyo2B"
+            },
+            {
+              "display_url": "pic.x.com/VjGD7Eyo2B",
+              "end": 99,
+              "expanded_url": "https://x.com/Kazumasski/status/1953626222275252466/photo/1",
+              "media_key": "3_1953626214146748416",
+              "start": 76,
+              "url": "https://t.co/VjGD7Eyo2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953627065875415449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953626222275252466",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Kazumasski: ［請轉發］\n各位、早上好。\n最近，已在之前幾個月中被瘋狂傳播的「Instagram鏈接病毒」最近又開始「死而復生」。… https://t.co/VjGD7Eyo2B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953626214238949376",
+            "3_1953626214062862336",
+            "3_1953626214146748416"
+          ]
+        },
+        "author_id": "1908668668919398400",
+        "conversation_id": "1953626222275252466",
+        "created_at": "2025-08-08T01:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T02:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953626222275252466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VjGD7Eyo2B",
+              "end": 82,
+              "expanded_url": "https://x.com/Kazumasski/status/1953626222275252466/photo/1",
+              "media_key": "3_1953626214238949376",
+              "start": 59,
+              "url": "https://t.co/VjGD7Eyo2B"
+            },
+            {
+              "display_url": "pic.x.com/VjGD7Eyo2B",
+              "end": 82,
+              "expanded_url": "https://x.com/Kazumasski/status/1953626222275252466/photo/1",
+              "media_key": "3_1953626214062862336",
+              "start": 59,
+              "url": "https://t.co/VjGD7Eyo2B"
+            },
+            {
+              "display_url": "pic.x.com/VjGD7Eyo2B",
+              "end": 82,
+              "expanded_url": "https://x.com/Kazumasski/status/1953626222275252466/photo/1",
+              "media_key": "3_1953626214146748416",
+              "start": 59,
+              "url": "https://t.co/VjGD7Eyo2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953626222275252466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "I.instagram.com",
+                "end": 96,
+                "expanded_url": "http://I.instagram.com",
+                "start": 73,
+                "url": "https://t.co/WXIEgD5O4T"
+              },
+              {
+                "display_url": "i.Instagram.com",
+                "end": 346,
+                "expanded_url": "http://i.Instagram.com",
+                "start": 323,
+                "url": "https://t.co/VIullgwD1P"
+              }
+            ]
+          },
+          "text": "［請轉發］\n各位、早上好。\n最近，已在之前幾個月中被瘋狂傳播的「Instagram鏈接病毒」最近又開始「死而復生」。\n敬請各位注意：請不要點擊以「https://t.co/WXIEgD5O4T」為首的可疑鏈接；若已點擊，請勿填寫任何個人信息；若已填寫個人信息，請盡快更改自己在推特上的密碼、必要時可更改用戶名。請盡早設置Passkey或認證碼等雙重驗證方式。使用Apple設備的各位可以在手機內部的搜索欄中搜索「密碼」這一App，並在推特的設置界面選擇「Security and account access」→「Security」→「passkey」來創建Passkey保護您的帳戶。您也可通過創建認證碼來保護您的帳戶。再次重申，請不要點擊以「https://t.co/VIullgwD1P」為首的任何鏈接。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "following",
+        "text": "［請轉發］\n各位、早上好。\n最近，已在之前幾個月中被瘋狂傳播的「Instagram鏈接病毒」最近又開始「死而復生」。 https://t.co/VjGD7Eyo2B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1871,
+          "following_count": 335,
+          "like_count": 18037,
+          "listed_count": 3,
+          "media_count": 110,
+          "tweet_count": 3885
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-05T23:50:54.000Z",
+        "description": "佐々木 和真と申します｜インターネットの天使｜音ゲーマー｜13歳中2生｜あの人@chaox1220_2nd｜金金金金｜陰キャ｜サブ垢@hhaaiibot 音ゲー垢@bblloocckk_｜メール✉️:sashisusesoowo@hotmail.com ｜よろしく申し上げます。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "chaox1220_2nd"
+              },
+              {
+                "end": 76,
+                "start": 66,
+                "username": "hhaaiibot"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "bblloocckk_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/LGVx6lg06J"
+              }
+            ]
+          }
+        },
+        "id": "1908668668919398400",
+        "location": "金金金金",
+        "name": "朽木牌手机9.9元包邮 🏳️‍🌈 @赖床单推人",
+        "pinned_tweet_id": "1952324132558995762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953261706488233984/QwOOzoh-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 3249,
+          "like_count": 2802,
+          "listed_count": 1,
+          "media_count": 706,
+          "tweet_count": 3792
+        },
+        "url": "https://t.co/LGVx6lg06J",
+        "username": "Kazumasski",
+        "verified": true
+      }
+    ]
+  }
+}

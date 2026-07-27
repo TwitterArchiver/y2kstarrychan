@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1988231465235329260",
+    "created_at": "2025-11-12T05:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T06:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988482692892045816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1797952742918586368",
+          "start": 0,
+          "username": "Sakura_baimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988482692892045816",
+    "in_reply_to_user_id": "1797952742918586368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988231465235329260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakura_baimao 给我金弹m14和awm+6套都不敢保证"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988231446306451458",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ed92BbcAIXhyo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1988231465235329260",
+        "created_at": "2025-11-12T05:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T06:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988482692892045816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1797952742918586368",
+              "start": 0,
+              "username": "Sakura_baimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988482692892045816",
+        "in_reply_to_user_id": "1797952742918586368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988231465235329260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_baimao 给我金弹m14和awm+6套都不敢保证"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988231446306451458"
+          ]
+        },
+        "author_id": "1797952742918586368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988231465235329260",
+        "created_at": "2025-11-11T13:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T14:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988231465235329260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e9Kzzzs3zF",
+              "end": 39,
+              "expanded_url": "https://x.com/Sakura_baimao/status/1988231465235329260/photo/1",
+              "media_key": "3_1988231446306451458",
+              "start": 16,
+              "url": "https://t.co/e9Kzzzs3zF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988231465235329260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 366,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无奖竞猜，绝航这一把出去了吗？ https://t.co/e9Kzzzs3zF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2862,
+          "following_count": 500,
+          "like_count": 40285,
+          "listed_count": 5,
+          "media_count": 137,
+          "tweet_count": 4022
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-04T11:25:25.000Z",
+        "description": "02年 | 本科 |  制药工程 | 目前工作中（物业）| 键政达咩 | 喜欢玩碧蓝航线、三角洲行动、PUBG、Apex、我的世界 | 是一个vup（已停播）| 欢迎互fo",
+        "id": "1797952742918586368",
+        "location": "诺文斯克",
+        "name": "白猫official",
+        "pinned_tweet_id": "1821717131794510244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967934867351674881/Bqaluh67_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 730,
+          "like_count": 14771,
+          "listed_count": 4,
+          "media_count": 789,
+          "tweet_count": 4619
+        },
+        "username": "Sakura_baimao",
+        "verified": false
+      }
+    ]
+  }
+}

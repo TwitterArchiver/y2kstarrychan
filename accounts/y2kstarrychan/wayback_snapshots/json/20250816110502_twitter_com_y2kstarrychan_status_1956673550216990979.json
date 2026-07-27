@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956591111876800512",
+        "3_1956591112451428352"
+      ],
+      "media_source_tweet_id": [
+        "1956591121833816106",
+        "1956591121833816106"
+      ]
+    },
+    "author_id": "3244048580",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1956673550216990979",
+    "created_at": "2025-08-16T11:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T12:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956673550216990979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1597945043251187712",
+          "start": 3,
+          "username": "Sorsacerba"
+        },
+        {
+          "end": 70,
+          "id": "1495378934610857985",
+          "start": 59,
+          "username": "SoyorinQaQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KViGb87h7Y",
+          "end": 94,
+          "expanded_url": "https://x.com/Sorsacerba/status/1956591121833816106/photo/1",
+          "media_key": "3_1956591111876800512",
+          "start": 71,
+          "url": "https://t.co/KViGb87h7Y"
+        },
+        {
+          "display_url": "pic.x.com/KViGb87h7Y",
+          "end": 94,
+          "expanded_url": "https://x.com/Sorsacerba/status/1956591121833816106/photo/1",
+          "media_key": "3_1956591112451428352",
+          "start": 71,
+          "url": "https://t.co/KViGb87h7Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956673550216990979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956591121833816106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sorsacerba: 你这条玩网曲也是用上恶俗了，叫你解释也不解释装没事人呢😁是不是觉得自己很地雷很吓人啊\n@SoyorinQaQ https://t.co/KViGb87h7Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1804,
+        "media_key": "3_1956591111876800512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyc1P_IacAA-19n.jpg",
+        "width": 945
+      },
+      {
+        "height": 1928,
+        "media_key": "3_1956591112451428352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyc1QBRakAAAwAw.jpg",
+        "width": 1259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956591111876800512",
+            "3_1956591112451428352"
+          ],
+          "media_source_tweet_id": [
+            "1956591121833816106",
+            "1956591121833816106"
+          ]
+        },
+        "author_id": "3244048580",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1956673550216990979",
+        "created_at": "2025-08-16T11:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T12:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956673550216990979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1597945043251187712",
+              "start": 3,
+              "username": "Sorsacerba"
+            },
+            {
+              "end": 70,
+              "id": "1495378934610857985",
+              "start": 59,
+              "username": "SoyorinQaQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KViGb87h7Y",
+              "end": 94,
+              "expanded_url": "https://x.com/Sorsacerba/status/1956591121833816106/photo/1",
+              "media_key": "3_1956591111876800512",
+              "start": 71,
+              "url": "https://t.co/KViGb87h7Y"
+            },
+            {
+              "display_url": "pic.x.com/KViGb87h7Y",
+              "end": 94,
+              "expanded_url": "https://x.com/Sorsacerba/status/1956591121833816106/photo/1",
+              "media_key": "3_1956591112451428352",
+              "start": 71,
+              "url": "https://t.co/KViGb87h7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956673550216990979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956591121833816106",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sorsacerba: 你这条玩网曲也是用上恶俗了，叫你解释也不解释装没事人呢😁是不是觉得自己很地雷很吓人啊\n@SoyorinQaQ https://t.co/KViGb87h7Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956591111876800512",
+            "3_1956591112451428352"
+          ]
+        },
+        "author_id": "1597945043251187712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1956591121833816106",
+        "created_at": "2025-08-16T05:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T06:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956591121833816106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 54,
+              "id": "1495378934610857985",
+              "start": 43,
+              "username": "SoyorinQaQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KViGb87h7Y",
+              "end": 78,
+              "expanded_url": "https://x.com/Sorsacerba/status/1956591121833816106/photo/1",
+              "media_key": "3_1956591111876800512",
+              "start": 55,
+              "url": "https://t.co/KViGb87h7Y"
+            },
+            {
+              "display_url": "pic.x.com/KViGb87h7Y",
+              "end": 78,
+              "expanded_url": "https://x.com/Sorsacerba/status/1956591121833816106/photo/1",
+              "media_key": "3_1956591112451428352",
+              "start": 55,
+              "url": "https://t.co/KViGb87h7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956591121833816106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5611,
+          "like_count": 58,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "你这条玩网曲也是用上恶俗了，叫你解释也不解释装没事人呢😁是不是觉得自己很地雷很吓人啊\n@SoyorinQaQ https://t.co/KViGb87h7Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1961,
+          "following_count": 352,
+          "like_count": 22517,
+          "listed_count": 3,
+          "media_count": 116,
+          "tweet_count": 3933
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-30T13:26:10.000Z",
+        "description": "我在寻找一位有芒果气息的武士……",
+        "id": "1597945043251187712",
+        "location": "芒果武士党总部",
+        "name": "芒下 芋",
+        "pinned_tweet_id": "1956591121833816106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955932117629845504/avHRn7ub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 727,
+          "like_count": 62427,
+          "listed_count": 5,
+          "media_count": 1305,
+          "tweet_count": 15224
+        },
+        "username": "Sorsacerba",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T12:45:05.000Z",
+        "description": "之前叫『逃过纽伦堡审判的施佩尔』/BPD 焦虑型依恋发病致歉/enfp/三国史（昭烈帝单推人） 日本战国史 康雍乾爱好者/崩铁 明日方舟玩家/R&B Jazz享受者/ 笨蛋老公 @dongxuelianhaha",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "dongxuelianhaha"
+              }
+            ]
+          }
+        },
+        "id": "1495378934610857985",
+        "name": "🌸长崎施佩尔🌸超绝无敌支那猪desu❤️",
+        "pinned_tweet_id": "1928802861963485676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936368346301140992/eDEcSrmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5167,
+          "following_count": 1517,
+          "like_count": 78440,
+          "listed_count": 25,
+          "media_count": 1951,
+          "tweet_count": 23033
+        },
+        "username": "SoyorinQaQ",
+        "verified": false
+      }
+    ]
+  }
+}

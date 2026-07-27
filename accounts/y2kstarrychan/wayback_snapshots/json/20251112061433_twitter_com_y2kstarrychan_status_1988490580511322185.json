@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1988464527621714189",
+    "created_at": "2025-11-12T06:14:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T07:14:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988490580511322185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1965351173872820224",
+          "start": 0,
+          "username": "BT_7324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988490580511322185",
+    "in_reply_to_user_id": "1965351173872820224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988464527621714189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BT_7324 当三角洲玩家猛攻时的bgm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11208,
+        "height": 720,
+        "media_key": "13_1988464024221360128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1988464024221360128/img/s6P6sNQz9fecn9Ja.jpg",
+        "public_metrics": {
+          "view_count": 60
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988464024221360128/vid/avc1/480x270/RZzsunjFlPm26ouR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988464024221360128/vid/avc1/640x360/jqaNVRw6-yjg410r.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988464024221360128/vid/avc1/1280x720/zG8RTDP-lg_0j67e.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1988464024221360128/pl/iUvm5E8EtX2GGtXf.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1988464527621714189",
+        "created_at": "2025-11-12T06:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T07:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988490580511322185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1965351173872820224",
+              "start": 0,
+              "username": "BT_7324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988490580511322185",
+        "in_reply_to_user_id": "1965351173872820224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988464527621714189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BT_7324 当三角洲玩家猛攻时的bgm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1988464024221360128"
+          ]
+        },
+        "author_id": "1965351173872820224",
+        "conversation_id": "1988464527621714189",
+        "created_at": "2025-11-12T04:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T05:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988464527621714189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/72CkDtyAEA",
+              "end": 55,
+              "expanded_url": "https://x.com/BT_7324/status/1988464527621714189/video/1",
+              "media_key": "13_1988464024221360128",
+              "start": 32,
+              "url": "https://t.co/72CkDtyAEA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988464527621714189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "9月09日创建账号，\n10月11日达成1000fo\n总计64天 https://t.co/72CkDtyAEA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2859,
+          "following_count": 500,
+          "like_count": 40306,
+          "listed_count": 5,
+          "media_count": 137,
+          "tweet_count": 4023
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-09T09:47:06.000Z",
+        "description": "一个很喜欢钻研小众爱好的人（原创背景）没回fo就是在做动画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/DeMusic7324/De…",
+                "end": 23,
+                "expanded_url": "https://github.com/DeMusic7324/Demonstrate-Music.git",
+                "start": 0,
+                "url": "https://t.co/yRtaaYOv9I"
+              }
+            ]
+          }
+        },
+        "id": "1965351173872820224",
+        "location": "ᵃᵛᵉᵐᵘʲⁱᶜᵃ",
+        "name": "zzz",
+        "pinned_tweet_id": "1983193690924609876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985252901594505216/5d7RL0mJ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 1756,
+          "like_count": 5754,
+          "listed_count": 2,
+          "media_count": 1288,
+          "tweet_count": 3594
+        },
+        "url": "https://t.co/yRtaaYOv9I",
+        "username": "BT_7324",
+        "verified": false
+      }
+    ]
+  }
+}

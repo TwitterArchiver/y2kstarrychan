@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2012968010131378376",
+    "created_at": "2026-01-18T20:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T21:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012992949299159514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1768487038645678080",
+          "start": 0,
+          "username": "Yamada_Ryoooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012992949299159514",
+    "in_reply_to_user_id": "1768487038645678080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012968010131378376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yamada_Ryoooo 這是（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2012967998701686786",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9_usrX0AI68u2.jpg",
+        "width": 672
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2012967998697455616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9_usqXQAAn6Y_.jpg",
+        "width": 672
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2012967998693265408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9_uspXUAANs0P.jpg",
+        "width": 672
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2012967998580273153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9_usObMAEtfMW.jpg",
+        "width": 672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2012968010131378376",
+        "created_at": "2026-01-18T20:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T21:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012992949299159514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012992949299159514",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012968010131378376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 這是（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012967998701686786",
+            "3_2012967998697455616",
+            "3_2012967998693265408",
+            "3_2012967998580273153"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012968010131378376",
+        "created_at": "2026-01-18T19:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T20:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012968010131378376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Ky11fI8ZB",
+              "end": 23,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2012968010131378376/photo/1",
+              "media_key": "3_2012967998701686786",
+              "start": 0,
+              "url": "https://t.co/4Ky11fI8ZB"
+            },
+            {
+              "display_url": "pic.x.com/4Ky11fI8ZB",
+              "end": 23,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2012968010131378376/photo/1",
+              "media_key": "3_2012967998697455616",
+              "start": 0,
+              "url": "https://t.co/4Ky11fI8ZB"
+            },
+            {
+              "display_url": "pic.x.com/4Ky11fI8ZB",
+              "end": 23,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2012968010131378376/photo/1",
+              "media_key": "3_2012967998693265408",
+              "start": 0,
+              "url": "https://t.co/4Ky11fI8ZB"
+            },
+            {
+              "display_url": "pic.x.com/4Ky11fI8ZB",
+              "end": 23,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2012968010131378376/photo/1",
+              "media_key": "3_2012967998580273153",
+              "start": 0,
+              "url": "https://t.co/4Ky11fI8ZB"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2012968010131378376",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 106,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4Ky11fI8ZB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3016,
+          "following_count": 744,
+          "like_count": 49047,
+          "listed_count": 5,
+          "media_count": 144,
+          "tweet_count": 4248
+        },
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5598,
+          "following_count": 1057,
+          "like_count": 14728,
+          "listed_count": 21,
+          "media_count": 1463,
+          "tweet_count": 8557
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

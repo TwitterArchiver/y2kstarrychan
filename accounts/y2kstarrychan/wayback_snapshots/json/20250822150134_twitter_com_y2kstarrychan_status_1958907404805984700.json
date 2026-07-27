@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1958436827196768737",
+    "created_at": "2025-08-22T15:01:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T16:01:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958907404805984700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3012350599",
+          "start": 0,
+          "username": "__Ju___Ju__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958907404805984700",
+    "in_reply_to_user_id": "3012350599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958436827196768737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Ju___Ju__ 期待主理人咖啡店遇上金融男/女（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958436805017206784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy3D5d4aAAAmFEQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1958436804623040512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy3D5cabgAAOVRY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1958436827196768737",
+        "created_at": "2025-08-22T15:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T16:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958907404805984700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3012350599",
+              "start": 0,
+              "username": "__Ju___Ju__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958907404805984700",
+        "in_reply_to_user_id": "3012350599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958436827196768737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Ju___Ju__ 期待主理人咖啡店遇上金融男/女（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958436805017206784",
+            "3_1958436804623040512"
+          ]
+        },
+        "author_id": "3012350599",
+        "conversation_id": "1958436827196768737",
+        "created_at": "2025-08-21T07:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T08:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958436827196768737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PlBP3IqUhV",
+              "end": 121,
+              "expanded_url": "https://x.com/__Ju___Ju__/status/1958436827196768737/photo/1",
+              "media_key": "3_1958436805017206784",
+              "start": 98,
+              "url": "https://t.co/PlBP3IqUhV"
+            },
+            {
+              "display_url": "pic.x.com/PlBP3IqUhV",
+              "end": 121,
+              "expanded_url": "https://x.com/__Ju___Ju__/status/1958436827196768737/photo/1",
+              "media_key": "3_1958436804623040512",
+              "start": 98,
+              "url": "https://t.co/PlBP3IqUhV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958436827196768737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 16225,
+          "like_count": 195,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一家主理人咖啡店，高中时和同学来被告知“充值一千块成为会员才接待”，现在则是在门口拿大喇叭喊9.9元超大杯。没变的是老板拽拽的态度，刚点完单就催着付完钱才给做，店里阳台的小隔间也不允许坐除非熟客 https://t.co/PlBP3IqUhV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2059,
+          "following_count": 378,
+          "like_count": 25770,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 3947
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-07T12:20:03.000Z",
+        "description": "小肥兔子碎碎念🐰…… #すこ部 玖玖@GiveProofToLove 鹿@mukdengise",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 11,
+                "tag": "すこ部"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "GiveProofToLove"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "mukdengise"
+              }
+            ]
+          }
+        },
+        "id": "3012350599",
+        "location": "대구/경북",
+        "name": "tuzi🐰",
+        "pinned_tweet_id": "1571850748140621824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834028251259510784/jWjfKMxs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4083,
+          "following_count": 458,
+          "like_count": 36798,
+          "listed_count": 17,
+          "media_count": 2595,
+          "tweet_count": 36771
+        },
+        "username": "__Ju___Ju__",
+        "verified": true
+      }
+    ]
+  }
+}

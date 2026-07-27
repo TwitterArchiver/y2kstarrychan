@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969005436599721984"
+      ],
+      "media_source_tweet_id": [
+        "1969005439359516741"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1969005449052643614",
+    "created_at": "2025-09-19T11:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T12:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969005449052643614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3244048580",
+          "start": 3,
+          "username": "y2kstarrychan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F73xMoTb0Z",
+          "end": 52,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1969005439359516741/photo/1",
+          "media_key": "3_1969005436599721984",
+          "start": 29,
+          "url": "https://t.co/F73xMoTb0Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969005449052643614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969005439359516741",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y2kstarrychan: 你们这群境外势力😠 https://t.co/F73xMoTb0Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 626,
+        "media_key": "3_1969005436599721984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1NQAylW4AA_Qmr.jpg",
+        "width": 626
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969005436599721984"
+          ],
+          "media_source_tweet_id": [
+            "1969005439359516741"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1969005449052643614",
+        "created_at": "2025-09-19T11:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T12:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969005449052643614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3244048580",
+              "start": 3,
+              "username": "y2kstarrychan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F73xMoTb0Z",
+              "end": 52,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1969005439359516741/photo/1",
+              "media_key": "3_1969005436599721984",
+              "start": 29,
+              "url": "https://t.co/F73xMoTb0Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969005449052643614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969005439359516741",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y2kstarrychan: 你们这群境外势力😠 https://t.co/F73xMoTb0Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969005436599721984"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1969005439359516741",
+        "created_at": "2025-09-19T11:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T12:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969005439359516741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F73xMoTb0Z",
+              "end": 33,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1969005439359516741/photo/1",
+              "media_key": "3_1969005436599721984",
+              "start": 10,
+              "url": "https://t.co/F73xMoTb0Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969005439359516741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们这群境外势力😠 https://t.co/F73xMoTb0Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2790,
+          "following_count": 454,
+          "like_count": 35697,
+          "listed_count": 5,
+          "media_count": 128,
+          "tweet_count": 3989
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

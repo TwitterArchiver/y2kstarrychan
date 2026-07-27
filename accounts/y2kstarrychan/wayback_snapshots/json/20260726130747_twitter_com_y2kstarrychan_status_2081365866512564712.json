@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2081362447618002951",
+    "created_at": "2026-07-26T13:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T14:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081365866512564712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1643785305533874177",
+          "start": 0,
+          "username": "MeraK_Rinchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081365866512564712",
+    "in_reply_to_user_id": "1643785305533874177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081362447618002951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeraK_Rinchi 捅我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2081362447618002951",
+        "created_at": "2026-07-26T13:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081365866512564712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1643785305533874177",
+              "start": 0,
+              "username": "MeraK_Rinchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081365866512564712",
+        "in_reply_to_user_id": "1643785305533874177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081362447618002951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeraK_Rinchi 捅我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643785305533874177",
+        "conversation_id": "2081362447618002951",
+        "created_at": "2026-07-26T12:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081362447618002951"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081362447618002951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经很努力在让自己平静下来了，非得把我逼到拿刀捅你两刀才开心是吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2916,
+          "following_count": 893,
+          "like_count": 58951,
+          "listed_count": 6,
+          "media_count": 157,
+          "tweet_count": 4486
+        },
+        "url": "",
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T01:19:01.000Z",
+        "description": "旧名凛柒 ——『望む結末へと伸ばした両手。』\n自介有联系方式和匿名提问w\n逃生舱：@Go_Karagawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "Go_Karagawa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/karagawa_roku2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/karagawa_roku2",
+                "start": 0,
+                "url": "https://t.co/H1yqKwcN6p"
+              }
+            ]
+          }
+        },
+        "id": "1643785305533874177",
+        "location": "Tokyo-to, Japan",
+        "name": "༺空川🎇陸🎆༻",
+        "pinned_tweet_id": "2065328942060544335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065261866943913984/o-XegWu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 550,
+          "like_count": 25084,
+          "listed_count": 0,
+          "media_count": 291,
+          "tweet_count": 2105
+        },
+        "url": "https://t.co/H1yqKwcN6p",
+        "username": "MeraK_Rinchi",
+        "verified": false
+      }
+    ]
+  }
+}

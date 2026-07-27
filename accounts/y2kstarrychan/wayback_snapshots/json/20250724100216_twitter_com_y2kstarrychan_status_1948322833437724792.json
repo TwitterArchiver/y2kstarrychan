@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1948322272466575597",
+    "created_at": "2025-07-24T10:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T11:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948322833437724792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1355900185235259396",
+          "start": 0,
+          "username": "AzumaSeren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948322833437724792",
+    "in_reply_to_user_id": "1355900185235259396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948322272466575597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AzumaSeren 永远伟大正确光荣的东洋雪莲，万岁\\(≧▽≦)/"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27366,
+        "height": 1080,
+        "media_key": "13_1948027032404987904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1948027032404987904/img/AGgPBAL6Ijj5hiKH.jpg",
+        "public_metrics": {
+          "view_count": 20
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948027032404987904/vid/avc1/1920x1080/3x4WMrB4WifUeVj2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1948027032404987904/pl/C8F7ZbJ-qSSp_l2P.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948027032404987904/vid/avc1/480x270/4BG8_e6iW7-Qusso.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948027032404987904/vid/avc1/640x360/lJcEkQXV1nH-ZDhP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948027032404987904/vid/avc1/1280x720/bfOuSWPEJeDnjhz9.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1948322272466575597",
+        "created_at": "2025-07-24T10:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T11:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948322833437724792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1355900185235259396",
+              "start": 0,
+              "username": "AzumaSeren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948322833437724792",
+        "in_reply_to_user_id": "1355900185235259396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948322272466575597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AzumaSeren 永远伟大正确光荣的东洋雪莲，万岁\\(≧▽≦)/"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1948027032404987904"
+          ]
+        },
+        "author_id": "1355900185235259396",
+        "conversation_id": "1948322272466575597",
+        "created_at": "2025-07-24T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948322272466575597"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "東雪蓮"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtu.be/bWVINiTcySQ",
+              "end": 88,
+              "expanded_url": "https://youtu.be/bWVINiTcySQ",
+              "start": 65,
+              "status": 200,
+              "title": "- YouTube",
+              "unwound_url": "https://www.youtube.com/watch?v=bWVINiTcySQ&feature=youtu.be",
+              "url": "https://t.co/iRZMsqRumP"
+            },
+            {
+              "display_url": "pic.x.com/UPDL9kFK03",
+              "end": 118,
+              "expanded_url": "https://x.com/AzumaSeren/status/1948322272466575597/video/1",
+              "media_key": "13_1948027032404987904",
+              "start": 95,
+              "url": "https://t.co/UPDL9kFK03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948322272466575597",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "おやすみ泣き声、さよなら歌姫 (cover)\n好きな曲歌いました！\n半年ぶりの歌動画らしい。\n誕生日おめでとうして💙\n\nfull https://t.co/iRZMsqRumP\n\n#東雪蓮 https://t.co/UPDL9kFK03"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1473,
+          "following_count": 278,
+          "like_count": 9815,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 3853
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-31T15:26:46.000Z",
+        "description": "°ʚ🍼ɞ°￤詩￤唄￤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/azumaseren",
+                "end": 23,
+                "expanded_url": "https://lit.link/azumaseren",
+                "start": 0,
+                "url": "https://t.co/fKPzK4dlPm"
+              }
+            ]
+          }
+        },
+        "id": "1355900185235259396",
+        "name": "東 雪蓮",
+        "pinned_tweet_id": "1948035377689931901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922983367907090432/mLpJdD8G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52406,
+          "following_count": 193,
+          "like_count": 20361,
+          "listed_count": 119,
+          "media_count": 922,
+          "tweet_count": 8301
+        },
+        "url": "https://t.co/fKPzK4dlPm",
+        "username": "AzumaSeren",
+        "verified": true
+      }
+    ]
+  }
+}

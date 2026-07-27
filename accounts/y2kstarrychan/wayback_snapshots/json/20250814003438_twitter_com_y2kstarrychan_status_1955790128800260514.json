@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1955296287420715271",
+    "created_at": "2025-08-14T00:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T01:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955790128800260514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1523294065063735298",
+          "start": 0,
+          "username": "Daryl336"
+        },
+        {
+          "end": 25,
+          "id": "702327477440528384",
+          "start": 10,
+          "username": "achoudedisheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955790128800260514",
+    "in_reply_to_user_id": "1523294065063735298",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955333593506382208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Daryl336 @achoudedisheng 管人痴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_1955333567287840770",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GyK9hQeW0AIFhLS.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GyK9hQeW0AIFhLS.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1955296287420715271",
+        "created_at": "2025-08-14T00:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T01:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955790128800260514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1523294065063735298",
+              "start": 0,
+              "username": "Daryl336"
+            },
+            {
+              "end": 25,
+              "id": "702327477440528384",
+              "start": 10,
+              "username": "achoudedisheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955790128800260514",
+        "in_reply_to_user_id": "1523294065063735298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955333593506382208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Daryl336 @achoudedisheng 管人痴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1955333567287840770"
+          ]
+        },
+        "author_id": "1523294065063735298",
+        "conversation_id": "1955296287420715271",
+        "created_at": "2025-08-12T18:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T19:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955333593506382208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "702327477440528384",
+              "start": 0,
+              "username": "achoudedisheng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sXuCZksyCa",
+              "end": 39,
+              "expanded_url": "https://x.com/Daryl336/status/1955333593506382208/photo/1",
+              "media_key": "16_1955333567287840770",
+              "start": 16,
+              "url": "https://t.co/sXuCZksyCa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955333593506382208",
+        "in_reply_to_user_id": "702327477440528384",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 86,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955296287420715271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@achoudedisheng https://t.co/sXuCZksyCa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1946,
+          "following_count": 349,
+          "like_count": 21269,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 3925
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-08T13:29:58.000Z",
+        "description": "关注莲莲，好运连连～最喜欢😘：@AzumaSeren_Suki ｜莲宝：@AzumaSeren",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "AzumaSeren_Suki"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "AzumaSeren"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/azumaseren",
+                "end": 23,
+                "expanded_url": "https://lit.link/azumaseren",
+                "start": 0,
+                "url": "https://t.co/2VU2VE9tFl"
+              }
+            ]
+          }
+        },
+        "id": "1523294065063735298",
+        "location": "二次元世界",
+        "name": "東京の雪蓮い⛩️",
+        "pinned_tweet_id": "1795925402092785966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954312049036550144/dMwZRHBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4172,
+          "following_count": 2976,
+          "like_count": 52069,
+          "listed_count": 17,
+          "media_count": 657,
+          "tweet_count": 3828
+        },
+        "url": "https://t.co/2VU2VE9tFl",
+        "username": "Daryl336",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-24T03:01:34.000Z",
+        "description": "路边着ぐるみ/摄影/绳工 \nNot a Good Kigurumi Player / Photographer / Rigger",
+        "id": "702327477440528384",
+        "location": "shanghai",
+        "name": "466",
+        "pinned_tweet_id": "1954153881757512039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1414433605837680644/7UNgSuY7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4519,
+          "following_count": 970,
+          "like_count": 2826,
+          "listed_count": 42,
+          "media_count": 158,
+          "tweet_count": 824
+        },
+        "username": "achoudedisheng",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1951530541507026950"
+      ],
+      "media_source_tweet_id": [
+        "1951531953934717000"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1951749960770179331",
+    "created_at": "2025-08-02T21:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T22:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951749960770179331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1821849172368355328",
+          "start": 3,
+          "username": "L98808Lju"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e7f3e8JBjG",
+          "end": 74,
+          "expanded_url": "https://x.com/L98808Lju/status/1951531953934717000/video/1",
+          "media_key": "13_1951530541507026950",
+          "start": 51,
+          "url": "https://t.co/e7f3e8JBjG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951749960770179331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951531953934717000",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @L98808Lju: 大家周末快乐哦，但只是周末快乐就有点太冰了，来唱学猫叫让你融化一下吧😉 https://t.co/e7f3e8JBjG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18433,
+        "height": 1000,
+        "media_key": "13_1951530541507026950",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1951530541507026950/img/v1Ih3eA_Wjvv9wRR.jpg",
+        "public_metrics": {
+          "view_count": 373
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951530541507026950/vid/avc1/436x360/QsEk8ryxVx2yLIQ2.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951530541507026950/vid/avc1/1216x1000/Triuf7YcK3xMy4xS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1951530541507026950/pl/RR5esz0iXom_LJyh.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951530541507026950/vid/avc1/328x270/utqwkZOInDSrFSCg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951530541507026950/vid/avc1/874x720/R7bSfoAGo-Qx9N1i.mp4"
+          }
+        ],
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1951530541507026950"
+          ],
+          "media_source_tweet_id": [
+            "1951531953934717000"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1951749960770179331",
+        "created_at": "2025-08-02T21:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T22:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951749960770179331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1821849172368355328",
+              "start": 3,
+              "username": "L98808Lju"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e7f3e8JBjG",
+              "end": 74,
+              "expanded_url": "https://x.com/L98808Lju/status/1951531953934717000/video/1",
+              "media_key": "13_1951530541507026950",
+              "start": 51,
+              "url": "https://t.co/e7f3e8JBjG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951749960770179331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951531953934717000",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @L98808Lju: 大家周末快乐哦，但只是周末快乐就有点太冰了，来唱学猫叫让你融化一下吧😉 https://t.co/e7f3e8JBjG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1951530541507026950"
+          ]
+        },
+        "author_id": "1821849172368355328",
+        "conversation_id": "1951531953934717000",
+        "created_at": "2025-08-02T06:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T07:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951531953934717000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e7f3e8JBjG",
+              "end": 59,
+              "expanded_url": "https://x.com/L98808Lju/status/1951531953934717000/video/1",
+              "media_key": "13_1951530541507026950",
+              "start": 36,
+              "url": "https://t.co/e7f3e8JBjG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951531953934717000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1175,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大家周末快乐哦，但只是周末快乐就有点太冰了，来唱学猫叫让你融化一下吧😉 https://t.co/e7f3e8JBjG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱～",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1794,
+          "following_count": 344,
+          "like_count": 15356,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 3881
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-09T10:01:27.000Z",
+        "description": "I’m Anon’s (千早爱音) sister. PhD in Science🎓,首席AI政治学家🦋,谣言家^_^Share Knowledge/Social View/Animation. 蔷薇骑士福尔摩雨@Romanorum_ 机器人@Tinkles_12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 105,
+                "username": "Romanorum_"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "Tinkles_12"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/YoyiSG",
+                "end": 23,
+                "expanded_url": "https://github.com/YoyiSG",
+                "start": 0,
+                "url": "https://t.co/bqjyu34BRn"
+              }
+            ]
+          }
+        },
+        "id": "1821849172368355328",
+        "location": "Singapore",
+        "name": "神樂坂🌸Yoyi🇸🇬",
+        "pinned_tweet_id": "1928006182108614978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920668084102459395/1OyHpsxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 503,
+          "like_count": 37528,
+          "listed_count": 8,
+          "media_count": 758,
+          "tweet_count": 11692
+        },
+        "url": "https://t.co/bqjyu34BRn",
+        "username": "L98808Lju",
+        "verified": true
+      }
+    ]
+  }
+}

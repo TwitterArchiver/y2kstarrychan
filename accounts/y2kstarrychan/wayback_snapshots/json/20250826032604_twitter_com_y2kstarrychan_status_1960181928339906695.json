@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960181926616035328"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "1960181928339906695",
+    "created_at": "2025-08-26T03:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T04:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960181928339906695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yQi6Yl6Bxm",
+          "end": 78,
+          "expanded_url": "https://x.com/y2kstarrychan/status/1960181928339906695/photo/1",
+          "media_key": "3_1960181926616035328",
+          "start": 55,
+          "url": "https://t.co/yQi6Yl6Bxm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960181928339906695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "reply_settings": "everyone",
+    "text": "在中国, 宪法确认公民享有言论，出版，示威自由。但自由是相对的，但前提是不许违法。写这条法律的人确定没笑吗？ https://t.co/yQi6Yl6Bxm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 987,
+        "media_key": "3_1960181926616035328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzP3E6cW8AAWnVc.jpg",
+        "width": 1434
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960181926616035328"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1960181928339906695",
+        "created_at": "2025-08-26T03:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T04:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960181928339906695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yQi6Yl6Bxm",
+              "end": 78,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1960181928339906695/photo/1",
+              "media_key": "3_1960181926616035328",
+              "start": 55,
+              "url": "https://t.co/yQi6Yl6Bxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960181928339906695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在中国, 宪法确认公民享有言论，出版，示威自由。但自由是相对的，但前提是不许违法。写这条法律的人确定没笑吗？ https://t.co/yQi6Yl6Bxm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2226,
+          "following_count": 387,
+          "like_count": 27251,
+          "listed_count": 5,
+          "media_count": 119,
+          "tweet_count": 3956
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

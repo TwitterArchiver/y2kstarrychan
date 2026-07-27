@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "1955118587552682291",
+    "created_at": "2025-08-12T04:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T05:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955120643537514970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1373650271251820554",
+          "start": 0,
+          "username": "CwuteMarikowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955120643537514970",
+    "in_reply_to_user_id": "1373650271251820554",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955120436528001528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CwuteMarikowo Thanks, Mariko🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "1955118587552682291",
+        "created_at": "2025-08-12T04:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T05:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955120643537514970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1373650271251820554",
+              "start": 0,
+              "username": "CwuteMarikowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955120643537514970",
+        "in_reply_to_user_id": "1373650271251820554",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955120436528001528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CwuteMarikowo Thanks, Mariko🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1373650271251820554",
+        "conversation_id": "1955118587552682291",
+        "created_at": "2025-08-12T04:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T05:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955120436528001528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3244048580",
+              "start": 0,
+              "username": "y2kstarrychan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955120436528001528",
+        "in_reply_to_user_id": "3244048580",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955118587552682291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y2kstarrychan ayo happy birthday my girl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1894,
+          "following_count": 350,
+          "like_count": 20369,
+          "listed_count": 3,
+          "media_count": 114,
+          "tweet_count": 3896
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-21T14:58:47.000Z",
+        "description": "🏳️‍⚧️ she/her |\nhrt: 21/8/2024 |\nmade with Copper and Tellurium |\nborn and raised in 🇭🇰, living in 🇦🇺|\ndiscord: stellawa_",
+        "id": "1373650271251820554",
+        "location": "Usyd",
+        "name": "Sakura Mariko🇭🇰 🏳️‍⚧️",
+        "pinned_tweet_id": "1937127468449898686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642248924265324544/iHYEATDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 1532,
+          "like_count": 18093,
+          "listed_count": 5,
+          "media_count": 1096,
+          "tweet_count": 10806
+        },
+        "username": "CwuteMarikowo",
+        "verified": false
+      }
+    ]
+  }
+}
