@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087512130060951552"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "2087512136834859476",
+    "created_at": "2026-08-12T12:10:52.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T13:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087512136834859476"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ezpzdrKZW8",
+          "end": 40,
+          "expanded_url": "https://x.com/y2kstarrychan/status/2087512136834859476/photo/1",
+          "media_key": "3_2087512130060951552",
+          "start": 17,
+          "url": "https://t.co/ezpzdrKZW8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087512136834859476",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087512130060951552"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "誓言有啥用啊？片里还说不发网上呢 https://t.co/ezpzdrKZW8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2087512130060951552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhVOOCaIAADf3m.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087512130060951552"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "2087512136834859476",
+        "created_at": "2026-08-12T12:10:52.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087512136834859476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ezpzdrKZW8",
+              "end": 40,
+              "expanded_url": "https://x.com/y2kstarrychan/status/2087512136834859476/photo/1",
+              "media_key": "3_2087512130060951552",
+              "start": 17,
+              "url": "https://t.co/ezpzdrKZW8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087512136834859476",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087512130060951552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "誓言有啥用啊？片里还说不发网上呢 https://t.co/ezpzdrKZW8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "is_identity_verified": false,
+        "location": "互聯網",
+        "most_recent_tweet_id": "2087512136834859476",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3244048580/1752379681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2906,
+          "following_count": 923,
+          "like_count": 59729,
+          "listed_count": 6,
+          "media_count": 157,
+          "tweet_count": 4500
+        },
+        "url": "",
+        "username": "y2kstarrychan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

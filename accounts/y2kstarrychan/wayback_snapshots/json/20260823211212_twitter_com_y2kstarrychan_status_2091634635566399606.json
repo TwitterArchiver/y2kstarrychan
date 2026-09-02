@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2091616068662161843",
+    "created_at": "2026-08-23T21:12:12.000Z",
+    "display_text_range": [
+      17,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T22:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091634635566399606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807910824918634496",
+          "start": 0,
+          "username": "suanrongyouyuxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091634635566399606",
+    "in_reply_to_user_id": "1807910824918634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091616068662161843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suanrongyouyuxu 三更半夜，黑头发，红裙子，红鞋子呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2091616068662161843",
+        "created_at": "2026-08-23T21:12:12.000Z",
+        "display_text_range": [
+          17,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T22:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091634635566399606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807910824918634496",
+              "start": 0,
+              "username": "suanrongyouyuxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091634635566399606",
+        "in_reply_to_user_id": "1807910824918634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091616068662161843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suanrongyouyuxu 三更半夜，黑头发，红裙子，红鞋子呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807910824918634496",
+        "conversation_id": "2091616068662161843",
+        "created_at": "2026-08-23T19:58:25.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T20:57:17.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091615783730491518",
+          "2091616068662161843"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "今日冷知识"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091616068662161843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "今日冷知识"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sciencedirect.com/science/articl…",
+                "end": 312,
+                "expanded_url": "https://www.sciencedirect.com/science/article/abs/pii/S0022103112001527?utm_source=chatgpt.com",
+                "start": 289,
+                "url": "https://t.co/vNh5ZkkazE"
+              }
+            ]
+          },
+          "text": "#今日冷知识 穿红色的衣服，会提高吸引力。\n\n非常简单直接，对男女都有效（女性穿红色的效果略大于男性）。\n\n具体来说就是，男性看到穿红色的女性时，会认为她更有吸引力，并且表现出更高的约会、追求意愿。甚至不穿红色的的衣服，仅仅是照片里有红色的背景也有效果。\n红色的饰品也行。\n\n而且这件偏好是跨越文化的。2013年有一项对布基纳法索（一个非洲与世隔绝的部落）的调查。在布基纳法索，红色带有明确的负面含义，代表了“死亡、疾病、坏运气”，并没有浪漫或者性意味写的含义。但即便如此，这种吸引力也依然存在。\n\n所以在衣柜里准备几件红色的衣服并在约会时穿上，可能是一个不错的选择。\n\n来源：https://t.co/vNh5ZkkazE"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 335,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#今日冷知识 穿红色的衣服，会提高吸引力。\n\n非常简单直接，对男女都有效（女性穿红色的效果略大于男性）。\n\n具体来说就是，男性看到穿红色的女性时，会认为她更有吸引力，并且表现出更高的约会、追求意愿。甚至不穿红色的的衣服，仅仅是照片里有红色的背景也有效果。\n红色的饰品也行。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "is_identity_verified": false,
+        "location": "互聯網",
+        "most_recent_tweet_id": "2091634635566399606",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3244048580/1752379681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3166,
+          "following_count": 991,
+          "like_count": 62353,
+          "listed_count": 6,
+          "media_count": 161,
+          "tweet_count": 4525
+        },
+        "url": "",
+        "username": "y2kstarrychan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-01T22:55:21.000Z",
+        "description": "简中舆论观察者。\n观察/记录/拆解/分析关于民粹、性别与公共讨论的结构性问题。\n情感驱动价值取向，但使用理性作为工具。\n有时也记录生活，发一些生活里的感悟和荒诞余兴。",
+        "id": "1807910824918634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091616068662161843",
+        "name": "蒜蓉鱿鱼须",
+        "pinned_tweet_id": "2062141354331738282",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807910824918634496/1729795632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879574101750059008/DyN1I1bV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6622,
+          "following_count": 250,
+          "like_count": 8931,
+          "listed_count": 50,
+          "media_count": 394,
+          "tweet_count": 5135
+        },
+        "url": "",
+        "username": "suanrongyouyuxu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

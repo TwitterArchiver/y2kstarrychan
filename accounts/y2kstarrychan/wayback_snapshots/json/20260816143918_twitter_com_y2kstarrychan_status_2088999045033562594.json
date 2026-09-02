@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088999011860815873",
+        "3_2088999018794029056",
+        "3_2088999026771599360",
+        "3_2088999034971377664"
+      ]
+    },
+    "author_id": "3244048580",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088999045033562594",
+    "created_at": "2026-08-16T14:39:18.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T15:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088999045033562594"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Jc5YtWoGO",
+          "end": 35,
+          "expanded_url": "https://x.com/y2kstarrychan/status/2088999045033562594/photo/1",
+          "media_key": "3_2088999011860815873",
+          "start": 12,
+          "url": "https://t.co/0Jc5YtWoGO"
+        },
+        {
+          "display_url": "pic.x.com/0Jc5YtWoGO",
+          "end": 35,
+          "expanded_url": "https://x.com/y2kstarrychan/status/2088999045033562594/photo/1",
+          "media_key": "3_2088999018794029056",
+          "start": 12,
+          "url": "https://t.co/0Jc5YtWoGO"
+        },
+        {
+          "display_url": "pic.x.com/0Jc5YtWoGO",
+          "end": 35,
+          "expanded_url": "https://x.com/y2kstarrychan/status/2088999045033562594/photo/1",
+          "media_key": "3_2088999026771599360",
+          "start": 12,
+          "url": "https://t.co/0Jc5YtWoGO"
+        },
+        {
+          "display_url": "pic.x.com/0Jc5YtWoGO",
+          "end": 35,
+          "expanded_url": "https://x.com/y2kstarrychan/status/2088999045033562594/photo/1",
+          "media_key": "3_2088999034971377664",
+          "start": 12,
+          "url": "https://t.co/0Jc5YtWoGO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088999045033562594",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088999011860815873"
+      },
+      {
+        "media_key": "3_2088999018794029056"
+      },
+      {
+        "media_key": "3_2088999026771599360"
+      },
+      {
+        "media_key": "3_2088999034971377664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这些图片是不是很熟悉？ https://t.co/0Jc5YtWoGO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2088999011860815873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2diIYbIAEsM8v.jpg",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "media_key": "3_2088999018794029056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2diiNbkAApv7G.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2088999026771599360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2di_7boAAKqlx.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1500,
+        "media_key": "3_2088999034971377664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2djeeaUAABeEc.jpg",
+        "width": 2666
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088999011860815873",
+            "3_2088999018794029056",
+            "3_2088999026771599360",
+            "3_2088999034971377664"
+          ]
+        },
+        "author_id": "3244048580",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088999045033562594",
+        "created_at": "2026-08-16T14:39:18.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088999045033562594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Jc5YtWoGO",
+              "end": 35,
+              "expanded_url": "https://x.com/y2kstarrychan/status/2088999045033562594/photo/1",
+              "media_key": "3_2088999011860815873",
+              "start": 12,
+              "url": "https://t.co/0Jc5YtWoGO"
+            },
+            {
+              "display_url": "pic.x.com/0Jc5YtWoGO",
+              "end": 35,
+              "expanded_url": "https://x.com/y2kstarrychan/status/2088999045033562594/photo/1",
+              "media_key": "3_2088999018794029056",
+              "start": 12,
+              "url": "https://t.co/0Jc5YtWoGO"
+            },
+            {
+              "display_url": "pic.x.com/0Jc5YtWoGO",
+              "end": 35,
+              "expanded_url": "https://x.com/y2kstarrychan/status/2088999045033562594/photo/1",
+              "media_key": "3_2088999026771599360",
+              "start": 12,
+              "url": "https://t.co/0Jc5YtWoGO"
+            },
+            {
+              "display_url": "pic.x.com/0Jc5YtWoGO",
+              "end": 35,
+              "expanded_url": "https://x.com/y2kstarrychan/status/2088999045033562594/photo/1",
+              "media_key": "3_2088999034971377664",
+              "start": 12,
+              "url": "https://t.co/0Jc5YtWoGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088999045033562594",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088999011860815873"
+          },
+          {
+            "media_key": "3_2088999018794029056"
+          },
+          {
+            "media_key": "3_2088999026771599360"
+          },
+          {
+            "media_key": "3_2088999034971377664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这些图片是不是很熟悉？ https://t.co/0Jc5YtWoGO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "is_identity_verified": false,
+        "location": "互聯網",
+        "most_recent_tweet_id": "2088999045033562594",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3244048580/1752379681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2908,
+          "following_count": 944,
+          "like_count": 60375,
+          "listed_count": 6,
+          "media_count": 158,
+          "tweet_count": 4506
+        },
+        "url": "",
+        "username": "y2kstarrychan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

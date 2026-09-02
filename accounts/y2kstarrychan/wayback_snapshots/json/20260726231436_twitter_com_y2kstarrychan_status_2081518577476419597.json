@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2081401623897944335",
+    "created_at": "2026-07-26T23:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T00:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081518577476419597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1720779183809519616",
+          "start": 0,
+          "username": "RyyyYoin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081518577476419597",
+    "in_reply_to_user_id": "1720779183809519616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081401623897944335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RyyyYoin 媽媽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081401592440655872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKfuHhbkAAwsrC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2081401623897944335",
+        "created_at": "2026-07-26T23:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T00:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081518577476419597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1720779183809519616",
+              "start": 0,
+              "username": "RyyyYoin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081518577476419597",
+        "in_reply_to_user_id": "1720779183809519616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081401623897944335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RyyyYoin 媽媽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081401592440655872"
+          ]
+        },
+        "author_id": "1720779183809519616",
+        "conversation_id": "2081401623897944335",
+        "created_at": "2026-07-26T15:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081401623897944335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FCdrJcT79Z",
+              "end": 35,
+              "expanded_url": "https://x.com/RyyyYoin/status/2081401623897944335/photo/1",
+              "media_key": "3_2081401592440655872",
+              "start": 12,
+              "url": "https://t.co/FCdrJcT79Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081401623897944335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 740,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是的 你们应该叫妈妈的 https://t.co/FCdrJcT79Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2916,
+          "following_count": 893,
+          "like_count": 58973,
+          "listed_count": 6,
+          "media_count": 157,
+          "tweet_count": 4488
+        },
+        "url": "",
+        "username": "y2kstarrychan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T12:25:10.000Z",
+        "description": "我也可以为你潜入海里面/妈咪@RANNA_ISOKAZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "RANNA_ISOKAZE"
+              }
+            ]
+          }
+        },
+        "id": "1720779183809519616",
+        "name": "余韻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078124059418877952/GW8LmR3Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 283,
+          "like_count": 56406,
+          "listed_count": 6,
+          "media_count": 1637,
+          "tweet_count": 14425
+        },
+        "url": "",
+        "username": "RyyyYoin",
+        "verified": false
+      }
+    ]
+  }
+}

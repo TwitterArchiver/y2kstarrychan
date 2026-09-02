@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090094805305163776"
+      ],
+      "media_source_tweet_id": [
+        "2090094811210809570"
+      ]
+    },
+    "author_id": "3244048580",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090106097181106634",
+    "created_at": "2026-08-19T15:58:20.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T16:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090106097181106634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1847157285337866240",
+          "start": 3,
+          "username": "jiuqiudev"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q1xfM3jJXF",
+          "end": 78,
+          "expanded_url": "https://x.com/jiuqiudev/status/2090094811210809570/photo/1",
+          "media_key": "3_2090094805305163776",
+          "start": 55,
+          "url": "https://t.co/Q1xfM3jJXF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090106097181106634",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090094805305163776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090094811210809570",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiuqiudev: XAvatarWall的作者秋玖已陨落，正在寻回互fo，大家能不能帮忙转发下喵 https://t.co/Q1xfM3jJXF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2090094805305163776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGCJtEagAA9tV6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090094805305163776"
+          ],
+          "media_source_tweet_id": [
+            "2090094811210809570"
+          ]
+        },
+        "author_id": "3244048580",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090106097181106634",
+        "created_at": "2026-08-19T15:58:20.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090106097181106634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847157285337866240",
+              "start": 3,
+              "username": "jiuqiudev"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q1xfM3jJXF",
+              "end": 78,
+              "expanded_url": "https://x.com/jiuqiudev/status/2090094811210809570/photo/1",
+              "media_key": "3_2090094805305163776",
+              "start": 55,
+              "url": "https://t.co/Q1xfM3jJXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090106097181106634",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090094805305163776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090094811210809570",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiuqiudev: XAvatarWall的作者秋玖已陨落，正在寻回互fo，大家能不能帮忙转发下喵 https://t.co/Q1xfM3jJXF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090094805305163776"
+          ]
+        },
+        "author_id": "1847157285337866240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090094811210809570",
+        "created_at": "2026-08-19T15:13:29.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090094811210809570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q1xfM3jJXF",
+              "end": 63,
+              "expanded_url": "https://x.com/jiuqiudev/status/2090094811210809570/photo/1",
+              "media_key": "3_2090094805305163776",
+              "start": 40,
+              "url": "https://t.co/Q1xfM3jJXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090094811210809570",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090094805305163776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 86,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "XAvatarWall的作者秋玖已陨落，正在寻回互fo，大家能不能帮忙转发下喵 https://t.co/Q1xfM3jJXF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "is_identity_verified": false,
+        "location": "互聯網",
+        "most_recent_tweet_id": "2090106097181106634",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3244048580/1752379681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3132,
+          "following_count": 976,
+          "like_count": 61487,
+          "listed_count": 6,
+          "media_count": 162,
+          "tweet_count": 4522
+        },
+        "url": "",
+        "username": "y2kstarrychan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-18T06:07:31.000Z",
+        "description": "你好啊，我是玖秋（不是秋玖（真的吗？（@qiujiudev 转生中临时名））），一个普普通通的10后wmc，重度VOCALOID爱好者 音游痴 和杂食党 爱玩魔裁。爱好广泛，欢迎扩列～私信和TG随时欢迎随时骚扰！TG:https://t.co/rJxUg8NWIg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "qiujiudev"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Qiujiudev",
+                "end": 132,
+                "expanded_url": "http://t.me/Qiujiudev",
+                "start": 109,
+                "url": "https://t.co/rJxUg8NWIg"
+              }
+            ]
+          }
+        },
+        "id": "1847157285337866240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090101651495669792",
+        "name": "秋玖（寻回推友版）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847157285337866240/1787148944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847158996437745664/Is07ry4h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 46,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "jiuqiudev",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

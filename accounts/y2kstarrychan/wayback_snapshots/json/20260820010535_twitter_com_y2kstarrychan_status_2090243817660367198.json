@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2090242028898537497",
+    "created_at": "2026-08-20T01:05:35.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T02:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090243817660367198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1595110651621318656",
+          "start": 0,
+          "username": "ProcyonCoke731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090243817660367198",
+    "in_reply_to_user_id": "1595110651621318656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090242028898537497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ProcyonCoke731 早安"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2090241986561228800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQIIAx-WwAAzFS1.jpg",
+        "width": 3204
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2090242028898537497",
+        "created_at": "2026-08-20T01:05:35.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T02:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090243817660367198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1595110651621318656",
+              "start": 0,
+              "username": "ProcyonCoke731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090243817660367198",
+        "in_reply_to_user_id": "1595110651621318656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090242028898537497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ProcyonCoke731 早安"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090241986561228800"
+          ]
+        },
+        "author_id": "1595110651621318656",
+        "conversation_id": "2090242028898537497",
+        "created_at": "2026-08-20T00:58:29.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T01:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090242028898537497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7V7anPVRHq",
+              "end": 26,
+              "expanded_url": "https://x.com/ProcyonCoke731/status/2090242028898537497/photo/1",
+              "media_key": "3_2090241986561228800",
+              "start": 3,
+              "url": "https://t.co/7V7anPVRHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090242028898537497",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090241986561228800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早安 https://t.co/7V7anPVRHq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "is_identity_verified": false,
+        "location": "互聯網",
+        "most_recent_tweet_id": "2090243817660367198",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3244048580/1752379681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3159,
+          "following_count": 978,
+          "like_count": 61516,
+          "listed_count": 6,
+          "media_count": 162,
+          "tweet_count": 4524
+        },
+        "url": "",
+        "username": "y2kstarrychan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-22T17:43:19.000Z",
+        "description": "直升機駕駛員\n异世界转生号https://t.co/2usdJjOgLk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/chaosc…",
+                "end": 36,
+                "expanded_url": "https://bsky.app/profile/chaoscoke731.bsky.social",
+                "start": 13,
+                "url": "https://t.co/2usdJjOgLk"
+              }
+            ]
+          }
+        },
+        "id": "1595110651621318656",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090242824692187643",
+        "name": "桜桃可乐🇯🇵🌌🌸🍸✝️",
+        "pinned_tweet_id": "2077767277391253734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1595110651621318656/1750550960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023258759754080256/8WJDUScr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6151,
+          "following_count": 1222,
+          "like_count": 35744,
+          "listed_count": 61,
+          "media_count": 4267,
+          "tweet_count": 18843
+        },
+        "url": "",
+        "username": "ProcyonCoke731",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

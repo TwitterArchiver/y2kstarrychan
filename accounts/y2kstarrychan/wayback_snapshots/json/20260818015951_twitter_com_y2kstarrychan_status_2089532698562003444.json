@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2089358154287182228",
+    "created_at": "2026-08-18T01:59:51.000Z",
+    "display_text_range": [
+      27,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T02:59:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089532698562003444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1481608987087077380",
+          "start": 0,
+          "username": "qxsddofficial"
+        },
+        {
+          "end": 26,
+          "id": "2043225826301497344",
+          "start": 15,
+          "username": "XingLi0512"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089532698562003444",
+    "in_reply_to_user_id": "1481608987087077380",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089358154287182228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qxsddofficial @XingLi0512 蹦不住了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 318136,
+        "height": 1080,
+        "media_key": "13_2089357004108394496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089357004108394496/img/oATA9JgeqeuPZQIJ.jpg",
+        "public_metrics": {
+          "view_count": 2672
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089357004108394496/pl/isBDNBW32fVdtneu.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089357004108394496/vid/avc1/1280x720/Yrz_eC0OJf496XC9.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089357004108394496/vid/avc1/480x270/IsB4Rg74s76zO7ZR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089357004108394496/vid/avc1/640x360/D-uvHcvHGaSsN7Wi.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089357004108394496/vid/avc1/1920x1080/T2AhEDrswt4N_Oa5.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2089358154287182228",
+        "created_at": "2026-08-18T01:59:51.000Z",
+        "display_text_range": [
+          27,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T02:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089532698562003444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1481608987087077380",
+              "start": 0,
+              "username": "qxsddofficial"
+            },
+            {
+              "end": 26,
+              "id": "2043225826301497344",
+              "start": 15,
+              "username": "XingLi0512"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089532698562003444",
+        "in_reply_to_user_id": "1481608987087077380",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089358154287182228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qxsddofficial @XingLi0512 蹦不住了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089357004108394496"
+          ]
+        },
+        "author_id": "1481608987087077380",
+        "conversation_id": "2089358154287182228",
+        "created_at": "2026-08-17T14:26:17.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089358154287182228"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "男娘"
+            },
+            {
+              "end": 111,
+              "start": 104,
+              "tag": "Chudai"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "做爱"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "2b"
+            },
+            {
+              "end": 125,
+              "start": 120,
+              "tag": "娼年贞德"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 64,
+              "id": "1481608987087077380",
+              "start": 50,
+              "username": "qxsddofficial"
+            },
+            {
+              "end": 85,
+              "id": "2043225826301497344",
+              "start": 74,
+              "username": "XingLi0512"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7FDorEwJ2c",
+              "end": 149,
+              "expanded_url": "https://x.com/qxsddofficial/status/2089358154287182228/video/1",
+              "media_key": "13_2089357004108394496",
+              "start": 126,
+              "url": "https://t.co/7FDorEwJ2c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089358154287182228",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089357004108394496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 5643,
+          "like_count": 353,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "和星璃的doi大作战！ep4完结篇\n大牛2b把娼年贞德的腿轻轻抬起，随即将其怼在桌子上猛攻！\n2B：@qxsddofficial（本人）\n娼年贞德：@XingLi0512\n5min18s长视频福利！\n#男娘 #Chudai #做爱 #2b #娼年贞德 https://t.co/7FDorEwJ2c"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "is_identity_verified": false,
+        "location": "互聯網",
+        "most_recent_tweet_id": "2089532698562003444",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3244048580/1752379681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2957,
+          "following_count": 966,
+          "like_count": 60971,
+          "listed_count": 6,
+          "media_count": 160,
+          "tweet_count": 4519
+        },
+        "url": "",
+        "username": "y2kstarrychan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-13T12:48:35.000Z",
+        "description": "Blitz⚡Zenon | Ball Lightning Boy 中文/ENGLISH 正太奶弟：@qiuxingsdd 174cm/64kg/17cm/4.2cm 男高模子：@SDNMQX雌小鬼：@qxsddsama无糖，双性恋，属性1 常驻江浙沪（上海） 门槛🚪88 zfb口令红包/vx赞赏码，不卖图包，不接非绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "qiuxingsdd"
+              },
+              {
+                "end": 95,
+                "start": 88,
+                "username": "SDNMQX"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "qxsddsama"
+              }
+            ]
+          }
+        },
+        "id": "1481608987087077380",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089436693611065782",
+        "name": "球形闪电电official",
+        "pinned_tweet_id": "2089358154287182228",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915617905229914113/vJgP6_Kp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17425,
+          "following_count": 470,
+          "like_count": 402,
+          "listed_count": 52,
+          "media_count": 56,
+          "tweet_count": 422
+        },
+        "url": "",
+        "username": "qxsddofficial",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-12T07:29:08.000Z",
+        "description": "旧号被封的涩涩小男娘╭(╯3╰)╮，有对象，175/65 可接推广",
+        "id": "2043225826301497344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088993940053934333",
+        "name": "星璃（重生求互推）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043225826301497344/1775982727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043244372419112960/8csQJKGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2953,
+          "following_count": 241,
+          "like_count": 402,
+          "listed_count": 9,
+          "media_count": 9,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "XingLi0512",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
