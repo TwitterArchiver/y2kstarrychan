@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094677814028926976"
+      ]
+    },
+    "author_id": "3244048580",
+    "conversation_id": "2094646809562095873",
+    "created_at": "2026-09-01T06:44:43.000Z",
+    "display_text_range": [
+      10,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T07:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094677817652854798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QKcxP3C1r5",
+          "end": 34,
+          "expanded_url": "https://x.com/y2kstarrychan/status/2094677817652854798/photo/1",
+          "media_key": "3_2094677814028926976",
+          "start": 11,
+          "url": "https://t.co/QKcxP3C1r5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094677817652854798",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2094677814028926976"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094646809562095873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama https://t.co/QKcxP3C1r5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2094677814028926976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHKX7AWAAAzoZ1.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2094646802389794816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRGuKzpaAAAhp8R.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094677814028926976"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "2094646809562095873",
+        "created_at": "2026-09-01T06:44:43.000Z",
+        "display_text_range": [
+          10,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T07:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094677817652854798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QKcxP3C1r5",
+              "end": 34,
+              "expanded_url": "https://x.com/y2kstarrychan/status/2094677817652854798/photo/1",
+              "media_key": "3_2094677814028926976",
+              "start": 11,
+              "url": "https://t.co/QKcxP3C1r5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094677817652854798",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2094677814028926976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094646809562095873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama https://t.co/QKcxP3C1r5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094646802389794816"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2094646809562095873",
+        "created_at": "2026-09-01T04:41:30.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094646809562095873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/spoDV2JD1W",
+              "end": 23,
+              "expanded_url": "https://x.com/smiroyama/status/2094646809562095873/photo/1",
+              "media_key": "3_2094646802389794816",
+              "start": 0,
+              "url": "https://t.co/spoDV2JD1W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094646809562095873",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2094646802389794816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 851,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/spoDV2JD1W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "is_identity_verified": false,
+        "location": "互聯網",
+        "most_recent_tweet_id": "2094677817652854798",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3244048580/1752379681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3169,
+          "following_count": 1006,
+          "like_count": 63348,
+          "listed_count": 6,
+          "media_count": 162,
+          "tweet_count": 4532
+        },
+        "url": "",
+        "username": "y2kstarrychan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "猫猫主人:@NanoCatfish\nBestie:@qianxunchan Sisters:@tangeorange @StarryNocts @Huang_Yut1ng @fukui_p26\nDeveloping https://t.co/pJ9VtdukHG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "NanoCatfish"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "tangeorange"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 85,
+                "start": 72,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 131,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 108,
+                "url": "https://t.co/pJ9VtdukHG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDnS6s"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094665837064212982",
+        "name": "寻寻",
+        "pinned_tweet_id": "2084650884575985701",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1982449259774656512/1784339298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078298418834018304/5_bmbU-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8104,
+          "following_count": 2814,
+          "like_count": 15652,
+          "listed_count": 16,
+          "media_count": 2679,
+          "tweet_count": 10183
+        },
+        "url": "https://t.co/YPl1rDnS6s",
+        "username": "smiroyama",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
