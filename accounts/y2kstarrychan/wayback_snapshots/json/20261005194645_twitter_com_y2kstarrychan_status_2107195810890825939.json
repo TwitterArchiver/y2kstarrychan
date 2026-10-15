@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2107091144010265022",
+    "created_at": "2026-10-05T19:46:45.000Z",
+    "display_text_range": [
+      23,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T20:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107195810890825939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1794569354597793792",
+          "start": 0,
+          "username": "lockloveovo"
+        },
+        {
+          "end": 22,
+          "id": "1732724006787420160",
+          "start": 13,
+          "username": "Venti718"
+        },
+        {
+          "end": 38,
+          "id": "1918274202580467713",
+          "start": 23,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107195810890825939",
+    "in_reply_to_user_id": "1794569354597793792",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107146601013694951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lockloveovo @Venti718 @CyberKanjousen"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2107091144010265022",
+        "created_at": "2026-10-05T19:46:45.000Z",
+        "display_text_range": [
+          23,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T20:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107195810890825939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1794569354597793792",
+              "start": 0,
+              "username": "lockloveovo"
+            },
+            {
+              "end": 22,
+              "id": "1732724006787420160",
+              "start": 13,
+              "username": "Venti718"
+            },
+            {
+              "end": 38,
+              "id": "1918274202580467713",
+              "start": 23,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107195810890825939",
+        "in_reply_to_user_id": "1794569354597793792",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107146601013694951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lockloveovo @Venti718 @CyberKanjousen"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794569354597793792",
+        "conversation_id": "2107091144010265022",
+        "created_at": "2026-10-05T16:31:13.000Z",
+        "display_text_range": [
+          10,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T17:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107146601013694951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1732724006787420160",
+              "start": 0,
+              "username": "Venti718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107146601013694951",
+        "in_reply_to_user_id": "1732724006787420160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 762,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107091144010265022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Venti718 谁他妈在面基的时候做爱啊（）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "is_identity_verified": false,
+        "location": "互聯網",
+        "most_recent_tweet_id": "2107195810890825939",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3244048580/1752379681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3170,
+          "following_count": 1092,
+          "like_count": 69855,
+          "listed_count": 6,
+          "media_count": 164,
+          "tweet_count": 4542
+        },
+        "url": "",
+        "username": "y2kstarrychan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-26T03:21:00.000Z",
+        "description": "男｜zh-cn🇨🇳｜初三｜进步保守主义（建制？)｜爱玩三角洲和看少女乐队番｜喜怒无常乐子人\nqq空间（bushi）：https://t.co/lUzu6rW4L0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/locklove947",
+                "end": 81,
+                "expanded_url": "https://telegram.me/locklove947",
+                "start": 58,
+                "url": "https://t.co/lUzu6rW4L0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lockloveovo",
+                "end": 23,
+                "expanded_url": "http://telegram.me/lockloveovo",
+                "start": 0,
+                "url": "https://t.co/YnKeIlwMSl"
+              }
+            ]
+          }
+        },
+        "id": "1794569354597793792",
+        "is_identity_verified": true,
+        "location": "你家",
+        "most_recent_tweet_id": "2107165518717436174",
+        "name": "不知道起啥名",
+        "pinned_tweet_id": "2093736857569997221",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794569354597793792/1751375753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075495501156290560/d4HzXytJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 604,
+          "like_count": 3473,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1592
+        },
+        "url": "https://t.co/YnKeIlwMSl",
+        "username": "lockloveovo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T11:29:57.000Z",
+        "description": "高三/友跨/简中/繁中/English/欢迎互fo/Ciallo～\n\n提问箱:https://t.co/vNDxyQS6xP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ask.akiyamamio.one",
+                "end": 62,
+                "expanded_url": "http://ask.akiyamamio.one",
+                "start": 39,
+                "url": "https://t.co/vNDxyQS6xP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.akiyamamio.one",
+                "end": 23,
+                "expanded_url": "https://blog.akiyamamio.one",
+                "start": 0,
+                "url": "https://t.co/xkPNWUKzhs"
+              }
+            ]
+          }
+        },
+        "id": "1732724006787420160",
+        "is_identity_verified": false,
+        "location": "Beijing",
+        "most_recent_tweet_id": "2107132889171390626",
+        "name": "澪老师不是零老师",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732724006787420160/1755168073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009901557371056129/NtoWVt0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 2536,
+          "like_count": 26066,
+          "listed_count": 2,
+          "media_count": 674,
+          "tweet_count": 8620
+        },
+        "url": "https://t.co/xkPNWUKzhs",
+        "username": "Venti718",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2107112824354873675",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104975397016219648/zuGLMOkY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21851,
+          "following_count": 891,
+          "like_count": 37318,
+          "listed_count": 33,
+          "media_count": 3440,
+          "tweet_count": 14526
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

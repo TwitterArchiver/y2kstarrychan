@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3244048580",
+    "conversation_id": "2108039226449445349",
+    "created_at": "2026-10-08T04:22:26.000Z",
+    "display_text_range": [
+      9,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T05:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108050360447197292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1790006276162048000",
+          "start": 0,
+          "username": "iCosint"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108050360447197292",
+    "in_reply_to_user_id": "1790006276162048000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108039226449445349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iCosint 少了12.7×55mm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_2108039210146131968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUFCfiVa8AAXhWm.jpg",
+        "width": 1010
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244048580",
+        "conversation_id": "2108039226449445349",
+        "created_at": "2026-10-08T04:22:26.000Z",
+        "display_text_range": [
+          9,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T05:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108050360447197292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1790006276162048000",
+              "start": 0,
+              "username": "iCosint"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108050360447197292",
+        "in_reply_to_user_id": "1790006276162048000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108039226449445349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iCosint 少了12.7×55mm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108039210146131968"
+          ]
+        },
+        "author_id": "1790006276162048000",
+        "conversation_id": "2108039226449445349",
+        "created_at": "2026-10-08T03:38:11.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T04:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108039226449445349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kcxJj2u0vu",
+              "end": 33,
+              "expanded_url": "https://x.com/iCosint/status/2108039226449445349/photo/1",
+              "media_key": "3_2108039210146131968",
+              "start": 10,
+              "url": "https://t.co/kcxJj2u0vu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108039226449445349",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108039210146131968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果子弹是小萝莉呢 https://t.co/kcxJj2u0vu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "is_identity_verified": false,
+        "location": "互聯網",
+        "most_recent_tweet_id": "2108050360447197292",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3244048580/1752379681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3224,
+          "following_count": 1105,
+          "like_count": 70554,
+          "listed_count": 6,
+          "media_count": 164,
+          "tweet_count": 4543
+        },
+        "url": "",
+        "username": "y2kstarrychan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-13T13:08:58.000Z",
+        "description": "🎂 08/06\n🎮 GTAV Minecraft RFS \n💻 OIer(已退役)\n🗺️ 浙江 Native\n生活号 @Triple_Catvur",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 59,
+                "username": "Triple_Catvur"
+              }
+            ]
+          }
+        },
+        "id": "1790006276162048000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108039226449445349",
+        "name": "氯化铵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1790006276162048000/1786600030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088471262914064384/-Hi973kG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 728,
+          "like_count": 35750,
+          "listed_count": 3,
+          "media_count": 375,
+          "tweet_count": 7993
+        },
+        "url": "",
+        "username": "iCosint",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
